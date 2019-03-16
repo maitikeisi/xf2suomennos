@@ -83,10 +83,10 @@
   <phrase title="approve_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hyväksy viestiketju]]></phrase>
   <phrase title="approve_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hyväksy viestiketjut]]></phrase>
   <phrase title="approved_sites" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Hyväksystyt sivustot]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_forums" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Oletko varma, että haluat lopettaa kaikkien osioiden sähköposti-ilmoitukset?]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma että haluat lopettaa ilmoitukset sähköpostitse kaikista viestiketjuista?]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_forum" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Oletko varma, että haluat lopettaa tämän osion sähköposti-ilmoitukset?]]></phrase>
-  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma että haluat lopettaa sähköposti ilmoitukset yhdestä viestiketjusta?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_forums" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Oletko varma, että haluat lopettaa sähköposti-ilmoitukset kaikista osioista?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_all_threads" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Oletko varma, että haluat lopettaa sähköposti-ilmoitukset kaikista viestiketjuista?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_forum" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Oletko varma, että haluat lopettaa tämän osion sähköposti-ilmoitukset?]]></phrase>
+  <phrase title="are_you_sure_you_want_to_stop_emails_for_one_thread" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Oletko varma, että haluat lopettaa sähköposti-ilmoitukset yhdestä viestiketjusta?]]></phrase>
   <phrase title="ascending" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nouseva järjestys]]></phrase>
   <phrase title="ask_me_another_time" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Kysy myöhemmin uudelleen]]></phrase>
   <phrase title="associate" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Yhdistä]]></phrase>
@@ -98,6 +98,7 @@
   <phrase title="attachment_cannot_be_shown_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tätä liitetiedostoa ei voida näyttää tällä hetkellä. Yritä uudelleen myöhemmin.]]></phrase>
   <phrase title="attachment_upload" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Liitetiedoston lataus]]></phrase>
   <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Liitetiedostot]]></phrase>
+  <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköposteja ei ole ollut mahdollista lähettää osoitteeseen {email}. Ole hyvä ja päivitä sähköpostiosoitteesi.]]></phrase>
   <phrase title="author" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tekijä]]></phrase>
   <phrase title="authy_denied" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Hyväksymispyyntö hylättiin joten emme voi kirjata sinua sisään tällä hetkellä.]]></phrase>
   <phrase title="authy_success" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Hyväksymispyyntö onnistui ja sinut on kirjattu sisään.]]></phrase>
@@ -313,12 +314,13 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="content_action" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Toimenpide julkaisulle]]></phrase>
   <phrase title="content_ip" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[IP]]></phrase>
   <phrase title="content_options" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sisältöasetukset]]></phrase>
+  <phrase title="content_type" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sisällön tyyppi]]></phrase>
   <phrase title="continue" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Lue lisää]]></phrase>
   <phrase title="continue_reading" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lue lisää...]]></phrase>
   <phrase title="conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviesti]]></phrase>
-  <phrase title="conversation_email_html_footer" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi viestiin sinun täytyy käydä sivustolla .</p>
+  <phrase title="conversation_email_html_footer" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi viestiin sinun täytyy käydä sivustolla.</p>
 
-<p class="minorText">Tämä viesti lähetettiin sinulle koska olet valinnut, että haluat ilmoituksen sähköpostiin uusista yksityisviesteistä.  <a href="{disable_link}">Lopeta sähköpostien vastaanottaminen</a>.</p>]]></phrase>
+<p class="minorText">Tämä viesti lähetettiin sinulle koska olet valinnut, että haluat ilmoituksen sähköpostiisi uusista yksityisviesteistä.  <a href="{disable_link}">Lopeta sähköpostien vastaanottaminen</a>.</p>]]></phrase>
   <phrase title="conversation_info" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviestin tiedot]]></phrase>
   <phrase title="conversation_insert_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{sender} lähetti sinulle yksityisviestin sivustolla {board}.</p>]]></phrase>
   <phrase title="conversation_insert_email_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} lähetti sinulle yksityisviestin otsikolla: "{title}"]]></phrase>
@@ -513,12 +515,12 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="email_address_you_entered_appears_have_typo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitteessa vaikuttaisi olevan kirjoitusvirhe. Yritä uudelleen.]]></phrase>
   <phrase title="email_address_you_entered_has_been_banned_by_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valitsemasi sähköpostiosoite on asetettu porttikieltoon. Yritä uudelleen.]]></phrase>
   <phrase title="email_address_you_registered_with_is_required_to_reset_your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasanan uusimiseen käytetään käyttäjätilisi sähköpostiosoitetta.]]></phrase>
-  <phrase title="email_addresses_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitteiden tulee olla yksilöllisiä. Ilmoitettu sähkpostiosoite on jo käytössä.]]></phrase>
-  <phrase title="email_changed_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username},</p>
+  <phrase title="email_addresses_must_be_unique" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiosoitteiden tulee olla yksilöllisiä. Tämä sähköpostiosoite on jo käytössä.]]></phrase>
+  <phrase title="email_changed_body_html" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p>{username},</p>
 
-<p>Sähköpostiosoitteesi sivustolla {board} vaihdettiin hiljattain tähän {new}. jos teit itse muutoksen voit huoletta ohittaa tämän viestin.</p>
+<p>Sähköpostiosoitteesi sivustolla {board} vaihdettiin hiljattain osoitteeseen {new}. jos teit muutoksen itse voit huoletta ohittaa tämän viestin.</p>
 
-<p>Jos et itse tehnyt tätä muutosta, ole hyvä ja kirjaudu sisään sivustolle sekä vaihda salasanasi ja sähköpostiosoitteesi. Jos et pysty kirjautumaan sisään, ota yhteys ylläpitoon: .</p>
+<p>Jos et tehnyt tätä muutosta, ole hyvä ja kirjaudu sisään sivustolle sekä vaihda salasanasi ja sähköpostiosoitteesi. Jos et pysty kirjautumaan sisään, ota yhteys ylläpitoon: .</p>
 
 <p>Sähköpostin muuttamisessa käytetty IP: {ip}.</p>]]></phrase>
   <phrase title="email_changed_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Sähköpostiosoite vaihdettu]]></phrase>
@@ -528,10 +530,14 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kertakäyttöinen kirjautumiskoodi on lähetetty osoitteeseen <b>{email}</b>. Käytä sitä kirjautuaksesi.]]></phrase>
   <phrase title="email_options" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sähköpostivalinnat]]></phrase>
   <phrase title="email_options_row_explain" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Löydät lisää sähköpostivalintoja <a href="{preferencesLink}">Asetuksista</a>.]]></phrase>
-  <phrase title="emails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiin]]></phrase>
+  <phrase title="email_title" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostin otsikko]]></phrase>
+  <phrase title="email_was_sent_successfully_with_no_errors" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköposti lähetetty onnistuneesti.]]></phrase>
+  <phrase title="emailing" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lähetetään sähköposteja]]></phrase>
+  <phrase title="emails" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostit]]></phrase>
   <phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upotettu youtube-soitin näkyisi tässä.]]></phrase>
   <phrase title="enable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ota käyttöön]]></phrase>
   <phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ota käyttöön ilmoitukset]]></phrase>
+  <phrase title="enable_moderation" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Ota valvontatyökalut käyttöön]]></phrase>
   <phrase title="enable_notifications" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Ota käyttöön push-ilmoitukset]]></phrase>
   <phrase title="enable_push_explain" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Push-ilmoitusten käyttöönotto vaatii tuetun laitteen. Push-ilmoitusten käyttöönotto kytkee ne vain tälle laitteelle. Jos kirjaudut ulos tältä laitteelta, sinun on otettava push-ilmoitukset uudelleen käyttöön.]]></phrase>
   <phrase title="enabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käytössä]]></phrase>
@@ -544,6 +550,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="error" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Virhe]]></phrase>
   <phrase title="error_occurred_while_connecting_with_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tapahtui virhe yrittäessä yhdistää palveluntarjoajaan {provider}. Yritä uudelleen myöhemmin.]]></phrase>
   <phrase title="error_occurred_while_connecting_with_x_error_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tapahtui virhe yhdistettäessä palveluun {provider}. Virhe: {error}]]></phrase>
+  <phrase title="errors_were_encountered_while_trying_to_send_email" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostin lähettämisessä tapahtui virhe.]]></phrase>
   <phrase title="everyone" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaikki]]></phrase>
   <phrase title="everywhere" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaikkialta]]></phrase>
   <phrase title="example" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esimerkki]]></phrase>
@@ -597,7 +604,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="followed_members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vain seuratuilta jäseniltä]]></phrase>
   <phrase title="followers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraajat]]></phrase>
   <phrase title="following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuratut]]></phrase>
-  <phrase title="following_and_ignored_users" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Seuratut ja sivuutetut jäsenet]]></phrase>
+  <phrase title="following_and_ignored_users" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Seuratut ja huomioimattomat jäsenet]]></phrase>
   <phrase title="following_members_not_found_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraavia jäseniä ei löytynyt: {members}.]]></phrase>
   <phrase title="following_tags_not_found_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraavia tunnisteita ei löytynyt: {tags}]]></phrase>
   <phrase title="following_users_not_found_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraavia jäseniä ei löytynyt: {usernames}.]]></phrase>
@@ -715,12 +722,12 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jos valittu, niin "viimeksi muokattu" tekstiä ei lisätä tämän muokkauksen yhteydessä.]]></phrase>
   <phrase title="if_specified_replace_title_that_displays_under_name_in_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jos määritettynä, tämä korvaa tittelin joka näytetään käyttjänimesi alla viesteissäsi.]]></phrase>
   <phrase title="if_you_change_your_email_you_may_need_to_reconfirm_your_account" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Jos vaihdat sähköpostiosoitettasi saatat joutua vahvistamaan käyttäjätilisi uudelleen.]]></phrase>
-  <phrase title="ignore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuuta]]></phrase>
-  <phrase title="ignore_email_if_not_requested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jos et pyytänyt tätä sähköpostia sinun ei tarvitse reagoida mitenkään.]]></phrase>
+  <phrase title="ignore" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Jätä käyttäjä huomioimatta (ignore)]]></phrase>
+  <phrase title="ignore_email_if_not_requested" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Jos et pyytänyt tätä sähköpostia voit jättää sen huomioimatta.]]></phrase>
   <phrase title="ignore_future_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Älä huomioi tulevia viestejä.]]></phrase>
-  <phrase title="ignore_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuuta {name}]]></phrase>
-  <phrase title="ignored_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuutettu jäsen]]></phrase>
-  <phrase title="ignoring" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuutetut]]></phrase>
+  <phrase title="ignore_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Jätä käyttäjä {name} huomioimatta]]></phrase>
+  <phrase title="ignored_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Piilotettu jäsen]]></phrase>
+  <phrase title="ignoring" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Piilotetut jäsenet]]></phrase>
   <phrase title="image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuva]]></phrase>
   <phrase title="inbox" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Yksityisviestit]]></phrase>
   <phrase title="incorrect_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Väärä salasana. Yritä uudelleen.]]></phrase>
@@ -799,7 +806,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="leave" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poistu]]></phrase>
   <phrase title="leave_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poistu keskustelusta]]></phrase>
   <phrase title="leave_conversation_and_accept_future_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poistu keskustelusta ja vastaanota tulevat viestit]]></phrase>
-  <phrase title="leave_conversation_and_ignore_future_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poistu keskustelusta ja sivuuta uudet viestit]]></phrase>
+  <phrase title="leave_conversation_and_ignore_future_messages" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Poistu keskustelusta huomioimatta tulevia viestejä]]></phrase>
   <phrase title="leave_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poistu keskusteluista]]></phrase>
   <phrase title="leave_permanent_redirect" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jätä pysyvä uudelleenohjaus]]></phrase>
   <phrase title="leave_rating" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Lisää arvosana]]></phrase>
@@ -1012,7 +1019,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="new_thread_in_watched_forum_x" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[{title} - Uusi viestiketju seuratussa osiossa]]></phrase>
   <phrase title="new_thread_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uusi viestiketjun otsikko]]></phrase>
   <phrase title="new_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uudet viestiketjut]]></phrase>
-  <phrase title="newer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uudempi]]></phrase>
+  <phrase title="newer" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Uudemmat]]></phrase>
   <phrase title="newer_than" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uudempi kuin]]></phrase>
   <phrase title="news_feed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uutissyöte]]></phrase>
   <phrase title="news_feed_disabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uutissyöte on poissa käytöstä. Tämä voi olla tilapäinen resurssien säästö toimenpide jos sivusto on tällä hetkellä ruuhkainen.]]></phrase>
@@ -1026,6 +1033,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="no" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei]]></phrase>
   <phrase title="no_alerts_can_be_shown" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei näytettäviä ilmotuksia. Valitse toinen sivu.]]></phrase>
   <phrase title="no_changes_have_been_logged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lokiin ei ole tallentunut yhtään muutosta.]]></phrase>
+  <phrase title="no_gravatar_found_for_specified_email_address" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiosoitteelle ei löytynyt Gravatareja.]]></phrase>
   <phrase title="no_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei kuvaa]]></phrase>
   <phrase title="no_ip_information_available" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[IP-tietoja ei ole saatavilla tälle sisällölle.]]></phrase>
   <phrase title="no_items_matched_your_filter" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Valitsemallasi suodatuksella ei löytynyt tuloksia.]]></phrase>
@@ -1102,18 +1110,18 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="participants" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osallistujat]]></phrase>
   <phrase title="password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasana]]></phrase>
   <phrase title="password_and_security" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Salasana ja turvallisuus]]></phrase>
-  <phrase title="password_changed_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username},</p>
+  <phrase title="password_changed_body_html" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p>{username},</p>
 
-<p>Salasanasi sivustolla {board} vaihdettiin lähiaikoina. Jos teit muutoksen itse, voit huoletta sivuuttaa tämän viestin.</p>
+<p>Salasanasi sivustolla {board} vaihdettiin lähiaikoina. Jos teit tämän muutoksen itse, sinun ei tarvitse huomioida tätä viestiä.</p>
 
-<p>Jos et pyytänyt muutosta, käytä 'salasana hukassa" metodia luodaksesi uuden salansanan. Jos tämä ei ole mahdollista, ole hyvä ja ota yhteyttä ylläpitoon.</p>
+<p>Mikäli et pyytänyt muutosta, käytä 'salasana hukassa' prosessia luodaksesi uusi salasana. Jos tämä ei ole mahdollista, ole hyvä ja ota yhteyttä ylläpitoon.</p>
 
 <p>Salasanan vaihtamisen yhteydessä tallennettu IP {ip}.</p>]]></phrase>
   <phrase title="password_changed_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Salasana vaihdettu]]></phrase>
   <phrase title="password_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasanan varmistus]]></phrase>
   <phrase title="password_of_x_account_wish_to_associate_with" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämän on salasana sivuston {board_title} käyttäjätilille jonka kanssa haluat yhdistää tilin.]]></phrase>
   <phrase title="password_reset_confirmation_will_be_emailed_to_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ohjeet salasanan nollamiseksi lähetetään käyttäjän sähköpostiin, eivätkä he voi kirjautua sisään ennen kuin uusi salasana on määritetty.]]></phrase>
-  <phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasanan nollauspyyntö on lähetetty sähköpostiisi. Seuraa siinä kerrottuja ohjeita.]]></phrase>
+  <phrase title="password_reset_request_has_been_emailed_to_you" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Salasanan nollauspyyntö on lähetetty sähköpostiisi. Seuraa siinä annettuja ohjeita.]]></phrase>
   <phrase title="passwords_did_not_match" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasanat eivät täsmänneet. Kirjoita sama salasana molempiin kenttiin.]]></phrase>
   <phrase title="pending" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Odottaa]]></phrase>
   <phrase title="pending_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Odottavat muutokset]]></phrase>
@@ -1142,7 +1150,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="please_confirm_that_you_want_to_install_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat asentaa tämän lisäosan]]></phrase>
   <phrase title="please_confirm_that_you_want_to_lift_ban_on_following_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat perua tämän jäsenen porttikiellon]]></phrase>
   <phrase title="please_confirm_that_you_want_to_stop_following_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat lopettaa jäsnen {name} seuraamisen.]]></phrase>
-  <phrase title="please_confirm_that_you_want_to_stop_ignoring_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat lopettaa jäsenen {name} sivuuttamisen.]]></phrase>
+  <phrase title="please_confirm_that_you_want_to_stop_ignoring_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Varmista että haluat lopettaa jäsenen {name} piilottamisen.]]></phrase>
   <phrase title="please_confirm_that_you_want_to_undelete_following" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Varmista että haluat palauttaa tämän]]></phrase>
   <phrase title="please_confirm_that_you_want_to_uninstall_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat poistaa tämän lisäosan]]></phrase>
   <phrase title="please_confirm_that_you_want_to_upgrade_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat päivittää tämän lisäosan]]></phrase>
@@ -1150,9 +1158,9 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="please_confirm_that_you_wish_to_mark_following_conversation_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat merkitä tämän keskustelun lukemattomaksi]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_star_following_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat asettaa tämän keskustelun tärkeäksi]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_start_following_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat alkaa seuraamaan tätä jäsentä]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat sivuuttaa tämän jäsenen]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Varmista että haluat piilottaa tämän käyttäjän]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_following_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat lopettaa tämän käyttäjän seuraamisen]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat lopettaa tämän käyttäjän sivuuttamisen]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Varmista että haluat lopettaa tämän käyttäjän piilottamisen]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_unstar_following_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmista että haluat merkitä keskustelun ei-tärkeäksi]]></phrase>
   <phrase title="please_confirm_want_to_delete_forum_and_discussions" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Varmista että haluat poistaa osion ja kaikki sen sisältämät viestit]]></phrase>
   <phrase title="please_enable_javascript_to_continue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ole hyvä ja aktivoi JavaScript jatkaaksesi]]></phrase>
@@ -1168,7 +1176,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="please_enter_message_with_no_more_than_x_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestissäsi on liikaa upotettavia media elementtejä. Maksimimäärä {count}.]]></phrase>
   <phrase title="please_enter_name_that_does_not_contain_any_censored_words" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kirjoita nimi joka ei sisällä sensuroituja sanoja.]]></phrase>
   <phrase title="please_enter_name_that_does_not_contain_comma" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kirjoita nimi jossa ei ole pilkkua.]]></phrase>
-  <phrase title="please_enter_name_that_does_not_resemble_an_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käytä nimeä joka ei muistuta sähköpostiosoitetta.]]></phrase>
+  <phrase title="please_enter_name_that_does_not_resemble_an_email_address" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Valitse käyttäjnimi joka ei muistuta sähköpostiosoitetta.]]></phrase>
   <phrase title="please_enter_name_that_is_at_least_x_characters_long" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valitse nimi joka on ainakin {count} merkkiä pitkä.]]></phrase>
   <phrase title="please_enter_name_that_is_at_most_x_characters_long" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valitse nimi joka on korkeintaan {count} merkkiä pitkä.]]></phrase>
   <phrase title="please_enter_number_that_is_at_least_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valitse numero joka on minimissään {min}.]]></phrase>
@@ -1394,7 +1402,7 @@ Raportoitu sisältö:
   <phrase title="reported_thread_title" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Raportoitu sisältö: {title}]]></phrase>
   <phrase title="reports" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Raportoinnit]]></phrase>
   <phrase title="request_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pyydä salasana]]></phrase>
-  <phrase title="request_password_be_emailed_to_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasana lähetetään sinulle sähköpostitse]]></phrase>
+  <phrase title="request_password_be_emailed_to_you" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Pyydä että salasana lähetetään sähköpostiisi]]></phrase>
   <phrase title="requested_category_not_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haluttua kategoriaa ei löytynyt.]]></phrase>
   <phrase title="requested_comment_not_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haluttua kommenttia ei löytynyt.]]></phrase>
   <phrase title="requested_conversation_not_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haluttua keskustelua ei löytynyt.]]></phrase>
@@ -1418,7 +1426,7 @@ Raportoitu sisältö:
   <phrase title="required_fields_will_always_be_shown_during_registration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vaaditut kentät näytetään aina rekisteröitymislomakkeessa.]]></phrase>
   <phrase title="required_php_extension_x_not_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vaadittua PHP-liitännäistä {extension} ei löytynyt. Pyydä palveluntarjoajaasi asentamaan se.]]></phrase>
   <phrase title="resend_account_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lähetä vahvistusviesti uudelleen]]></phrase>
-  <phrase title="resend_confirmation_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lähetä vahvistusviesti uudelleen sähköpostitse]]></phrase>
+  <phrase title="resend_confirmation_email" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lähetä vahvistusviesti uudelleen sähköpostiisi]]></phrase>
   <phrase title="resend_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lähetä sähköposti uudelleen]]></phrase>
   <phrase title="reset" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Nollaa]]></phrase>
   <phrase title="reset_all_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mitätöi kaikki äänet]]></phrase>
@@ -1499,8 +1507,8 @@ Raportoitu sisältö:
   <phrase title="show_current_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä aktiviteettisi]]></phrase>
   <phrase title="show_day_and_month_of_birth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä syntymäpäivä ja -kuukausi]]></phrase>
   <phrase title="show_full_post_thread_editor" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näyttää täyden uuden viestiketjun editorin, jossa on mukana mahdollisuus lisätä liitteitä, luoda kyselyitä yms.]]></phrase>
-  <phrase title="show_hidden_content_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä sivuutettu sisältö jäseniltä {names}]]></phrase>
-  <phrase title="show_ignored_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä sivuutettu sisältö]]></phrase>
+  <phrase title="show_hidden_content_by_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Näytä piilotettu sisältö jäseniltä {names}]]></phrase>
+  <phrase title="show_ignored_content" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Näytä piilotettu sisältö]]></phrase>
   <phrase title="show_older_items" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä vanhemmat kohteet]]></phrase>
   <phrase title="show_online_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä paikallaolosi]]></phrase>
   <phrase title="show_only" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Suodata]]></phrase>
@@ -1522,6 +1530,7 @@ Raportoitu sisältö:
   <phrase title="sorry_you_too_young_to_create_an_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olet liian nuori rekisteröityäksesi tälle sivustolle.]]></phrase>
   <phrase title="sort" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Järjestä]]></phrase>
   <phrase title="sort_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Järjestä]]></phrase>
+  <phrase title="sort_direction" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Järjestyksen suunta]]></phrase>
   <phrase title="spam" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Roskaposti]]></phrase>
   <phrase title="spam_cleaner" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Roskapostien poisto]]></phrase>
   <phrase title="spam_cleaner_actions" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Roskapostin putsaustoiminnot]]></phrase>
@@ -1533,7 +1542,7 @@ Raportoitu sisältö:
   <phrase title="spoiler_content_hidden" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spoilerin sisältö piilotettu.]]></phrase>
   <phrase title="staff_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ylläpitäjä]]></phrase>
   <phrase title="staff_members_cannot_be_reply_banned" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Henkilökunnalle ei vo asettaa vastauskieltoa.]]></phrase>
-  <phrase title="staff_members_may_not_be_ignored" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ylläpidon jäseniä ei vo sivuuttaa.]]></phrase>
+  <phrase title="staff_members_may_not_be_ignored" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Ylläpidon jäseniä ei voi piilottaa.]]></phrase>
   <phrase title="staff_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ylläpitoa paikalla]]></phrase>
   <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normaalihaku]]></phrase>
   <phrase title="star" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Merkitse tärkeäksi]]></phrase>
@@ -1559,9 +1568,12 @@ Raportoitu sisältö:
   <phrase title="stop_emails" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Lopeta sähköpostit]]></phrase>
   <phrase title="stop_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta seuraaminen]]></phrase>
   <phrase title="stop_following_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta jäsenen {name} seuraaminen]]></phrase>
-  <phrase title="stop_ignoring" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta sivuuttaminen]]></phrase>
-  <phrase title="stop_ignoring_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta jäsenen {name} sivuuttaminen]]></phrase>
-  <phrase title="stop_notification_emails_from_x" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Lopeta kaikki sähköposti-ilmoitukset '{title}']]></phrase>
+  <phrase title="stop_ignoring" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta piilotus]]></phrase>
+  <phrase title="stop_ignoring_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta jäsenen {name} piilotus]]></phrase>
+  <phrase title="stop_notification_emails_from_all_categories" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta kaikkien kategorioiden sähköposti-ilmoitukset.]]></phrase>
+  <phrase title="stop_notification_emails_from_all_threads" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta kaikkien viestiketjujen sähköposti-ilmoitukset.]]></phrase>
+  <phrase title="stop_notification_emails_from_conversations" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta yksityisviestien sähköposti-ilmoitukset.]]></phrase>
+  <phrase title="stop_notification_emails_from_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta sähköposti-ilmoitukset '{title}']]></phrase>
   <phrase title="stop_trusting_other_devices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta muiden laitteiden luottaminen]]></phrase>
   <phrase title="stop_trusting_this_device" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta tämän laitteen luottaminen]]></phrase>
   <phrase title="stop_watching_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta viestiketjujen seuraaminen]]></phrase>
@@ -1724,9 +1736,9 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
 
 <p>Kirjautumisen yhteydessä käytetty IP {ip}. Jos et itse kirjautunut sisään, tulisi sinun vaihtaa salasanasi mahdollisimman nopeasti.</p>]]></phrase>
   <phrase title="two_step_backup_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Kirjautuminen varakoodilla]]></phrase>
-  <phrase title="two_step_email_body_html1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username},</p>
+  <phrase title="two_step_email_body_html1" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p>{username},</p>
 
-<p>Suorittaaksesi kirjautumumisen loppuun (tai vahvistaaksesi kaksivaiheisen tunnistautumisen käyttöönoton) sivustolla {board}, tulee sinun syöttää seuraava koodi:</p>]]></phrase>
+<p>Suorittaaksesi kirjautumisen loppuun (tai vahvistaaksesi kaksivaiheisen tunnistautumisen käyttöönoton) sivustolla {board}, tulee sinun syöttää seuraava koodi:</p>]]></phrase>
   <phrase title="two_step_email_body_html2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>Tämä koodi on käytettävissä 15 minuutin ajan.</p>
 
 <p>Tätä kirjautumista pyydettiin IP:stä {ip}. Jos et itse pyytänyt tätä, suosittelemme vaihtamaan salasanan mahdollisimman nopeasti.</p>]]></phrase>
@@ -1761,7 +1773,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="unfortunately_report_made_recently_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lähiaikoina lähettämäsi viesti on hylätty: {title}]]></phrase>
   <phrase title="unfortunately_report_made_recently_rejected_comment_x" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Lähiaikoina tekemäsi raportointi on hylätty: {title} - {comment}]]></phrase>
   <phrase title="ungrouped" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Luokittelemattomat]]></phrase>
-  <phrase title="unignore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lopeta sivuutus]]></phrase>
+  <phrase title="unignore" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lopeta piilotus]]></phrase>
   <phrase title="unit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksikkö]]></phrase>
   <phrase title="units_characters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merkit]]></phrase>
   <phrase title="unknown" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuntematon]]></phrase>
@@ -1818,8 +1830,8 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="user_account_rejected_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjätili hylätty sivustolle {board_title}]]></phrase>
   <phrase title="user_birthday_is_today" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jäsenen syntymäpäivä on tänään]]></phrase>
   <phrase title="user_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjätiedot]]></phrase>
-  <phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}, suorittaaksesi rekisteröitymisen loppuun sivustolla {board}, tulee sinun varmistaa sähköpostiosoitteesi klikkaamlalla alla olevaa linkkiä.</p>]]></phrase>
-  <phrase title="user_email_confirmation_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - Käyttäjätilin varmistus]]></phrase>
+  <phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p>{username}, suorittaaksesi rekisteröitymisen loppuun sivustolla {board}, tulee sinun vahvistaa sähköpostiosoitteesi klikkaamlalla alla olevaa linkkiä.</p>]]></phrase>
+  <phrase title="user_email_confirmation_subject" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[{boardTitle} - Käyttäjätilin vahvistus]]></phrase>
   <phrase title="user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjäryhmä]]></phrase>
   <phrase title="user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjäryhmät]]></phrase>
   <phrase title="user_has_at_least_x_trophy_points" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Jäsenellä on ainakin X palkintopistettä]]></phrase>
@@ -1847,7 +1859,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="users_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiiviset jäsenet]]></phrase>
   <phrase title="users_logged_at_ip_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jäsenet jotka ovat kirjatuneet IP:stä {ip}]]></phrase>
   <phrase title="value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arvo]]></phrase>
-  <phrase title="value_x_is_not_valid_email_address" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[{email} ei ole pätevä sähköpostiosoite.]]></phrase>
+  <phrase title="value_x_is_not_valid_email_address" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[{email} ei ole hyväksyttävä sähköpostiosoite.]]></phrase>
   <phrase title="verification" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmistus]]></phrase>
   <phrase title="verification_backup_codes_automatically_generated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmistuksen varakoodit on luotu automaattisesti. Kutakin koodia voidaan käyttää kertaalleen siinä tapauksessa, että sinulla ei ole mahdollsuutta käyttää toissijaista tunnistautumistapaa. Nämä koodit tulisi säilyttää hyvässä tallessa.]]></phrase>
   <phrase title="verification_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmistuskoodi]]></phrase>
@@ -1910,20 +1922,20 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="watch_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraa viestiketjua]]></phrase>
   <phrase title="watched_categories" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Seuratut kategoriat]]></phrase>
   <phrase title="watched_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Seurattu sisältö]]></phrase>
-  <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi sinun täytyy vierailla sivustolla.</p>
+  <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi sinun täytyy vierailla sivustolla.</p>
 
-<p class="minorText">Tämä viesti lähetettiin sinulle koska olet valinnut, että sinulle lähetetään sähköpostiisi ilmoitus uusista viestiketjuista tai viesteistä jotka tulevat seuraamallesi osiolle "{node_title}" sivustolla {board]. Et saa uusia sähköposteja tähän viestiketjuun liittyen kunnes olet käynyt lukemassa uudet viestit.</p>
+<p class="minorText">Tämä viesti lähetettiin sinulle koska olet valinnut, että sinulle lähetetään sähköpostiisi ilmoitus uusista viestiketjuista tai viesteistä, jotka tulevat seuraamallesi osiolle "{node_title}" sivustolla {board]. Et saa uusia sähköposteja tähän viestiketjuun liittyen kunnes olet käynyt lukemassa uudet viestit.</p>
 
 <p class="minorText">Jos et enää halua vastaanottaa näitä viestejä, voit lopettaa <a href="{disable_this_link}">tästä osiosta tulevat sähköpostiviestit </a> tai <a href="{disable_all_link}">lopettaa kaikkien osioiden sähköpostiviestit</a>.</p>]]></phrase>
   <phrase title="watched_forum_message_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} lähetti uuden viestin seuraamaasi osioon sivustolla {board}.</p>]]></phrase>
   <phrase title="watched_forum_thread_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} lähetti uuden viestiketjun seuraamaasi osioon sivustolla {board}.</p>]]></phrase>
   <phrase title="watched_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuratut osiot]]></phrase>
-  <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi sinun täytyy vierailla sivustolla.</p>
+  <phrase title="watched_thread_email_html_footer" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi sinun täytyy vierailla sivustolla.</p>
 
-<p class="minorText">Tämä viesti lähetettiin sinulle koska olet valinnut, että halaut sähköpostiisi ilmoituksen uusista viesteistä jotka tulevat seuraamaasi viesiketjuun {thread} sivustolla {board]. Et saa uusia sähköposteja tähän viestiketjuun liittyen kunnes olet käynyt lukemassa uudet viestit.</p>
+<p class="minorText">Tämä viesti lähetettiin sinulle koska olet valinnut, että haluat sähköpostiisi ilmoituksen uusista viesteistä, jotka tulevat seuraamaasi viesiketjuun {thread} sivustolla {board]. Et saa uusia sähköposteja tähän viestiketjuun liittyen ennenkuin olet käynyt lukemassa uudet viestit.</p>
 
-<p class="minorText">Jos et enää halua vastaanottaa näitä viestejä, voit lopettaa <a href="{disable_this_link}">tähän viesiketjuun liittyvät sähköpostit </a> tai <a href="{disable_all_link}">lopettaa kaikki sähköpostiviestit</a>.</p>]]></phrase>
-  <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{replier} vastasi seuraamaasi viestiketjuun sivustolla {board}.</p>]]></phrase>
+<p class="minorText">Jos et enää halua vastaanottaa näitä viestejä, voit lopettaa <a href="{disable_this_link}">tähän viestiketjuun liittyvät sähköpostit </a> tai <a href="{disable_all_link}">lopettaa kaikki sähköpostiviestit</a>.</p>]]></phrase>
+  <phrase title="watched_thread_reply_email_html" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[<p>{replier} vastasi seuraamaasi viestiketjuun sivustolla {board}.</p>]]></phrase>
   <phrase title="watched_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuratut viestiketjut]]></phrase>
   <phrase title="we_strongly_recommend_enabling_push_notifications" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Suosittelemme ottamaan käyttöön push-ilmoitukset jotta pysyt ajan tasalla sivuston toiminnoista.
 ]]></phrase>
@@ -2014,9 +2026,9 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="yes_with_email" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kyllä, ilmoitus myös sähköpostiin]]></phrase>
   <phrase title="yesterday_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eilen klo {time}]]></phrase>
   <phrase title="you_already_following_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraat jo tätä jäsentä.]]></phrase>
-  <phrase title="you_already_ignoring_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olet jo sivuuttanut tämän jäsenen.]]></phrase>
+  <phrase title="you_already_ignoring_this_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Olet jo piilottanut tämän jäsenen.]]></phrase>
   <phrase title="you_already_logged_in" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Olet jo kirjautuneena. Klikkaa <a href="{link}">tästä</a> palataksesi osiolistaukseen.]]></phrase>
-  <phrase title="you_are_ignoring_content_by_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Olet sivuuttanut tämän jäsenen sisällön.]]></phrase>
+  <phrase title="you_are_ignoring_content_by_this_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Olet piilottanut tämän jäsenen tuottaman sisällön.]]></phrase>
   <phrase title="you_are_no_longer_able_to_reply_thread_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi enää vastata viestiketjuun {title}.]]></phrase>
   <phrase title="you_are_using_out_of_date_browser_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käytät vanhentunutta selainta. Kyseinen selain ei pakosti näytä tätä tai muita sivustoja oikein. Sinun tulisi päivittää selaimesi tai käyttää <a href="https://www.google.com/chrome/browser/" target="_blank">vaihtoehtoista selainta.</a>.]]></phrase>
   <phrase title="you_can_not_start_conversation_with_following_users_because_of_privacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi lähettää yksityisviestiä käyttäjille {usernames} koska heidän yksityisyysasetukset eivät salli sitä.]]></phrase>
@@ -2041,7 +2053,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="you_may_not_create_new_tags_please_change_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi luoda uusia tunnisteita. Vaihda seuraava tunniste: {tags}]]></phrase>
   <phrase title="you_may_not_dismiss_this_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi poistaa tätä ilmoitusta.]]></phrase>
   <phrase title="you_may_not_follow_yourself" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi seurata itseäsi.]]></phrase>
-  <phrase title="you_may_not_ignore_yourself" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi sivuuttaa itseäsi.]]></phrase>
+  <phrase title="you_may_not_ignore_yourself" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Et voi piilottaa itseäsi.]]></phrase>
   <phrase title="you_may_not_merge_tag_with_itself" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi yhdistää tunnistetta itsensä kanssa.]]></phrase>
   <phrase title="you_may_not_perform_this_action_because_discussion_is_closed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi suorittaa tätä toimenpidettä koska keskustelu on suljettu.]]></phrase>
   <phrase title="you_may_not_perform_this_action_because_forum_does_not_allow_posting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi suorittaa tätä toimenpidettä koska osio ei salli viestien kirjoittamista.]]></phrase>
@@ -2053,7 +2065,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="you_may_only_apply_x_tags_to_this_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit määrittää korkeintaan {count} tunnistettä tälle sisällölle.]]></phrase>
   <phrase title="you_may_only_attach_x_files" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit liittää korkeintaan {count} tiedostoa.]]></phrase>
   <phrase title="you_may_only_follow_x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit seurata korkeintaan {count} jäsentä.]]></phrase>
-  <phrase title="you_may_only_ignore_x_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit sivuuttaa korkeintaan {count} jäsentä.]]></phrase>
+  <phrase title="you_may_only_ignore_x_people" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Voit piilottaa maksimissaan {count} jäsentä.]]></phrase>
   <phrase title="you_may_only_invite_x_members_to_join_this_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit kutsua korkeintaan {count} jäsentä tähän keskusteluun.]]></phrase>
   <phrase title="you_may_select_up_to_x_choices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit valita korkeintaan {max} vaihtoehtoa.]]></phrase>
   <phrase title="you_may_use_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit käyttää BB-koodia]]></phrase>
@@ -2068,7 +2080,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="you_must_verify_existing_password_before_changing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Turvallisuussyistä sinun täytyy ensin vahvistaa nykyinen salasanasi ennenkuin voit vaihtaa sen.]]></phrase>
   <phrase title="you_not_currently_able_to_follow_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi tällä hetkellä seurata tätä käyttäjää.]]></phrase>
   <phrase title="you_not_currently_following_any_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et seuraa tällä hetkellä yhtäkään jäsentä.]]></phrase>
-  <phrase title="you_not_currently_ignoring_any_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et sivuuta tällä hetkellä yhtään jäsentä.]]></phrase>
+  <phrase title="you_not_currently_ignoring_any_members" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Et ole piilottanut yhtään käyttäjää.]]></phrase>
   <phrase title="you_not_watching_any_categories" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Et seuraa yhtään osiota.]]></phrase>
   <phrase title="you_not_watching_any_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et seuraa yhtään osiota.]]></phrase>
   <phrase title="you_not_watching_any_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et seuraa yhtään viestiketjua.]]></phrase>
@@ -2090,7 +2102,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="you_sure_you_want_to_prefix_x_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat lisätä allaolevan etuliitteen {count} valittuun viestiketjuun?]]></phrase>
   <phrase title="you_sure_you_want_to_re_enable_previously_disabled_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat ottaa käyttöön aiemmin pois käytöstä otetut lisäosat?]]></phrase>
   <phrase title="you_sure_you_want_to_remove_your_reaction" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Oletko varma että haluat poistaa reaktiosi?]]></phrase>
-  <phrase title="you_sure_you_want_to_stop_all_emails_from_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat lopettaa kaikki saapuvat sähköpostit sivustolta {board_title}?]]></phrase>
+  <phrase title="you_sure_you_want_to_stop_all_emails_from_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Oletko varma, että haluat lopettaa kaikki sähköposti-ilmoitukset sivustolta {board_title}?]]></phrase>
   <phrase title="you_sure_you_want_to_stop_watching_all_forums" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Oletko varma että haluat lopettaa <b>kaikkien</b> osioiden seuraamisen?]]></phrase>
   <phrase title="you_sure_you_want_to_stop_watching_all_threads" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Oletko varma, että haluat lopettaa <b>kaikkien</b> viestiketjujen seuraamisen?]]></phrase>
   <phrase title="you_sure_you_want_to_unlike_this_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat poistaa tykkäyksen?]]></phrase>
@@ -2126,12 +2138,12 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="your_conversation_was_started_with_x_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviesiketju aloitettu {sent} käyttäjän kanssa.]]></phrase>
   <phrase title="your_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitteesi]]></phrase>
   <phrase title="your_email_cannot_be_changed_while_your_account_does_not_have_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitetta ei voi vaihtaa ennen kuin käyttäjätilillesi on määritetty salasana.]]></phrase>
-  <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sähköpostiosoitettasi ei voitu varmistaa. Ole hyvä ja käytä vahvistusviestin uudelleenlähetystä sekä seuraa ohjeita.]]></phrase>
+  <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiosoitettasi ei voitu varmistaa. Ole hyvä ja käytä vahvistusviestin uudelleenlähetystä ja seuraa ohjeita.]]></phrase>
   <phrase title="your_email_has_been_confirmed_and_your_account_is_now_fully_active_again" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitteesi on varmistettu ja käyttäjätilisi on jälleen käytettävissä.]]></phrase>
-  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitteesi on varmistettu ja rekisteröinti on nyt valmis.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiosoitteesi on varmistettu ja rekisteröityminen on nyt valmis.]]></phrase>
   <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sähköpostiosoitteesi on varmistettu. Ylläpidon täytyy vielä hyväksyä rekisteröitymisesi ennen kuin tilisi aktivoidaan. Saat ilmoituksen sähköpostiisi kun päätös on tehty.]]></phrase>
-  <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiosoitetta ei voi vaitaa tällä hetkellä.]]></phrase>
-  <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostiviestien valinnat päivitetty.]]></phrase>
+  <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiosoitettasi ei voi vaihtaa tällä hetkellä.]]></phrase>
+  <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiviesti-ilmoitusten valinnat päivitetty.]]></phrase>
   <phrase title="your_email_was_sent_to_x_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostisi lähetettiin {sent} käyttäjälle.]]></phrase>
   <phrase title="your_existing_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nykyinen salasanasi]]></phrase>
   <phrase title="your_existing_password_is_not_correct" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nykyinen salasana oli väärä.]]></phrase>
@@ -2140,7 +2152,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="your_message_has_been_posted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viesti lähetetty.]]></phrase>
   <phrase title="your_message_has_been_sent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestisi on lähetetty.]]></phrase>
   <phrase title="your_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nimesi]]></phrase>
-  <phrase title="your_name_or_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjänimi tai sähköpostiosoite]]></phrase>
+  <phrase title="your_name_or_email_address" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Käyttäjänimi tai sähköposti]]></phrase>
   <phrase title="your_news_feed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uutissyöte]]></phrase>
   <phrase title="your_news_feed_is_currently_empty" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uutissyötteesi on tällä hetkellä tyhjä.]]></phrase>
   <phrase title="your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salasanasi]]></phrase>
@@ -2152,7 +2164,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="your_posts_in_thread_x_were_merged_together" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Viestisi ketjussa {source} yhdistettiin toisiinsa.]]></phrase>
   <phrase title="your_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profiilisi]]></phrase>
   <phrase title="your_profile_post_for_x_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Profiiliviestisi jäsenelle {user} poistettiin.]]></phrase>
-  <phrase title="your_profile_post_has_been_posted" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Profiiviestisi on lähetetty.]]></phrase>
+  <phrase title="your_profile_post_has_been_posted" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Profiiliviestisi on lähetetty.]]></phrase>
   <phrase title="your_profile_post_on_xs_profile_was_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestiäsi jäsenen {user} profiilissa muokattiin.]]></phrase>
   <phrase title="your_signature_is_x_characters_too_long" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allekirjoituksesi on {count} merkkiä liian pitkä.]]></phrase>
   <phrase title="your_signature_is_x_liness_too_long" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allekirjoituksesi on {count} riviä liian pitkä.]]></phrase>
