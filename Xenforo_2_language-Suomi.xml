@@ -722,6 +722,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="help_page_title.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hymiöt]]></phrase>
   <phrase title="help_page_title.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttöehdot]]></phrase>
   <phrase title="help_page_title.trophies" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Palkinnot]]></phrase>
+  <phrase title="help_pages" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Tukisivut]]></phrase>
   <phrase title="history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Historia]]></phrase>
   <phrase title="hits" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osumia]]></phrase>
   <phrase title="home" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Etusivu]]></phrase>
@@ -883,6 +884,9 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="mark_forums_read" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Merkitse osiot luetuksi]]></phrase>
   <phrase title="mark_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merkitse luetuksi]]></phrase>
   <phrase title="mark_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Merkitse lukemattomaksi]]></phrase>
+  <phrase title="matched_threads" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Löytyneet viestiketjut]]></phrase>
+  <phrase title="matched_users" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Löytyneet jäsenet]]></phrase>
+  <phrase title="matched_x_users" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Löytyi {count} jäsentä.]]></phrase>
   <phrase title="maximum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimi]]></phrase>
   <phrase title="maximum_selectable_responses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maksimimäärä äänestysvalintoja]]></phrase>
   <phrase title="maximum_selectable_responses_value_may_not_be_reduced" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestysvalintojen maksimimäärää ei voi vähentää.]]></phrase>
@@ -1063,6 +1067,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="no_permission_to_post" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Sinulla ei ole tarvittavia oikeuksia viestiketjun luomiseen.]]></phrase>
   <phrase title="no_permission_to_reply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinulla ei ole tarvittavia oikeuksia voidaksesi vastata.]]></phrase>
   <phrase title="no_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei etuliitettä]]></phrase>
+  <phrase title="no_records_matched" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Ei tuloksia.]]></phrase>
   <phrase title="no_reports_have_been_closed_during_this_period" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tältä ajalta ei ole suljettuja raportteja.]]></phrase>
   <phrase title="no_responses_will_be_allowed" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Vastauksia ei sallita.]]></phrase>
   <phrase title="no_results_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuloksia ei löytynyt.]]></phrase>
@@ -1074,6 +1079,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="no_thread_prefixes_available_for_selected_forums" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Viestiketjun etuliitteitä ei ole valittavissa näille osioille.]]></phrase>
   <phrase title="no_unread_posts_view_latest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinulla ei ole lukemattomia viestejä. Voit halutessasi <a href="{link}" rel="nofollow">selata uusimpia viestejä</a>.]]></phrase>
   <phrase title="no_users_logged_at_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yhtään jäsentä ei ole havaittu kyseisestä IP:stä.]]></phrase>
+  <phrase title="no_users_matched_specified_criteria" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Yksikään jäsen ei täyttänyt määriteltyjä kriteerejä.]]></phrase>
   <phrase title="nobody" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei kukaan]]></phrase>
   <phrase title="none" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei mitään]]></phrase>
   <phrase title="noon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Keskipäivä]]></phrase>
@@ -1534,7 +1540,7 @@ Raportoitu sisältö:
   <phrase title="show_older_items" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä vanhemmat kohteet]]></phrase>
   <phrase title="show_online_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä paikallaolosi]]></phrase>
   <phrase title="show_only" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Suodata]]></phrase>
-  <phrase title="show_peoples_signatures_with_their_messages" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näytä jäsenten allekirjoitukset heidän viesteissään.]]></phrase>
+  <phrase title="show_peoples_signatures_with_their_messages" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Näytä jäsenten allekirjoitukset heidän viesteissään.]]></phrase>
   <phrase title="show_signatures_with_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä allekirjoitukset viesteissä]]></phrase>
   <phrase title="show_year_of_birth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä syntymävuosi]]></phrase>
   <phrase title="show_your_current_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä aktiviteettisi]]></phrase>
