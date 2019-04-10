@@ -5,4 +5,4 @@ Ylläpitopaneelia ei ole käännetty juuri ollenkaan, mutta muuten pitäisi olla
 Käännöskukkasia, suomentamattomia kohtia sekä huonoja suomennoksia löytyy varmaan, joten mahdollisista parannusehdotukset otetaan kiitollisena vastaan. Jos intoudut kääntämään ylläpitopaneelia tai muita suomentamattomia kohtia, niin mielelläni ottaisin suomennokset vastaan, kiitos!
 
 Asennus:
-siirrä .xml tiedosto ylläpitopaneelin (admin.php) kautta sivustollessi. Appearance -> Languages -> Import
+siirrä Xenforo_2_language-Suomi.xml tiedosto ylläpitopaneelin (admin.php) kautta sivustollesi. Appearance -> Languages -> Import
