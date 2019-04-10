@@ -1230,6 +1230,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="please_specify_search_query_or_name_of_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kirjoita hakusana tai jäsenen nimi.]]></phrase>
   <phrase title="please_vote_for_at_least_one_option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valitse ainakin yksi äänestysvaihtoehto.]]></phrase>
   <phrase title="please_wait_x_seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Odota {seconds} sekuntia.]]></phrase>
+  <phrase title="plus_x_previous" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[+ {count} vanhempi]]></phrase>
   <phrase title="points" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Pisteet]]></phrase>
   <phrase title="points_expire_after" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pisteet vanhenevat]]></phrase>
   <phrase title="points_expiry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pisteet vanhenevat]]></phrase>
@@ -1275,6 +1276,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="prev" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edellinen]]></phrase>
   <phrase title="preview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esikatselu]]></phrase>
   <phrase title="preview_feed_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esikatsele syöte]]></phrase>
+  <phrase title="previous_moderation_action_logs_may_have_been_removed" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Edelliset moderointilokin merkinnät saattavat olla poistettu.]]></phrase>
   <phrase title="price" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hinta]]></phrase>
   <phrase title="primary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ensisijainen]]></phrase>
   <phrase title="privacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisyys]]></phrase>
@@ -1392,7 +1394,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="remove_this_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista tämä suodatin]]></phrase>
   <phrase title="replace" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Korvaa]]></phrase>
   <phrase title="replies" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Vastauksia]]></phrase>
-  <phrase title="reply" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Siteeraa]]></phrase>
+  <phrase title="reply" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Vastaa]]></phrase>
   <phrase title="reply_count_between" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vastauksia yhteensä]]></phrase>
   <phrase title="reply_placeholder" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kirjoita viestisi...]]></phrase>
   <phrase title="reply_quoting_this_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vastaa, siteeraten tätä viestiä]]></phrase>
