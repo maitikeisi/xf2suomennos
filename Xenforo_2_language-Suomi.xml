@@ -27,6 +27,7 @@
   <phrase title="action_completed_successfully" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Toiminto suoritettu onnistuneesti]]></phrase>
   <phrase title="actions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Toiminnot]]></phrase>
   <phrase title="active_reports" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Avoimet raportoinnit]]></phrase>
+  <phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Aktiivinen käyttäjä on muuttunut. Lataa sivu uudelleen.]]></phrase>
   <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aktiiviset käyttäjätilin päivitykset]]></phrase>
   <phrase title="add" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lisää]]></phrase>
   <phrase title="add_bookmark" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Lisää kirjanmerkki]]></phrase>
@@ -1238,6 +1239,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestys]]></phrase>
   <phrase title="poll_change_content_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vaihda URL]]></phrase>
   <phrase title="poll_choice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestysvaihtoehto]]></phrase>
+  <phrase title="poll_closed" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Äänestys suljettu. ]]></phrase>
   <phrase title="poll_results" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestystulokset]]></phrase>
   <phrase title="poll_voters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestäjät]]></phrase>
   <phrase title="poor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Huono]]></phrase>
@@ -1691,6 +1693,7 @@ Raportoitu sisältö:
   <phrase title="this_password_is_similar_to_commonly_used_password" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä salasana on samankaltainen kuin yleisesti käytetty salasana.]]></phrase>
   <phrase title="this_password_is_very_common_password" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä salasana on hyvin yleisesti käytössä.]]></phrase>
   <phrase title="this_password_reset_was_requested_by_admin_of_x_on_your_behalf" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä salasanan nollaus pyydettiin ylläpidon toimesta sivustolla {board_title}.]]></phrase>
+  <phrase title="this_poll_will_close" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Äänestys päättyy]]></phrase>
   <phrase title="this_report_is_currently_assigned_to_x" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Tämä raportoinnin käsittelijäksi on määritelty {assigned_username}.]]></phrase>
   <phrase title="this_section_is_currently_empty" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä osio on tällä hetkellä tyhjä.]]></phrase>
   <phrase title="this_site_uses_cookies_notice" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Käytämme sivuillamme evästeitä voidaksemme tarjota käyttäjille paremman käyttökokemuksen sekä kehittääksemme sivuston toimivuutta. <br />Jatkamalla sivuston käyttöä, hyväksyt evästeiden käytön.]]></phrase>
