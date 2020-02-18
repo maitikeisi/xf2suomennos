@@ -63,7 +63,7 @@
   <phrase title="align_center" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Keskitä]]></phrase>
   <phrase title="align_left" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Tasaa vasemmalle]]></phrase>
   <phrase title="align_right" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Tasaa oikealle]]></phrase>
-  <phrase title="alignment" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Kohdistaminen]]></phrase>
+  <phrase title="alignment" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Tasaus]]></phrase>
   <phrase title="all" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kaikki]]></phrase>
   <phrase title="all_categories" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Kaikki kategoriat]]></phrase>
   <phrase title="all_forums" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Kaikki osiot]]></phrase>
@@ -135,9 +135,9 @@
   <phrase title="banned" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Porttikiellossa]]></phrase>
   <phrase title="banned_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Asettanut porttikieltoon:]]></phrase>
   <phrase title="bb_code_help_align_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Muuttaa sisällytetyn tekstin tasausta.]]></phrase>
-  <phrase title="bb_code_help_align_example" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[LEFT]Vasemmalle kohdennettu[/LEFT] 
-[CENTER]Keskelle kohdennettu[/CENTER] 
-[RIGHT]Oikealle kohdennettu[/RIGHT]]]></phrase>
+  <phrase title="bb_code_help_align_example" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[[LEFT]Vasemmalle tasattu[/LEFT] 
+[CENTER]Keskitetty[/CENTER] 
+[RIGHT]Oikealle tasattu[/RIGHT]]]></phrase>
   <phrase title="bb_code_help_align_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[LEFT], [CENTER], [RIGHT] - Tekstin tasaus]]></phrase>
   <phrase title="bb_code_help_attach_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Lisää liitteen määriteltyyn kohtaan. Jos liite on kuva, lisätään esikatselukuva tai täysikokoinen versio. Tämä yleensä lisätään klikkaamalla asiaankuuluvaa painiketta.]]></phrase>
   <phrase title="bb_code_help_attach_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[ATTACH] - Liitteen lisäys]]></phrase>
@@ -171,25 +171,25 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="bb_code_help_icode_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[ICODE] - Rivinsisäinen ohjelmakoodin näyttö]]></phrase>
   <phrase title="bb_code_help_img_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näyttää kuvan, käyttäen sisällytettyä tekstiä URL:nä.]]></phrase>
   <phrase title="bb_code_help_img_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[IMG] - Kuva]]></phrase>
-  <phrase title="bb_code_help_indent_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sisentää sisällytetyn tekstin. Tämä voi olla sisäkkäinen suurempaa sisennystä varten.]]></phrase>
-  <phrase title="bb_code_help_indent_example" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Tavallinen teksti
+  <phrase title="bb_code_help_indent_desc" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Sisentää sisällytetyn tekstin.]]></phrase>
+  <phrase title="bb_code_help_indent_example" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Tavallinen teksti
 [INDENT]Sisennetty teksti
-[INDENT=2]Enempi sisennetty[/INDENT]
+[INDENT=2]Enemmän sisennetty[/INDENT]
 [/INDENT]]]></phrase>
   <phrase title="bb_code_help_indent_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[INDENT] - Tekstin sisennys]]></phrase>
   <phrase title="bb_code_help_ispoiler_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Mahdollistaa spoilereiden näyttämisen samalla rivillä normaalin sisällön kanssa. Piilottaa tekstin joka sisältää spoilereita ja joka on nähtävissä vain klikkauksen jälkeen.]]></phrase>
   <phrase title="bb_code_help_ispoiler_example" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Sinun täytyy klikata [ISPOILER]tätä[/ISPOILER] nähdäksesi sisällön.]]></phrase>
   <phrase title="bb_code_help_ispoiler_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[ISPOILER] - Rivinsisäiset spoilerit]]></phrase>
-  <phrase title="bb_code_help_list_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näyttää järjestämättömän tai järjestetyn listan.]]></phrase>
-  <phrase title="bb_code_help_list_example" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[LIST]
-[*]Bullet 1
-[*]Bullet 2
+  <phrase title="bb_code_help_list_desc" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Näyttää luettelon tai numeroidun luettelon.]]></phrase>
+  <phrase title="bb_code_help_list_example" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[[LIST]
+[*]Numeroimaton 1
+[*]Numeroimaton 2
 [/LIST]
 [LIST=1]
 [*]Merkintä 1
 [*]Merkintä 2
 [/LIST]]]></phrase>
-  <phrase title="bb_code_help_list_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[LIST] - Listat]]></phrase>
+  <phrase title="bb_code_help_list_title" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[[LIST] - Luettelo]]></phrase>
   <phrase title="bb_code_help_media_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Upottaa viestiisi mediaa hyväksytyiltä sivustoilta. On suositeltavaa, että käytät editorin työkalurivin mediapainiketta.]]></phrase>
   <phrase title="bb_code_help_media_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[MEDIA=site] - Upotettu media]]></phrase>
   <phrase title="bb_code_help_plain_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Poistaa käytöstä BB-koodin käännöksen sisällytetyssä tekstissä.]]></phrase>
@@ -216,7 +216,8 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
 [/TABLE]]]></phrase>
   <phrase title="bb_code_help_table_title" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[[TABLE] - Taulukko]]></phrase>
   <phrase title="bb_code_help_url_email_advanced_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Linkittää sisällytetyn tekstin määriteltyyn nettisivuun tai sähköpostiosoitteeseen.]]></phrase>
-  <phrase title="bb_code_help_url_email_advanced_example" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[[URL=https://www.esimerkki.com]Siirry sivustoon esimerkki.com[/URL] [EMAIL=esimerkki@esimerkki.com]Laita minulle sähköpostia[/EMAIL]]]></phrase>
+  <phrase title="bb_code_help_url_email_advanced_example" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[[URL=https://www.esimerkki.com]Siirry sivustoon esimerkki.com[/URL]
+[EMAIL=esimerkki@esimerkki.com]Laita minulle sähköpostia[/EMAIL]]]></phrase>
   <phrase title="bb_code_help_url_email_advanced_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[URL=link], [EMAIL=address] - Linkitys (Kehittynyt)]]></phrase>
   <phrase title="bb_code_help_url_email_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Luo linkin käyttäen sisällytettyä tekstiä kohteena.]]></phrase>
   <phrase title="bb_code_help_url_email_example" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[URL]http://www.esimerkki.fi[/URL] 
@@ -330,7 +331,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="content_ip" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[IP]]></phrase>
   <phrase title="content_options" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sisältöasetukset]]></phrase>
   <phrase title="content_type" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sisällön tyyppi]]></phrase>
-  <phrase title="contents_of_attachments_would_appear_here" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Liitetiedoston näkyisi tässä.]]></phrase>
+  <phrase title="contents_of_attachments_would_appear_here" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Liitetiedosto näkyisi tässä.]]></phrase>
   <phrase title="continue" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Lue lisää]]></phrase>
   <phrase title="continue_reading" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lue lisää...]]></phrase>
   <phrase title="conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviesti]]></phrase>
@@ -753,7 +754,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="in_x_minutes" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[{minutes} minuutin päästä]]></phrase>
   <phrase title="inbox" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Yksityisviestit]]></phrase>
   <phrase title="incorrect_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Väärä salasana. Yritä uudelleen.]]></phrase>
-  <phrase title="indent" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Sisennä]]></phrase>
+  <phrase title="indent" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Suurenna sisennystä]]></phrase>
   <phrase title="information" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tietoa]]></phrase>
   <phrase title="initiate_conversations_with_this_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lähetä yksityisviesti tälle käyttäjälle]]></phrase>
   <phrase title="inline_code" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Koodi samalle riville]]></phrase>
@@ -861,7 +862,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="link_copied_to_clipboard" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Linkki kopioitu leikepöydälle.]]></phrase>
   <phrase title="link_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Linkin otsikko]]></phrase>
   <phrase title="link_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Linkin URL]]></phrase>
-  <phrase title="list" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Lista]]></phrase>
+  <phrase title="list" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Luettelo]]></phrase>
   <phrase title="list_usernames_of_users_who_will_be_invited_to_this_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lista käyttäjistä jotka kutsutaan tähän keskusteluun. Ensimmäinen jäsen tulee olemaan keskustelun aloittaja. Uusi käyttäjä lisätään keskusteluun automaattisesti.]]></phrase>
   <phrase title="loading" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lataa]]></phrase>
   <phrase title="loading_image" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Ladataan kuvaa]]></phrase>
@@ -1127,14 +1128,14 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="or_click_here" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Tai klikkaa tätä]]></phrase>
   <phrase title="or_separator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[tai]]></phrase>
   <phrase title="order_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Järjestä]]></phrase>
-  <phrase title="ordered_list" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Järjestetty lista]]></phrase>
+  <phrase title="ordered_list" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Numeroitu luettelo]]></phrase>
   <phrase title="other" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muu]]></phrase>
   <phrase title="other_currencies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muut valuutat]]></phrase>
   <phrase title="other_devices_trusted_disable_desc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muita laitteita on tällä hetkellä luotettuna. Sinua ei pyydetä käyttämään kaksivaiheista tunnistautumista näistä laitteista. Jos jokin näistä laitteista ei ole enää käytössäsi, on suositeltavaa, että poistat nämä luotetuista laitteista.]]></phrase>
   <phrase title="other_languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muut kielet]]></phrase>
   <phrase title="other_participants" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muut osallistujat]]></phrase>
   <phrase title="otherwise_insert_into_moderation_queue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muutoin viestit tullaan asettamaan moderointijonoon.]]></phrase>
-  <phrase title="outdent" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Poista sisennys]]></phrase>
+  <phrase title="outdent" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Pienennä sisennystä]]></phrase>
   <phrase title="overview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yleiskatsaus]]></phrase>
   <phrase title="page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivu]]></phrase>
   <phrase title="page_views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivulatauksia]]></phrase>
@@ -1845,7 +1846,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="unlock_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avaa viestiketjut]]></phrase>
   <phrase title="unlocked" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avoin]]></phrase>
   <phrase title="unmodified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muokkaamaton]]></phrase>
-  <phrase title="unordered_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Järjestämätön lista]]></phrase>
+  <phrase title="unordered_list" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Luettelo]]></phrase>
   <phrase title="unread_conversations" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lukemattomat yksityisviestit]]></phrase>
   <phrase title="unread_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lukemattomat viestiketjut]]></phrase>
   <phrase title="unstar" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Poista tärkeysluokitus]]></phrase>
