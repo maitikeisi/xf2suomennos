@@ -607,6 +607,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="file_not_an_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tiedosto ei ole kuva.]]></phrase>
   <phrase title="file_not_found" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tiedostoa ei löytynyt.]]></phrase>
   <phrase title="file_too_large_to_upload" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Tiedostoa ei voi lisätä koska se on liian iso.]]></phrase>
+  <phrase title="files_being_uploaded_are_you_sure" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Tiedostoja lähetetään edelleen. Haluatko varmasti lähettää tämän lomakkeen?]]></phrase>
   <phrase title="filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Suodata]]></phrase>
   <phrase title="filter_by_label" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Järjestä nimikkeen mukaan]]></phrase>
   <phrase title="filter_by_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Suodata käyttäjän mukaan]]></phrase>
@@ -764,6 +765,8 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="ignored_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Piilotettu jäsen]]></phrase>
   <phrase title="ignoring" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Piilotetut]]></phrase>
   <phrase title="image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuva]]></phrase>
+  <phrase title="in_a_minute" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Minuutin päästä]]></phrase>
+  <phrase title="in_a_moment" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Hetken kuluttua]]></phrase>
   <phrase title="in_x_minutes" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[{minutes} minuutin päästä]]></phrase>
   <phrase title="inbox" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Yksityisviestit]]></phrase>
   <phrase title="incorrect_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Väärä salasana. Yritä uudelleen.]]></phrase>
