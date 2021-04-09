@@ -373,7 +373,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="content_type" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sisällön tyyppi]]></phrase>
   <phrase title="content_you_created_before_registering_posted_automatically" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Ennen rekisteröitymistä luomasi sisältö on nyt julkaistu automaattisesti.]]></phrase>
   <phrase title="contents_of_attachments_would_appear_here" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Liitetiedosto näkyisi tässä.]]></phrase>
-  <phrase title="continue" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Lue lisää]]></phrase>
+  <phrase title="continue" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Jatka]]></phrase>
   <phrase title="continue_reading" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lue lisää...]]></phrase>
   <phrase title="continuing_will_redirect_you_to_google_to_confirm_account_you_want_to" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Jatkaminen siirtää sinut Googlen, jotta voidaan varmistaa käyttäjätili jota haluat käyttää.]]></phrase>
   <phrase title="conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviesti]]></phrase>
