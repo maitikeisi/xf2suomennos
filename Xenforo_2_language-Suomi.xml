@@ -816,25 +816,23 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
 <h3 class="textHeading">Mitä evästeet ovat?</h3>
 <p>Evästeet ovat pieniä tekstitiedostoja, jotka verkkoselaimesi tallentaa tietokoneellesi katsomasi sivuston pyynnöstä. Niiden avulla katseltava sivusto voi muistaa sinua koskevia asioita, kuten asetuksesi ja historiasi, tai pitää sinut kirjautuneena sisään.</p>
 
-<p>Evästeet voidaan tallentaa tietokoneellesi lyhyeksi ajaksi (esimerkiksi vain selaimen ollessa auki) tai pitkäksi aikaa, jopa vuosiksi. Evästeet, joita tämä sivusto ei ole asettanut, eivät ole meidän käytettävissämme.</p>
+<p>Evästeet voidaan tallentaa tietokoneellesi lyhyeksi ajaksi (esimerkiksi vain selaimen ollessa auki) tai  jopa vuosiksi. Evästeet, joita tämä sivusto ei ole asettanut, eivät ole meidän hallittavissa.</p>
 
 <h3 class="textHeading">Mihin käytämme evästeitä?</h3>
 <p>Tämä sivusto käyttää evästeitä moniin eri tarkoituksiin kuten esimerkiksi:<p>
 <ul>
 <li>Rekisteröintiin ja asetustesi ylläpitoon. Tähän sisältyy sen varmistaminen, että voit pysyä kirjautuneena sisään ja että sivusto pysyy valitsemassasi kielessä tai ulkoasussa.</li>
-<li>Analytiikat. Tämän avulla voimme määrittää, miten ihmiset käyttävät sivustoa, ja parantaa sitä.</li>
-<li>Mainosevästeet (mahdollisesti kolmannen osapuolen evästeet). Jos tällä sivustolla näytetään mainoksia, mainostajat saattavat asettaa evästeitä määrittääkseen, kuka on katsonut mainoksen tai muuta vastaavaa. Nämä evästeet voivat olla kolmansien osapuolten asettamia, jolloin tällä sivustolla ei ole mahdollisuutta lukea tai kirjoittaa näitä evästeitä.</li>
-<li>Muut kolmannen osapuolen evästeet esimerkiksi Facebookin tai Twitterin jakamista varten. Nämä evästeet asettaa yleensä kolmas osapuoli itsenäisesti, joten tällä sivustolla ei ole mahdollisuutta käyttää niitä.
-Lisäevästeet ja kolmansien osapuolten asettamat evästeet
-Sivuston käytön aikana saatetaan asettaa lisäevästejä, joiden tarkoituksena on muistaa tietoja, kun tiettyjä toimintoja suoritetaan, tai muistaa tiettyjä asetuksia.</li>
+<li>Analytiikat. Tämän avulla voimme nähdä miten ihmiset käyttävät sivustoa sekä parantaa sitä.</li>
+<li>Mainosevästeet (mahdollisesti kolmannen osapuolen evästeet). Jos tällä sivustolla näytetään mainoksia, niin mainostajat saattavat asettaa evästeitä tietääkseen kuka on katsonut mainoksen tai muuta vastaavaa. Nämä evästeet voivat olla kolmansien osapuolten asettamia, jolloin tällä sivustolla ei ole mahdollisuutta hallita niitä.</li>
+<li>Muut kolmannen osapuolen evästeet esimerkiksi Facebookin tai Twitterin käyttöä varten. Nämä evästeet asettaa yleensä kolmas osapuoli itsenäisesti, joten tällä sivustolla ei ole mahdollisuutta hallita niitä.</li>
 </ul>
 
 <h3 class="textHeading">Lisäevästeet ja kolmansien osapuolten asettamat evästeet</h3>
 <p>
-Sivuston käytön aikana saatetaan asettaa lisäevästejä, joiden tarkoituksena on muistaa tietoja, kun tiettyjä toimintoja suoritetaan, tai muistaa tiettyjä asetuksia.
+Sivuston käytön aikana saatetaan asettaa lisäevästejä, joiden tarkoituksena on muistaa tietoja sekä asetuksia.
 </p>
 <p>
-Kolmannen osapuolen palveluntarjoajat voivat asettaa muita evästeitä, jotka voivat antaa tietoja, kuten seurata anonyymisti, ketkä käyttäjät vierailevat sivustolla, tai asettaa joihinkin sivuihin upotetun sisällön, kuten YouTuben tai muiden mediapalvelujen tarjoajien.
+Kolmannen osapuolen palveluntarjoajat voivat asettaa muita evästeita joiden avulla voidaan anonyymisti seurata ketkä vierailevat sivustolla tai käyttää niitä upotettujen medioiden (esim. YouTube) näyttämiseen.
 </p>
 
 <h3 class="textHeading">Evästeiden poistaminen/poistaminen käytöstä</h3>
