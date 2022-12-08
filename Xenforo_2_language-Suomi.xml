@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Suomi" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2020070" export_version="2">
+<language title="Suomi" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2021270" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Päivä sitten]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuukausi sitten]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kerran]]></phrase>
@@ -17,7 +17,9 @@
   <phrase title="about" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tietoja]]></phrase>
   <phrase title="about_you" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Tietoja sinusta]]></phrase>
   <phrase title="accept" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Hyväksy]]></phrase>
+  <phrase title="accept_all_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hyväksy kaikki evästeet]]></phrase>
   <phrase title="accept_future_messages" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Hyväksy viestit jatkossa]]></phrase>
+  <phrase title="accept_third_party_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hyväksy kolmannen osapuolen evästeet]]></phrase>
   <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Hyväksytty tietosuojakäytäntö]]></phrase>
   <phrase title="accepted_terms_rules" addon_id="XF" version_id="2010470" version_string="2.1.4"><![CDATA[Hyväksytyt ehdot ja säännöt]]></phrase>
   <phrase title="account_associated" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Tili linkitetty]]></phrase>
@@ -192,7 +194,7 @@ Tämä on [FONT=Courier New]Courier New[/FONT] fontti.
 Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="bb_code_help_color_font_size_title" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[[COLOR=color], [FONT=name], [SIZE=size] - Tekstin väri, fontti ja koko.]]></phrase>
   <phrase title="bb_code_help_icode_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Mahdollistaa koodin näyttämisen samalla normaalia tekstiä näyttävällä rivillä. Syntaksia ei korosteta.]]></phrase>
-  <phrase title="bb_code_help_icode_example" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Koodin näyttäminen tekstin yhteydessä on [ICODE]kätevä[/ICODE] tapa sisällyttää koodia tekstiin.]]></phrase>
+  <phrase title="bb_code_help_icode_example" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Koodin näyttäminen tekstin yhteydessä on [ICODE]kätevä[/ICODE] tapa sisällyttää koodia tekstiin.]]></phrase>
   <phrase title="bb_code_help_icode_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[ICODE] - Rivinsisäinen ohjelmakoodin näyttö]]></phrase>
   <phrase title="bb_code_help_img_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näyttää kuvan, käyttäen sisällytettyä tekstiä URL:nä.]]></phrase>
   <phrase title="bb_code_help_img_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[IMG] - Kuva]]></phrase>
@@ -373,7 +375,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="content_type" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sisällön tyyppi]]></phrase>
   <phrase title="content_you_created_before_registering_posted_automatically" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Ennen rekisteröitymistä luomasi sisältö on nyt julkaistu automaattisesti.]]></phrase>
   <phrase title="contents_of_attachments_would_appear_here" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Liitetiedosto näkyisi tässä.]]></phrase>
-  <phrase title="continue" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Jatka]]></phrase>
+  <phrase title="continue" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[Jatka]]></phrase>
   <phrase title="continue_reading" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lue lisää...]]></phrase>
   <phrase title="continuing_will_redirect_you_to_google_to_confirm_account_you_want_to" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Jatkaminen siirtää sinut Googlen, jotta voidaan varmistaa käyttäjätili jota haluat käyttää.]]></phrase>
   <phrase title="conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviesti]]></phrase>
@@ -401,6 +403,66 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="conversation_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviestin aihe]]></phrase>
   <phrase title="conversation_unstarred" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Yksityisviesti poistettu suosikeista.]]></phrase>
   <phrase title="conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviestit]]></phrase>
+  <phrase title="cookie_consent" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Evästesuostumus]]></phrase>
+  <phrase title="cookie_consent.cookie_description___crossTab" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tähän paikalliseen työmuistin tietueeseen tallennetaan tietoja, joita käytetään välilehtien välisessä viestinnässä, kuten nykyisen käyttäjän tunnistetieto.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_cacheKey" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistia käytetään offline-tallennuskohteiden välimuistiavaimen tallentamiseen.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_consent" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän evästesuostumusasetukset.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_csrf" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän tunniste, joka estää muita sovelluksia tekemästä haitallisia pyyntöjä käyttäjän puolesta.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_dbWriteForced" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään ilmaisemaan, että pyyntö on saatettava loppuun tietokantapalvelimella.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_editorDisabled" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistia käytetään tallentamaan, onko käyttäjällä tekstieditori käytössä vai ei.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_emoji_usage" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan, mitä hymiöitä käyttäjä on äskettäin käyttänyt viesteissään.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_fr_copied_html" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistin tietuetta käytetään tallentamaan käyttäjän kopioima rikastettu teksti, kun se liitetään tekstieditoriin.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_fr_copied_text" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistin tietuetta käytetään tallentamaan käyttäjän kopioima tavallinen teksti, kun se liitetään tekstieditoriin.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_from_search" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään seuraamaan, jos käyttäjä on saapunut sivustolle hakukoneesta.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_guestUsername" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistin tietuetta käytetään vieraskäyttäjän käyttäjätunnuksen tallentamiseen.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_inline_mod__wildcard" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Näitä evästeitä käytetään tallentamaan käyttäjän tällä hetkellä valitsemat inline-moderoinnin kohteet.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_language_id" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän valitsema kieli.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_lbSidebarDisabled" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistin tietuetta käytetään tallentamaan se, että onko käyttäjällä käytössä sivupalkki.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_ls" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän työmuistin sisältö siinä tapauksessa, että käyttäjän selain ei tue natiivia selaimen työmuistia.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_multiQuote_wildcard" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Näitä työmuistin tietueita käytetään käyttäjän monisitaattivalintojen tallentamiseen.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_notice_dismiss" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän hylkäämät ilmoitukset.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_history_user_ids" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistin tietuetta käytetään tallentamaan sen, että mitkä tämän laitteen käyttäjät ovat ottaneet push-ilmoitukset käyttöön.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_notice_dismiss" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään sen määrittämiseen sen, että onko käyttäjä hylännyt push-ilmoituksen valikon.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_subscription_updated" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään sen määrittämiseen, että onko käyttäjän push-tilausasetukset muokattu.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_session" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään käyttäjän istuntotunnisteen tallentamiseen.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_style_id" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän valitsema tyyli.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_tfa_trust" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään sen määrittämiseen, että onko käyttäjä aiemmin päättänyt luottaa tähän laitteeseen ilman kaksivaiheista varmistusta tietyn ajanjakson ajan.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_toggle" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä ja työmuistia käytetään tallentamaan käyttäjän mieltymykset eri asetusten avaamiseen tai sulkemiseen.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_user" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän "Muista minut" -asetus, jonka avulla käyttäjän tunnistetiedot säilyvät useiden istuntojen ajan.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_visitorCounts" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä paikallista tallennuskohdetta käytetään käyttäjän lukemattomien keskustelujen ja ilmoitusten määrän tallentamiseen.]]></phrase>
+  <phrase title="cookie_consent.group_description__required" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet ovat pakollisia verkkosivustomme oikean toiminnan tai meitä koskevien säädösten vuoksi, eikä niitä voi poistaa käytöstä.]]></phrase>
+  <phrase title="cookie_consent.group_description__third_party" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Kolmansien osapuolten asettamia evästeitä saatetaan tarvita toimintojen käyttämiseen yhdessä eri palveluntarjoajien kanssa turvallisuutta, analytiikkaa, suorituskykyä tai mainontaa varten.]]></phrase>
+  <phrase title="cookie_consent.group_description_optional" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Käytämme valinnaisia evästeitä parantaaksemme tämän sivuston toiminnallisuutta sekä parantaaksemme käyttäjäkokemustasi. Mikäli kiellät näiden evästeiden käytön voi käyttökokemus olla vaillinainen.]]></phrase>
+  <phrase title="cookie_consent.group_label__required" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pakolliset evästeet]]></phrase>
+  <phrase title="cookie_consent.group_label__third_party" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Kolmannen osapuolen evästeet]]></phrase>
+  <phrase title="cookie_consent.group_label_optional" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Valinnaiset evästeet]]></phrase>
+  <phrase title="cookie_consent.third_party_description_apple" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.apple.com/legal/privacy/en-ww/" target="_blank">Apple</a>, ja niitä saatetaan käyttää upotteiden näyttämiseksi.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_braintree" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.braintreepayments.com/pl/legal/braintree-privacy-policy" target="_blank">Braintree</a>, ja niitä voidaan käyttää maksujen käsittelyyn.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_dailymotion" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://legal.dailymotion.com/en/privacy-policy/" target="_blank">Dailymotion</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_flickr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.flickr.com/help/privacy" target="_blank">Flickr</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_giphy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy" target="_blank">Giphy</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_google" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa<a href="https://policies.google.com/privacy" target="_blank">Google</a> asettamia, ja niitä voidaan käyttää analytiikkaan tai muuhun upotettuun sisältöön.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_h_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.hcaptcha.com/privacy" target="_blank">HCaptcha</a>, ja niitä voidaan käyttää käyttäjän todentamiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_imgur" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://imgur.com/privacy" target="_blank">Imgur</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_key_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.keycaptcha.com" target="_blank">KeyCaptcha</a>, ja niitä voidaan käyttää käyttäjän todentamiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_meta" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.facebook.com/privacy/policy/" target="_blank">Meta</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_pinterest" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://policy.pinterest.com/en/privacy-policy" target="_blank">Pinterest</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_reddit" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.reddit.com/policies/privacy-policy" target="_blank">Reddit</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_solve_media" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.solvemedia.com/privacy.html" target="_blank">SolveMedia</a>, ja niitä voidaan käyttää käyttäjän todentamiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_soundcloud" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://soundcloud.com/pages/privacy" target="_blank">SoundCloud</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_spotify" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.spotify.com/us/legal/privacy-policy/" target="_blank">Spotify</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_stripe" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://stripe.com/privacy" target="_blank">Stripe</a>, ja niitä voidaan käyttää maksujen käsittelyyn.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_tiktok" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.tiktok.com/legal/page/us/privacy-policy/en" target="_blank">TikTok</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_tumblr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.tumblr.com/privacy" target="_blank">Tumblr</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_twitch" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.twitch.tv/p/en/legal/privacy-notice/" target="_blank">Twitch</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_twitter" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://twitter.com/privacy" target="_blank">Twitter</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_two_checkout" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.2checkout.com/legal/privacy/" target="_blank">2Checkout</a>, ja niitä voidaan käyttää maksujen käsittelyyn.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_vimeo" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://vimeo.com/privacy" target="_blank">Vimeo</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent_configure" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Katso lisätietoja ja määritä asetukset]]></phrase>
+  <phrase title="cookie_consent_description" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Käytämme välttämättömiä <a href="{link}">evästeitä</a> sivuston toiminallisuuden mahdollistamiseksi sekä valinnaisia evästeitä parantaaksemme käyttökokemustasi.]]></phrase>
+  <phrase title="cookie_consent_heading" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Arvostamme yksityisyyttäsi]]></phrase>
+  <phrase title="cookie_consent_label" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Evästeet]]></phrase>
+  <phrase title="cookie_third_parties" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Kolmansien osapuolten evästeet]]></phrase>
   <phrase title="cookies_required_to_use_this_site" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Evästeet vaaditan sivuston toimintaan. Sinun täytyy sallia ne jatkaaksesi sivuston käyttöä.]]></phrase>
   <phrase title="copy_link" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Kopioi linkki]]></phrase>
   <phrase title="copy_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kopioi viestit]]></phrase>
@@ -504,6 +566,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="deselect_all" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista valinnat]]></phrase>
   <phrase title="destination_forum" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Kohdeosio]]></phrase>
   <phrase title="destination_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kohde viestiketju]]></phrase>
+  <phrase title="detailed_cookie_usage" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Yksityiskohtaiset evästeiden käyttötiedot]]></phrase>
   <phrase title="details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityiskohdat]]></phrase>
   <phrase title="details_of_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varoituksen tiedot]]></phrase>
   <phrase title="device_trusted_until_x_disable_desc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä laite on luotettuna päivämäärään {until} asti. Sinun ei tarvitse suorittaa kaksivaiheista tunnista uudelleen ennen tätä päivämäärää. Voit poistaa tämän laitteen luotettujen listalta, jonka jälkeen kaksivaiheista tunnistamista kysytään uudelleen kun yrität kirjautua tältä laitteelta seuraavan kerran.]]></phrase>
@@ -604,7 +667,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
 
 <p>Sähköpostiosoitteesi sivustolla {board} vaihdettiin hiljattain osoitteeseen {new}. jos teit muutoksen itse voit huoletta ohittaa tämän viestin.</p>
 
-<p>Jos et tehnyt tätä muutosta, ole hyvä ja kirjaudu sisään sivustolle sekä vaihda salasanasi ja sähköpostiosoitteesi. Jos et pysty kirjautumaan sisään, ota yhteys ylläpitoon: .</p>
+<p>Jos et tehnyt tätä muutosta, ole hyvä ja kirjaudu sisään sivustolle sekä vaihda salasanasi ja sähköpostiosoitteesi. Jos et pysty kirjautumaan sisään, ota yhteys ylläpitoon: </p>
 
 <p>Sähköpostin muuttamisessa käytetty IP: {ip}.</p>]]></phrase>
   <phrase title="email_changed_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{board} - Sähköpostiosoite vaihdettu]]></phrase>
@@ -704,7 +767,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="forum" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Osio]]></phrase>
   <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivusto on tällä hetkellä suljettu ja vain ylläpitäjät pääsevät sivustolle.]]></phrase>
   <phrase title="forum_limit" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Osion rajoite]]></phrase>
-  <phrase title="forum_list" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Osiolista]]></phrase>
+  <phrase title="forum_list" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Alueet]]></phrase>
   <phrase title="forum_moderator" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Osion moderaattori]]></phrase>
   <phrase title="forum_sort.first_post_reaction_score" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ensimmäisen viestin reaktiopisteet]]></phrase>
   <phrase title="forum_sort.last_post_date" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Viimeisin viesti]]></phrase>
@@ -729,7 +792,7 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="from_name" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Lähettäjä]]></phrase>
   <phrase title="from_user" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Käyttäjältä]]></phrase>
   <phrase title="from_x_location" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Paikka {location}]]></phrase>
-  <phrase title="full_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Koko kuva]]></phrase>
+  <phrase title="full_image" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Koko kuva]]></phrase>
   <phrase title="full_size" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Täysikokoinen]]></phrase>
   <phrase title="future_message_handling" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Viestien käsittely jatkossa]]></phrase>
   <phrase title="generate_new_backup_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luo uudet varmuuskoodit]]></phrase>
@@ -748,63 +811,47 @@ Tämä on [SIZE=1]pieni[/SIZE] ja [SIZE=7]iso[/SIZE] kirjaisinkoko.]]></phrase>
   <phrase title="heading_3" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Otsake 3]]></phrase>
   <phrase title="height" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Korkeus]]></phrase>
   <phrase title="help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuki]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[<p>Jos jatkat tämän sivuston käyttämistä, hyväksyt evästeiden käytön.</p>
+  <phrase title="help_cookies_description" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[<p>Tällä sivulla käsitellään evästeiden käyttöä tällä sivustolla. Jos jatkat tämän sivuston käyttöä, hyväksyt evästeiden käytön.</p>
 
-<h3 class="textHeading">Mitä ovat evästeet (cookiet)?</h3>
-<p>Eväste (cookie) on pieni tekstitiedosto, jonka internetselain tallentaa käyttäjän laitteelle. Evästeitä käytetään esimerkiksi silloin, kun käyttäjän tietoja halutaan säilyttää tämän siirtyessä internetpalvelun sivulta toiselle ja palveluun kirjautuminen halutaan muistaa.</p>
+<h3 class="textHeading">Mitä evästeet ovat?</h3>
+<p>Evästeet ovat pieniä tekstitiedostoja, jotka verkkoselaimesi tallentaa tietokoneellesi katsomasi sivuston pyynnöstä. Niiden avulla katseltava sivusto voi muistaa sinua koskevia asioita, kuten asetuksesi ja historiasi, tai pitää sinut kirjautuneena sisään.</p>
 
-<p>Evästeitä voidaan säilyttää selaimessasi joko lyhyen aikaa (vaikka vain siihen asti kunnes suljet selaimen) tai jopa pidemmän aikaa, jopa vuosia. Emme pysty lukemaan, kirjoittamaan tai millään lailla käsittelemään kolmannen osapuolen asettamia evästeitä.</p>
+<p>Evästeet voidaan tallentaa tietokoneellesi lyhyeksi ajaksi (esimerkiksi vain selaimen ollessa auki) tai pitkäksi aikaa, jopa vuosiksi. Evästeet, joita tämä sivusto ei ole asettanut, eivät ole meidän käytettävissämme.</p>
 
 <h3 class="textHeading">Mihin käytämme evästeitä?</h3>
-<p>Tämä sivusto käyttää evästeitä mm. seuraaviin asioihinp>
+<p>Tämä sivusto käyttää evästeitä moniin eri tarkoituksiin kuten esimerkiksi:<p>
 <ul>
-<li>Rekisteröitymiseen sekä asetuksiesi tallentamiseen. Tämän avulla on mahdollista pysyä kirjautuneena ja pitää sivuston kieliasetus sekä ulkoasu valintasi mukaisena.</li>
-<li>Analytiikat. Tämän avulla pystymme seuraamaan sivuston käyttöä ja parantamaan sitä.</li>
-<li>Mainostus evästeet (mahdollisesti kolmannen osapuolen asettamia) Jos tämä sivusto näyttää mainoksia, mainostajat saattavat asettaa evästeitä joilla seuraavat ketkä ovat nähneet mainoksen tai muuta vastaavaa. Tämä sivusto ei pysty lukemaan tai kirjoittamaan kolmannen osapuolen asettamia evästeitä.</li>
-<li>Sosiaaliset mediat kuten Facebook tai Twitter saattavat asettaa omia evästeitään, jos käytät niitä sivuston sisällön jakamiseen. Nämä evästeet ovat normaalisti kolmannen osapuolen asettamia, joten emme pysty käsittelemään niitä millään tavalla.</li>
+<li>Rekisteröintiin ja asetustesi ylläpitoon. Tähän sisältyy sen varmistaminen, että voit pysyä kirjautuneena sisään ja että sivusto pysyy valitsemassasi kielessä tai ulkoasussa.</li>
+<li>Analytiikat. Tämän avulla voimme määrittää, miten ihmiset käyttävät sivustoa, ja parantaa sitä.</li>
+<li>Mainosevästeet (mahdollisesti kolmannen osapuolen evästeet). Jos tällä sivustolla näytetään mainoksia, mainostajat saattavat asettaa evästeitä määrittääkseen, kuka on katsonut mainoksen tai muuta vastaavaa. Nämä evästeet voivat olla kolmansien osapuolten asettamia, jolloin tällä sivustolla ei ole mahdollisuutta lukea tai kirjoittaa näitä evästeitä.</li>
+<li>Muut kolmannen osapuolen evästeet esimerkiksi Facebookin tai Twitterin jakamista varten. Nämä evästeet asettaa yleensä kolmas osapuoli itsenäisesti, joten tällä sivustolla ei ole mahdollisuutta käyttää niitä.
+Lisäevästeet ja kolmansien osapuolten asettamat evästeet
+Sivuston käytön aikana saatetaan asettaa lisäevästejä, joiden tarkoituksena on muistaa tietoja, kun tiettyjä toimintoja suoritetaan, tai muistaa tiettyjä asetuksia.</li>
 </ul>
 
-<h3 class="textHeading">Tämän sivuston asettamat evästeet</h3>
+<h3 class="textHeading">Lisäevästeet ja kolmansien osapuolten asettamat evästeet</h3>
 <p>
-Sivuston käytön kannalta olennaiset evästeet ovat
+Sivuston käytön aikana saatetaan asettaa lisäevästejä, joiden tarkoituksena on muistaa tietoja, kun tiettyjä toimintoja suoritetaan, tai muistaa tiettyjä asetuksia.
 </p>
-<ul>
-<li>
-<strong>{cookiePrefix}csrf</strong>
-<ul>
-<li>Tallentaa tunnisteen, joka on uniikki sinulle, jolla varmistetaan, että sivustolla  suorittamasi toiminnot ovat varmasti itsesi tekemiä.</li>
-</ul>
-</li>
-<li>
-<strong>{cookiePrefix}session</strong>
-<ul>
-<li>Tallentaa nykyisen vierailun istuntotiedon.</li>
-</ul>
-</li>
-<li>
-<strong>{cookiePrefix}user</strong>
-<ul>
-<li>Tallentaa avaimen, joka on uniikki sinulle, minkä avulla voimme pitää sinut kirjautuneena sivustolle.</li>
-</ul>
-</li>
-</ul>
-
-<h3 class="textHeading">Muut sekä kolmannen osapuolen asettamat evästeet</h3>
 <p>
-Muita evästeitä saatetaann asettaa tarpeen vaatiessa esimerkiksi tiettyjä toimintoja käytettäessä tai tallentaaksemme joitain käyttämisiäsi asetuksia. </p>
-<p>
-Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat seurata anonyymisti käyttäjien vierailuja sivulla sekä heidän sivustollaan käyttämiä palveluita (esim. YouTube upotukset yms. sivustolla mahdollisesti käytettävät ulkopuolisen tarjoajan mediat).
+Kolmannen osapuolen palveluntarjoajat voivat asettaa muita evästeitä, jotka voivat antaa tietoja, kuten seurata anonyymisti, ketkä käyttäjät vierailevat sivustolla, tai asettaa joihinkin sivuihin upotetun sisällön, kuten YouTuben tai muiden mediapalvelujen tarjoajien.
 </p>
 
+<h3 class="textHeading">Evästeiden poistaminen/poistaminen käytöstä</h3>
+<p>
+Evästeiden ja evästeasetusten hallinta on tehtävä selaimesi asetuksista/asetuksista. Tässä on luettelo oppaista, joissa kerrotaan, miten tämä tehdään suosituille selainohjelmistoille:</p>
 
-<p>Evästeitä ja niiden käyttöä hallitaan selaimen asetuksista. Seuraavassa on lista ohjeista evästeiden hallintaan eri selaimilla:</p>
 <ul>
-	<li><a href="http://windows.microsoft.com/en-US/internet-explorer/delete-manage-cookies">Internet Explorer</a></li>
-	<li><a href="http://support.mozilla.org/kb/cookies-information-websites-store-on-your-computer">Firefox</a></li>
-	<li><a href="https://support.google.com/chrome/answer/95647?hl=en">Chrome</a></li>
-	<li><a href="http://support.apple.com/kb/PH17191">Safari</a></li>
-	<li><a href="http://www.opera.com/help/tutorials/security/privacy/">Opera</a></li>
-</ul>]]></phrase>
+<li><a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a></li>
+<li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank">Microsoft Edge</a></li>
+<li><a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer" target="_blank">Mozilla Firefox</a></li>
+<li><a href="https://support.google.com/chrome/answer/95647?hl=en" target="_blank">Google Chrome</a></li>
+<li><a href="https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank">Safari macOS</a></li>
+<li><a href="https://support.apple.com/en-gb/HT201265" target="_blank">Safari iOS</a></li>
+</ul>
+
+<h3 class="textHeading">Lisätietoja evästeistä</h3>
+Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeiden estämisestä, käy ICO:n verkkosivuston <a href="https://ico.org.uk/your-data-matters/online/cookies/">Evästeet-sivulla</a>.]]></phrase>
   <phrase title="help_page_desc.bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lista BB-koodeista joita voit käyttää viestisi yhteydessä. Tämä sivu näyttää kaikki BB-koodit jotka ovat käytettävissä.]]></phrase>
   <phrase title="help_page_desc.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä sivu selventää evästeiden käyttöä tällä sivustolla.]]></phrase>
   <phrase title="help_page_desc.privacy_policy" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Sinun täytyy hyväksyä tämä lauseke voidaksesi käyttää sivua.]]></phrase>
@@ -812,7 +859,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="help_page_desc.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinun täytyy hyväksyä nämä käyttöehdot jatkaaksesi sivuston käyttöä.]]></phrase>
   <phrase title="help_page_desc.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit saada aktivisuuspalkintoja suorittamalla erilaisia toimia. Tältä sivulta näet kaikki aktivisuuspalkinnot jotka ovat saatavilla.]]></phrase>
   <phrase title="help_page_title.bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB-koodit]]></phrase>
-  <phrase title="help_page_title.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Evästeiden käyttö]]></phrase>
+  <phrase title="help_page_title.cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Evästeet]]></phrase>
   <phrase title="help_page_title.privacy_policy" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tietosuojaseloste]]></phrase>
   <phrase title="help_page_title.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hymiöt]]></phrase>
   <phrase title="help_page_title.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttöehdot]]></phrase>
@@ -869,6 +916,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="insert_image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lisää kuva]]></phrase>
   <phrase title="insert_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lisää linkki]]></phrase>
   <phrase title="insert_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lisää media]]></phrase>
+  <phrase title="insert_multiple" addon_id="XF" version_id="2020771" version_string="2.2.7 Patch 1"><![CDATA[Lisää useita]]></phrase>
   <phrase title="insert_quotes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lisää siteeraukset]]></phrase>
   <phrase title="insert_row_above" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Lisää rivi yläpuolelle]]></phrase>
   <phrase title="insert_row_below" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Lisää rivi alapuolelle]]></phrase>
@@ -1136,7 +1184,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Käyttäjätilisi]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Profiilisi]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Hae...]]></phrase>
-  <phrase title="nav.forumList" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Osiolista]]></phrase>
+  <phrase title="nav.forumList" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Alueet]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Foorumi]]></phrase>
   <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etusivu]]></phrase>
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Viime toiminnot]]></phrase>
@@ -1246,7 +1294,6 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="note_that_author_will_see_alert_even_no_longer_view_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Huomio, että tekijä näkee tämän ilmoituksen vaikka eivät enää näkisi sisältöä toimenpiteen jälkeen.]]></phrase>
   <phrase title="note_thread_starter_see_alert_even_no_longer_view_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Huomioi että viestiketjun aloittaja saa ilmoituksen vaikka ei voisi enää nähdä viestiketjua.]]></phrase>
   <phrase title="note_your_subscription_may_appear_active_until_original_expiry_date" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Huom: Tilauksesi saataa näyttää aktiiviselta alkuperäiseen päättymispäivämäärään asti.]]></phrase>
-  <phrase title="notes" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Muistiinpanot]]></phrase>
   <phrase title="notification_from_x" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Ilmoitus sivustolta {boardTitle}]]></phrase>
   <phrase title="notification_preferences" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Ilmoitusasetukset]]></phrase>
   <phrase title="notify_author_of_this_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ilmoita tekijälle toimenpiteestä]]></phrase>
@@ -1277,6 +1324,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="open" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Avoin]]></phrase>
   <phrase title="open_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avaa linkki]]></phrase>
   <phrase title="open_thread" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Avaa viestiketju]]></phrase>
+  <phrase title="option.cookieConsent" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Evästesuostumus]]></phrase>
   <phrase title="optional" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valinnainen]]></phrase>
   <phrase title="options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Asetukset]]></phrase>
   <phrase title="or_click_here" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Tai klikkaa tätä]]></phrase>
@@ -1597,6 +1645,7 @@ Kolmannet osapuolet saattavat asettaa omia evästeitään, joilla he saattavat s
   <phrase title="registration_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rekisteröitynyt]]></phrase>
   <phrase title="registration_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Liittymis IP]]></phrase>
   <phrase title="reject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hylkää]]></phrase>
+  <phrase title="reject_optional_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hylkää valinnaiset evästeet]]></phrase>
   <phrase title="reject_with_reason" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Hylkää syyllä]]></phrase>
   <phrase title="rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hylätty]]></phrase>
   <phrase title="rejected_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hylkääjä]]></phrase>
@@ -1709,6 +1758,7 @@ Raportoitu sisältö:
   <phrase title="s2_searching" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Hakee...]]></phrase>
   <phrase title="save_and_exit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tallenna ja poistu]]></phrase>
   <phrase title="save_as_default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tallenna oletukseksi]]></phrase>
+  <phrase title="save_cookie_preferences" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tallenna evästeasetukset]]></phrase>
   <phrase title="save_draft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tallenna luonnos]]></phrase>
   <phrase title="save_drafts_every_x_seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tallenna luonnokset X sekunnin välein]]></phrase>
   <phrase title="search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Haku]]></phrase>
@@ -1811,6 +1861,7 @@ Raportoitu sisältö:
   <phrase title="staff_members_cannot_be_reply_banned" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Henkilökunnalle ei vo asettaa vastauskieltoa.]]></phrase>
   <phrase title="staff_members_may_not_be_ignored" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Ylläpidon jäseniä ei voi piilottaa.]]></phrase>
   <phrase title="staff_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ylläpitoa paikalla]]></phrase>
+  <phrase title="standard_cookies_we_set" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Asettamamme vakioevästeet]]></phrase>
   <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Normaalihaku]]></phrase>
   <phrase title="star" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Merkitse suosikiksi]]></phrase>
   <phrase title="star_conversations" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Merkitse viestit suosikiksi]]></phrase>
@@ -1935,7 +1986,7 @@ Käyttäjätilisi päivitetään kun maksu on hyväksytty.]]></phrase>
   <phrase title="this_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä osio]]></phrase>
   <phrase title="this_is_first_post_in_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä on viestiketjun ensimmäinen viesti. Jos tämän poistaa, niin koko viestiketju poistetaan.]]></phrase>
   <phrase title="this_is_maximum_number_of_responses_voter_may_select_when_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Määrittää kuinka monta vastausvaihtoehtoa äänestäjä voi valita äänestäessään.]]></phrase>
-  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä on nimi, joka näytetään viestiesi yhteydessä. Voit valita minkä tahansa nimen. Et voi muuttaa tätä myöhemmin.]]></phrase>
+  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Tämä on nimi, joka näytetään viestiesi yhteydessä. Voit valita minkä tahansa nimen. Et voi muuttaa tätä myöhemmin.]]></phrase>
   <phrase title="this_is_reasonably_strong_password" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä on suhteellisen vahva salasana.]]></phrase>
   <phrase title="this_is_very_strong_password" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä on erittäin vahva salasana.]]></phrase>
   <phrase title="this_link_could_not_be_verified" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Linkkiä ei voitu vahvistaa. Yritä jotain toista linkkiä.]]></phrase>
@@ -2013,10 +2064,14 @@ Käyttäjätilisi päivitetään kun maksu on hyväksytty.]]></phrase>
   <phrase title="title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otsikko]]></phrase>
   <phrase title="title_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otsikko sisältää]]></phrase>
   <phrase title="title_page_x" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[ | Sivu {page}]]></phrase>
+  <phrase title="to_access_this_page_we_will_need_your_consent_to_set_some_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Jotta voisit käyttää tätä sivua tarvitsemme suostumuksesi evästeiden asettamiseen.]]></phrase>
   <phrase title="to_access_this_page_you_must_first_confirm_your_password" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[ Päästäksesi tälle sivulle, on sinun ensin vahvistettava salasanasi. ]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Yhdistääksei käyttätilin sinun täytyy ensiksi kirjautua sille tilille.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in_start_via_connected_accounts" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Yhdistääksesi käyttäjätilin sinun täytyy ensin kirjautua sille tilille ja sen jälkeen aloittaa prosessi <a href="{link}">liitetyt käyttäätilit kohdasta.</a>.]]></phrase>
   <phrase title="to_confirm_your_identity_we_have_sent_email_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmistaaksemme identiteettisi, lähetimme sinulle sähköpostin osoitteseen {email} jossa ohjeet salasanan luontia varten.]]></phrase>
+  <phrase title="to_view_this_content_we_will_need_your_consent_to_set_third_party_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tämän sisällön katselemiseksi tarvitsemme suostumuksesi kolmansien osapuolten evästeiden asettamiseen.<br>
+Lisätietoja saat meidän <a href="{cookies_link}">evästesivulta</a>.
+]]></phrase>
   <phrase title="today_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tänään klo {time}]]></phrase>
   <phrase title="toggle_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB-koodi päällä/pois]]></phrase>
   <phrase title="toggle_multi_quote_tooltip" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lisää siteerauksiin tai poista siteerauksista]]></phrase>
@@ -2255,7 +2310,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="viewing_an_error" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa virhettä]]></phrase>
   <phrase title="viewing_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa kategoriaa]]></phrase>
   <phrase title="viewing_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa osioita]]></phrase>
-  <phrase title="viewing_forum_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa osiolistausta]]></phrase>
+  <phrase title="viewing_forum_list" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Katsomassa alueita]]></phrase>
   <phrase title="viewing_help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa tukisivua]]></phrase>
   <phrase title="viewing_latest_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa uusinta sisältöä]]></phrase>
   <phrase title="viewing_list_of_online_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa paikalla olevia]]></phrase>
@@ -2418,8 +2473,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="yesterday_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Eilen klo {time}]]></phrase>
   <phrase title="you_already_following_this_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraat jo tätä jäsentä.]]></phrase>
   <phrase title="you_already_ignoring_this_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Olet jo piilottanut tämän jäsenen.]]></phrase>
-  <phrase title="you_already_logged_in" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Olet jo kirjautuneena. Klikkaa <a href="{link}">tästä</a> palataksesi osiolistaukseen.]]></phrase>
-  <phrase title="you_appear_to_have_lost_connection_internet_check_your_connection" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Vaikuttaisi että sinun internet-yhteytesi katkesi. Tarkista yhteytesi ja <a href="javascript:window.location.reload();">lataa sivu uudelleen</a>.]]></phrase>
+  <phrase title="you_already_logged_in" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Olet jo kirjautuneena. Klikkaa <a href="{link}">tästä</a> palataksesi alueisiin.]]></phrase>
   <phrase title="you_are_ignoring_content_by_this_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Olet piilottanut tämän jäsenen tuottaman sisällön.]]></phrase>
   <phrase title="you_are_no_longer_able_to_reply_thread_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi enää vastata viestiketjuun {title}.]]></phrase>
   <phrase title="you_are_using_out_of_date_browser_upgrade" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Käytät vanhentunutta selainta. Selaimesi ei mahdollisesti näytä tätä tai muita sivustoja oikein. Sinun tulisi päivittää selaimesi tai käyttää <a href="https://www.google.com/chrome/" target="_blank" rel="noopener">vaihtoehtoista selainta.</a>.]]></phrase>
