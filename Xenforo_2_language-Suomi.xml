@@ -206,7 +206,7 @@ Jos tarvitset lisäalajakoa käytä tason 3 alaotsikkoa.]]></phrase>
   <phrase title="bb_code_help_icode_desc" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Mahdollistaa koodin näyttämisen rivissä normaalin viestin sisällön joukossa. Syntaksia ei korosteta.]]></phrase>
   <phrase title="bb_code_help_icode_example" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rivikoodiosat [ICODE]ovat kätevä tapa[/ICODE] näyttää koodi tekstin seassa.
 
-Rikast muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahdollista[/U][/ICODE][/ICODE].]]></phrase>
+Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahdollista[/U][/ICODE].]]></phrase>
   <phrase title="bb_code_help_icode_title" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[[ICODE] - Rivinsisäinen ohjelmakoodin näyttö]]></phrase>
   <phrase title="bb_code_help_img_desc" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näyttää kuvan, käyttäen sisällytettyä tekstiä URL:nä.]]></phrase>
   <phrase title="bb_code_help_img_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[IMG] - Kuva]]></phrase>
