@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Suomi" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2021270" export_version="2">
+<language title="Suomi" date_format="j F Y" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2021370" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Päivä sitten]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuukausi sitten]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kerran]]></phrase>
@@ -420,7 +420,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="cookie_consent.cookie_description_cacheKey" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistia käytetään offline-tallennuskohteiden välimuistiavaimen tallentamiseen.]]></phrase>
   <phrase title="cookie_consent.cookie_description_consent" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän evästesuostumusasetukset.]]></phrase>
   <phrase title="cookie_consent.cookie_description_csrf" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan käyttäjän tunniste, joka estää muita sovelluksia tekemästä haitallisia pyyntöjä käyttäjän puolesta.]]></phrase>
-  <phrase title="cookie_consent.cookie_description_dbWriteForced" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään ilmaisemaan, että pyyntö on saatettava loppuun tietokantapalvelimella.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_dbWriteForced" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Tätä evästettä käytetään ilmaisemaan, että pyyntö on saatettava loppuun tietokantapalvelimella.]]></phrase>
   <phrase title="cookie_consent.cookie_description_editorDisabled" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistia käytetään tallentamaan se tieto, että onko käyttäjällä tekstieditori käytössä vai ei.]]></phrase>
   <phrase title="cookie_consent.cookie_description_emoji_usage" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä evästettä käytetään tallentamaan, mitä hymiöitä käyttäjä on äskettäin käyttänyt viesteissään.]]></phrase>
   <phrase title="cookie_consent.cookie_description_fr_copied_html" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tätä työmuistin tietuetta käytetään tallentamaan käyttäjän kopioima rikastettu teksti, kun se liitetään tekstieditoriin.]]></phrase>
@@ -448,12 +448,10 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="cookie_consent.group_label__required" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pakolliset evästeet]]></phrase>
   <phrase title="cookie_consent.group_label__third_party" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Kolmannen osapuolen evästeet]]></phrase>
   <phrase title="cookie_consent.group_label_optional" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Valinnaiset evästeet]]></phrase>
-  <phrase title="cookie_consent.third_party_description_apple" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.apple.com/legal/privacy/en-ww/" target="_blank">Apple</a> ja niitä saatetaan käyttää upotteiden näyttämiseksi.]]></phrase>
   <phrase title="cookie_consent.third_party_description_braintree" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.braintreepayments.com/pl/legal/braintree-privacy-policy" target="_blank">Braintree</a>, ja niitä voidaan käyttää maksujen käsittelyyn.]]></phrase>
   <phrase title="cookie_consent.third_party_description_dailymotion" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://legal.dailymotion.com/en/privacy-policy/" target="_blank">Dailymotion</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_flickr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.flickr.com/help/privacy" target="_blank">Flickr</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_giphy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy" target="_blank">Giphy</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
-  <phrase title="cookie_consent.third_party_description_google" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://policies.google.com/privacy" target="_blank">Google</a> ja niitä voidaan käyttää analytiikkaan, palveluiden tarjoamiseen tai upotetun sisällön näyttämiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_h_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.hcaptcha.com/privacy" target="_blank">HCaptcha</a>, ja niitä voidaan käyttää käyttäjän todentamiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_imgur" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://imgur.com/privacy" target="_blank">Imgur</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_key_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nämä evästeet asettaa <a href="https://www.keycaptcha.com" target="_blank">KeyCaptcha</a>, ja niitä voidaan käyttää käyttäjän todentamiseen.]]></phrase>
@@ -686,7 +684,6 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="email_changed_to_x" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Uusi sähköpostiosoite: {email}]]></phrase>
   <phrase title="email_confirmation_code" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Sähköpostin varmistuskoodi]]></phrase>
   <phrase title="email_conversation_notifications" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Yksityisviestien sähköposti-ilmoitukset]]></phrase>
-  <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kertakäyttöinen kirjautumiskoodi on lähetetty osoitteeseen <b>{email}</b>. Käytä sitä kirjautuaksesi.]]></phrase>
   <phrase title="email_options" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Sähköpostivalinnat]]></phrase>
   <phrase title="email_options_row_explain" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Löydät lisää sähköpostivalintoja <a href="{preferencesLink}">Asetuksista</a>.]]></phrase>
   <phrase title="email_title" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostin otsikko]]></phrase>
@@ -761,6 +758,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="first_post_reaction_score_between" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Ensimmäisen viestin reaktiopisteet]]></phrase>
   <phrase title="first_seen" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ensimmäinen havainto]]></phrase>
   <phrase title="follow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraa]]></phrase>
+  <phrase title="follow_along_with_video_below_to_see_how_to_install_our_site_as_web_app" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Seuraa alla olevaa videota nähdäksesi, miten asennat sivustomme verkkosovelluksena aloitusnäytöllesi.]]></phrase>
   <phrase title="follow_people_to_fill_it" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraa jäseniä saadaksesi lisäsisältöä]]></phrase>
   <phrase title="follow_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seuraa jäsentä {name}]]></phrase>
   <phrase title="followed_members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vain seuratuilta jäseniltä]]></phrase>
@@ -879,6 +877,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="hits" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osumia]]></phrase>
   <phrase title="home" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Etusivu]]></phrase>
   <phrase title="hours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuntia]]></phrase>
+  <phrase title="how_to_install_app_on_ios" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Sovelluksen asentaminen iOS:ssä]]></phrase>
   <phrase title="i_have_read_and_accept_your_privacy_policy" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Olen lukenut ja hyväksyn <a href="{privacyPolicyUrl}" target="_blank">tietosuojaselosteen</a>.]]></phrase>
   <phrase title="i_have_read_and_accept_your_terms_and_rules" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Olen lukenut ja hyväksyn sivuston <a href="{tosUrl}" target="_blank">käyttöehdot ja säännöt</a>.]]></phrase>
   <phrase title="i_have_reviewed_warnings_and_i_still_wish_to_proceed" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Olen lukenut varoitukset ja haluan jatkaa]]></phrase>
@@ -934,6 +933,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="insert_table" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Lisää taulukko]]></phrase>
   <phrase title="insert_video" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Lisää video]]></phrase>
   <phrase title="inserted" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[Lisätty]]></phrase>
+  <phrase title="install" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Asenna]]></phrase>
   <phrase title="install_app" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Asenna sovellus]]></phrase>
   <phrase title="invite" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kutsu]]></phrase>
   <phrase title="invite_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kutsu jäseniä]]></phrase>
@@ -1994,6 +1994,7 @@ Käyttäjätilisi päivitetään kun maksu on hyväksytty.]]></phrase>
   <phrase title="this_content_must_have_at_least_x_tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tällä täytyy olla vähintään {min} tunnistetta.]]></phrase>
   <phrase title="this_conversation_is_closed_for_new_replies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Keskustelu on suljettu eikä siihen voi vastata.]]></phrase>
   <phrase title="this_device_will_remain_trusted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä laite säilyy luotettuna.]]></phrase>
+  <phrase title="this_feature_currently_requires_accessing_site_using_safari" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Tämä ominaisuus edellyttää tällä hetkellä sivuston käyttämistä sisäänrakennetulla Safari-selaimella.]]></phrase>
   <phrase title="this_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä osio]]></phrase>
   <phrase title="this_is_first_post_in_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä on viestiketjun ensimmäinen viesti. Jos tämän poistaa, niin koko viestiketju poistetaan.]]></phrase>
   <phrase title="this_is_maximum_number_of_responses_voter_may_select_when_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Määrittää kuinka monta vastausvaihtoehtoa äänestäjä voi valita äänestäessään.]]></phrase>
