@@ -961,7 +961,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[JavaScript on poistettu käytöstä. Paremman käyttökokemuksen saamiseksi ota JavaScript käyttöön selaimessasi ennen kuin jatkat.]]></phrase>
   <phrase title="join_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Littynyt]]></phrase>
   <phrase title="joined" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Liittynyt]]></phrase>
-  <phrase title="jump_to_new" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Hyppää uuteen]]></phrase>
+  <phrase title="jump_to_new" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Siirry uuteen viestiin]]></phrase>
   <phrase title="justify_text" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tasaa teksti]]></phrase>
   <phrase title="keywords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hakusanat]]></phrase>
   <phrase title="label" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Nimilappu]]></phrase>
