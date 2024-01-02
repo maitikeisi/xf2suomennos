@@ -4,7 +4,7 @@
 
 ## Edellytykset
 
-* [xenForo](https://xenforo.com) versio **2.0** tai myöhempi
+* [XenForo](https://xenforo.com) versio **2.0** tai myöhempi
 
 ## Työnalla
 Ylläpitopaneeli (Admin CP) on vielä enimmäkseen kääntämättä, mutta loppukäyttäjälle näkyvien osien (Frontend) pitäisi olla lähes kokonaan käännetty.
@@ -13,7 +13,9 @@ Ylläpitopaneeli (Admin CP) on vielä enimmäkseen kääntämättä, mutta loppu
 Mikäli sinusta tuntuu siltä, että haluaisit auttaa käännöksen tekemisessä, voit vapaasti tehdä pull request -pyyntöjä tai raportoida ongelmista, jotta käännöksestä saataisiin mahdollisimman hyvä.
 
 ## Asennus
-Voit lisätä kielen Xenforoon menemällä ylläpitopaneeliin eli ACP:hen valitsemalla Import a Language (Tuo kieli) -vaihtoehdon Appearance (Ulkoasu) -välilehdeltä. Sinulla on mahdollisuus luoda uusi kieli tai korvata olemassa oleva kieli. Jos korvaat olemassa olevan kielen, kaikki tekemäsi muokkaukset korvataan tuodulla kielellä.
+Voit joko luoda kokonaan uuden kielen tai korvata jo olemassa olevan. Jos korvaat olemassa olevan kielen, kaikki tekemäsi muokkaukset korvataan tuodun tiedoston tiedoilla.
+Lataa tiedosto Xenforo_2_language-Suomi.xml.
+Lisää kieli XenForoon menemällä ylläpitopaneeliin (admin.php) ja mene Appearance -> Languages -> Import, valitse lataamasi tiedosto ja paina import.
 
 ## Löysitkö jotain väärää?
 Auta korjaamaan se tekemällä [pull request](https://github.com/maitikeisi/xf2suomennos/pulls). Vaihtoehtoisesti voit [raportoida ongelmasta](https://github.com/maitikeisi/xf2suomennos/issues).
@@ -24,7 +26,7 @@ Auta korjaamaan se tekemällä [pull request](https://github.com/maitikeisi/xf2s
 In English:
 
 #### Prerequisits
-* [xenForo](https://xenforo.com) version **2.0** or later
+* [XenForo](https://xenforo.com) version **2.0** or later
 
 ## Work in progress
 
@@ -34,7 +36,9 @@ This is a WIP. Admin CP is still mostly untranslated, but frontend should be clo
 Contributions are very much welcome, so if you feel like helping out, feel free to do pull requests or report issues.
 
 ## Installation
-To import a language in ACP, choose the Import a Language option in the Appearance tab. You have the option to create a new language or overwrite an existing one. If you overwrite an existing language, any customizations you have made will be overwritten by the language you’re importing.
+You have the option to create a new language or overwrite an existing one. If you overwrite an existing language, any customizations you have made will be overwritten by the language you’re importing.
+1.Download file Xenforo_2_language-Suomi.xml.
+2.To import a language in ACP, choose the Appearance -> Language -> Import and choose the file you downloaded and press import. 
 
 ## Found something wrong?
 Help us by correcting it and make a [pull request](https://github.com/maitikeisi/xf2suomennos/pulls). As an alternative you can  [report an issue](https://github.com/maitikeisi/xf2suomennos/issues)
