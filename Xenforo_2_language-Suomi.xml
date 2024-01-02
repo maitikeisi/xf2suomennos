@@ -961,7 +961,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="javascript_is_disabled_please_enable_before_proceeding" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[JavaScript on poistettu käytöstä. Paremman käyttökokemuksen saamiseksi ota JavaScript käyttöön selaimessasi ennen kuin jatkat.]]></phrase>
   <phrase title="join_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Littynyt]]></phrase>
   <phrase title="joined" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Liittynyt]]></phrase>
-  <phrase title="jump_to_new" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Siirry uuteen viestiin]]></phrase>
+  <phrase title="jump_to_new" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Siirry uuteen viestiin]]></phrase>
   <phrase title="justify_text" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tasaa teksti]]></phrase>
   <phrase title="keywords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hakusanat]]></phrase>
   <phrase title="label" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Nimilappu]]></phrase>
@@ -1321,6 +1321,8 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="notify_user_if_action_was_taken" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ilmoita käyttäjälle toimenpiteestä]]></phrase>
   <phrase title="notify_user_of_this_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ilmoita käyttäjälle tästä toimenpiteestä]]></phrase>
   <phrase title="number" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numero]]></phrase>
+  <phrase title="number_button_down" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vähennä]]></phrase>
+  <phrase title="number_button_up" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Lisää]]></phrase>
   <phrase title="numeric" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Numeerinen]]></phrase>
   <phrase title="okay" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Ok]]></phrase>
   <phrase title="old" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vanha]]></phrase>
@@ -1941,6 +1943,7 @@ Raportoitu sisältö:
   <phrase title="tag_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tunniste sisältää]]></phrase>
   <phrase title="tags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tunnisteet]]></phrase>
   <phrase title="tags_must_be_unique" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Tunnisteiden on oltava yksilöllisiä. Määritetty tunniste on jo olemassa.]]></phrase>
+  <phrase title="tags_will_also_be_searched" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Myös tunnisteista etsitään mikäli ne ovat tuettuja.]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Väliaikainen]]></phrase>
   <phrase title="terms_and_rules" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Ehdot ja säännöt]]></phrase>
   <phrase title="text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Teksti]]></phrase>
