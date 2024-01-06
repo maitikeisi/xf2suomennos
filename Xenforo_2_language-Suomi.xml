@@ -1575,6 +1575,7 @@ Ennen kuin sisältösi voidaan julkaista, rekisteröi ilmainen käyttäjätili.]
   <phrase title="public" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Julkinen]]></phrase>
   <phrase title="public_warning_text" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Julkinen varoitusteksti]]></phrase>
   <phrase title="published" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Julkaistu]]></phrase>
+  <phrase title="pull_down_to_refresh" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vedä alaspäin päivittääksesi]]></phrase>
   <phrase title="purchased_upgrades" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ostetut päivitykset]]></phrase>
   <phrase title="purpose" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Käyttötarkoitus]]></phrase>
   <phrase title="push_alert_profile_post_insert" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[{username} kirjoitti viestin profiiliisi.]]></phrase>
@@ -1662,6 +1663,7 @@ Ennen kuin sisältösi voidaan julkaista, rekisteröi ilmainen käyttäjätili.]
   <phrase title="redirection_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uudelleenohjausilmoitus]]></phrase>
   <phrase title="redo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tee uudelleen]]></phrase>
   <phrase title="refine_search" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Täsmennä hakua]]></phrase>
+  <phrase title="refreshing" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Päivittää]]></phrase>
   <phrase title="regenerate_secret_for_new_device" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luo laitteelle uusi salausavain]]></phrase>
   <phrase title="register" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rekisteröidy]]></phrase>
   <phrase title="register_date" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Rekisteröitynyt]]></phrase>
@@ -1681,6 +1683,7 @@ Ennen kuin sisältösi voidaan julkaista, rekisteröi ilmainen käyttäjätili.]
   <phrase title="rejected_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hylätty jäsen]]></phrase>
   <phrase title="rejected_user_log" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Hylättyjen käyttäjien loki]]></phrase>
   <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Hylättyjä jäseniä ei poisteta vaan ne asetetaan 'hylätyksi'. Mikäli hylkäämisen syy on määritelty, niin se näytetään jäsenelle seuraavan kirjautumisen yhteydessä.]]></phrase>
+  <phrase title="release_to_refresh" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vapauta päivittääksesi]]></phrase>
   <phrase title="remain_in_inbox_and_notified_of_replies" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Keskustelu säilyy yksityisviesteissäsi ja saat ilmoituksen uudesta vastauksesta.]]></phrase>
   <phrase title="remove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista]]></phrase>
   <phrase title="remove_avatars" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista avatarit]]></phrase>
