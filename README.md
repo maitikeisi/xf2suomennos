@@ -9,11 +9,17 @@
 ## Työnalla
 Ylläpitopaneeli (Admin CP) on vielä enimmäkseen kääntämättä, mutta loppukäyttäjälle näkyvien osien (Frontend) pitäisi olla lähes kokonaan käännetty.
 
+Suomennoksessa ei ole mukana ns. sivustokohtaisia käännöksia eli esim. sääntöjä tai tietosuojakäytäntöjä koska niihin ei ole oikein mitään yleispätevää linjausta.
+
+Mikäli olet tehnyt omia suomennoksia/muutoksia esim. XF:n tietosuojakäytäntöön, sääntöihin tmv. lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä uudelleen päivityksen jälkeen.
+
 ## Osallistuminen 
 Mikäli sinusta tuntuu siltä, että haluaisit auttaa käännöksen tekemisessä, voit vapaasti tehdä pull request -pyyntöjä tai raportoida ongelmista, jotta käännöksestä saataisiin mahdollisimman hyvä.
 
 ## Asennus
 Voit joko luoda kokonaan uuden kielen tai korvata jo olemassa olevan. Jos korvaat olemassa olevan kielen, kaikki tekemäsi muokkaukset korvataan tuodun tiedoston tiedoilla.
+
+Mikäli olet tehnyt omia suomennoksia/muutoksia esim. XF:n tietosuojakäytäntöön, sääntöihin tmv. lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä uudelleen päivityksen jälkeen.
 
 1. Lataa tiedosto Xenforo_2_language-Suomi.xml.
 
