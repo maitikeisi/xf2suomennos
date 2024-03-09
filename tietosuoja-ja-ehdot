@@ -1,0 +1,68 @@
+Tietosuoja:
+
+<p>Olemme {board_title} ("me", "meidän", "meitä"). Olemme sitoutuneet suojaamaan ja kunnioittamaan yksityisyyttäsi. Jos sinulla on kysyttävää henkilötiedoistasi, ole hyvä ja <a href="{contactUrl}">ota meihin yhteyttä</a>.</p>
+
+<h2>Mitä tietoja meillä on sinusta</h2>
+<p>Keräämme ja käsittelemme seuraavanlaisia tietoja:</p>
+<ul>
+    <li>Nimesi tai käyttäjänimesi.</li>
+    <li>Sähköpostiosoitteesi.</li>
+    <li>IP-osoitteesi.</li>
+</ul>
+<p>Lisätietoja saatetaan kerätä, jos päätät jakaa niitä, kuten täyttämällä profiilisi kenttiä.</p>
+<p>Keräämme jotkut tai kaikki nämä tiedot seuraavissa tapauksissa:</p>
+<ul>
+    <li>Rekisteröidyt jäseneksi tällä sivustolla.</li>
+    <li>Täytät yhteydenottolomakkeemme.</li>
+    <li>Selaat tätä sivustoa. Katso "Evästekäytäntö" alla.</li>
+    <li>Täytät profiilisi kenttiä.</li>
+</ul>
+
+<h2>Miten henkilötietojasi käytetään</h2>
+<p>Henkilötietojasi voidaan käyttää seuraavilla tavoilla:</p>
+<ul>
+    <li>Teemme sinusta rekisteröityn jäsenen sivustollamme, jotta voit osallistua sisällöntuotantoon tällä sivustolla.</li>
+    <li>Käytämme sähköpostiosoitettasi ilmoittaaksemme sinulle sivustollamme tapahtuvasta toiminnasta.</li>
+    <li>IP-osoitteesi tallennetaan, kun suoritat tiettyjä toimia sivustollamme. IP-osoitteesi ei ole koskaan julkisesti näkyvillä.</li>
+</ul>
+
+<h2>Muita tapoja, joilla voimme käyttää henkilötietojasi</h2>
+<p>Lisäksi ilmoittaaksemme sinulle sivustollamme tapahtuvasta sinulle relevantista toiminnasta voimme ajoittain haluta viestiä kaikkien jäsenten kanssa tärkeistä tiedoista, kuten uutiskirjeistä tai ilmoituksista sähköpostitse. Voit valita ottaa vastaan tai olla ottamatta vastaan tällaisia sähköposteja profiilissasi.</p>
+<p>Voimme kerätä sinusta ei-henkilökohtaisia tietoja vuorovaikutuksessasi sivustomme kanssa. Nämä tiedot voivat sisältää teknisiä tietoja selaimestasi tai laitetyypistä, jota käytät. Tätä tietoa käytetään puhtaasti analytiikkaan ja seurantaan sivustomme vierailijoiden määrän osalta.</p>
+
+<h2>Tietojesi säilyttäminen turvallisena</h2>
+<p>Olemme sitoutuneet varmistamaan, että meille antamasi tiedot ovat turvassa. Estääksemme luvattoman pääsyn tai paljastamisen olemme ottaneet käyttöön asianmukaisia toimenpiteitä ja menettelyjä keräämiemme tietojen suojaamiseksi ja turvaamiseksi.</p>
+
+<h2>Evästekäytäntö</h2>
+<p>Evästeet ovat pieniä tekstitiedostoja, jotka asetamme tietokoneellesi mahdollistaaksemme tiettyjä toimintoja sivustollamme, kuten kirjautumisen tai tiettyjen asetusten muistamisen.</p>
+<p>Meillä on yksityiskohtainen evästekäytäntö ja lisätietoja evästeistä, joita asetamme, löydät <a href="{cookieHelp}">tältä sivulta</a>.</p>
+
+<h2>Oikeudet</h2>
+<p>Sinulla on oikeus saada tietää, mitä henkilötietoja meillä on sinusta tai saada siitä kopio. Tee niin ottamalla <a href="{contactUrl}">yhteyttä meihin</a>. Jos uskot, että meillä olevat tiedot sinusta ovat puutteellisia tai virheellisiä, voit <a href="{contactUrl}">otaa meihin yhteyttä</a> ja pyytää niiden täydentämistä tai korjaamista.</p>
+<p>Sinulla on myös oikeus pyytää henkilötietojesi poistamista. Ota <a href="{contactUrl}">yhteyttä meihin</a>, jos haluat meidän poistavan henkilötietosi.</p>
+
+<h2>Tämän politiikan hyväksyminen</h2>
+<p>Sivustomme jatkuvan käytön tulkitaan merkitsevän hyväksyntääsi tälle politiikalle. Jos et hyväksy politiikkaa, älä käytä tätä sivustoa. Rekisteröityessäsi pyydämme lisäksi nimenomaista hyväksyntääsi yksityisyydensuojakäytännöllemme.</p>
+
+<h2>Muutokset tähän politiikkaan</h2>
+<p>Voimme tehdä muutoksia tähän politiikkaan milloin tahansa. Sinulta saatetaan pyytää tarkistamaan ja uudelleenhyväksymään tämä politiikka, jos se muuttuu tulevaisuudessa.</p>
+
+
+
+Ehdot:
+
+<p>Palvelun tarjoajat ("me", "meidän", "meitä") tällä verkkosivustolla tarjottavan palvelun ("Palvelu") osalta eivät ole vastuussa käyttäjien luomasta sisällöstä ja tileistä. Sisällöt heijastavat vain niiden tekijän näkemyksiä.</p>
+
+<p>Tämä Palvelu on saatavilla vain käyttäjille, jotka ovat vähintään {age} vuotta vanhoja. Jos olet nuorempi kuin tämä, älä rekisteröidy tähän Palveluun. Jos rekisteröidyt tähän Palveluun, vakuutat olevasi tämän ikäinen tai vanhempi.</p>
+
+<p>Kaikki Palveluun lähettämäsi, lataamasi tai muulla tavoin saataville antamasi sisältö ("Sisältö") voidaan tarkistaa henkilökunnan toimesta. Kaikki Sisältösi voidaan lähettää kolmannen osapuolen varmennuspalveluihin (mukaan lukien, mutta ei rajoittuen, roskapostin torjuntapalvelut). Älä lähetä mitään sisältöä, jonka katsot olevan yksityistä tai luottamuksellista.</p>
+
+<p>Suostut olemaan käyttämättä Palvelua lähettääksesi tai linkittääksesi mihinkään Sisältöön, joka on herjaavaa, väkivaltaista, vihamielistä, uhkaavaa, roskapostia tai roskapostin kaltaista, todennäköisesti loukkaavaa, sisältää aikuisten tai moitittavan sisällön, sisältää muiden henkilöiden henkilötietoja, aiheuttaa tekijänoikeusloukkauksen riskin, kannustaa lainvastaiseen toimintaan tai rikkoo muuten lakeja. Olet täysin vastuussa kyseisen Sisällön tai käytöksesi sisällöstä aiheutuvista vahingoista.</p>
+
+<p>Voimme poistaa tai muokata mitä tahansa Sisältöä milloin tahansa, syystä tai ilman syytä, ilman ilmoitusta. Pyyntöjä Sisällön poistamisesta tai muokkaamisesta käsitellään vain harkintamme mukaan. Voimme lopettaa pääsysi Palveluun kokonaan tai osittain milloin tahansa, syystä tai ilman syytä, ilman ilmoitusta.</p>
+
+<p>Myönnät meille ei-yksinomaisen, pysyvän, peruuttamattoman ja rajoittamattoman lisenssin käyttää, julkaista tai uudelleen julkaista Sisältöäsi yhteydessä Palveluun. Säilytät tekijänoikeudet Sisältöön.</p>
+
+<p>Nämä ehdot voivat muuttua milloin tahansa ilman erillistä ilmoitusta.</p>
+
+<p>Jos et ole samaa mieltä näistä ehdoista, älä rekisteröidy tai käytä Palvelua. Palvelun käyttö merkitsee näiden ehtojen hyväksymistä. Jos haluat sulkea tilisi, ole hyvä ja <a href="{contactUrl}">ota meihin yhteyttä</a>.</p>
