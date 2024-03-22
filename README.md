@@ -9,9 +9,7 @@
 ## Työnalla
 Ylläpitopaneeli (Admin CP) on vielä enimmäkseen kääntämättä, mutta loppukäyttäjälle näkyvien osien (Frontend) pitäisi olla lähes kokonaan käännetty.
 
-Suomennoksessa ei ole mukana ns. sivustokohtaisia käännöksia eli esim. sääntöjä tai tietosuojakäytäntöjä koska niihin ei ole oikein mitään yleispätevää linjausta.
-
-Mikäli olet tehnyt omia suomennoksia/muutoksia esim. XF:n tietosuojakäytäntöön, sääntöihin tmv. lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä uudelleen päivityksen jälkeen.
+Mikäli olet tehnyt omia suomennoksia/muutoksia esimerkiksi XF:n tietosuojakäytäntöön, sääntöihin tai muihin lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä tarvittaessa uudelleen päivityksen jälkeen.
 
 ## Osallistuminen 
 Mikäli sinusta tuntuu siltä, että haluaisit auttaa käännöksen tekemisessä, voit vapaasti tehdä pull request -pyyntöjä tai raportoida ongelmista, jotta käännöksestä saataisiin mahdollisimman hyvä.
@@ -19,7 +17,7 @@ Mikäli sinusta tuntuu siltä, että haluaisit auttaa käännöksen tekemisessä
 ## Asennus
 Voit joko luoda kokonaan uuden kielen tai korvata jo olemassa olevan. Jos korvaat olemassa olevan kielen, kaikki tekemäsi muokkaukset korvataan tuodun tiedoston tiedoilla.
 
-Mikäli olet tehnyt omia suomennoksia/muutoksia esim. XF:n tietosuojakäytäntöön, sääntöihin tmv. lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä uudelleen päivityksen jälkeen.
+Mikäli olet tehnyt omia suomennoksia/muutoksia esimerkiksi XF:n tietosuojakäytäntöön, sääntöihin tai muihin lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä tarvittaessa uudelleen päivityksen jälkeen.
 
 1. Lataa tiedosto Xenforo_2_language-Suomi.xml.
 
@@ -38,7 +36,9 @@ In English:
 
 ## Work in progress
 
-This is a WIP. Admin CP is still mostly untranslated, but frontend should be close to completely translated.
+The admin panel (Admin CP) is still mostly untranslated, but the parts visible to the end user (Frontend) should be almost completely translated.
+
+If you have made your own translations/changes to, for example, XF's privacy policy, rules or other phrases, you should keep a record of your changes/changes and, if necessary, redo them after the update.
 
 ## Contributions welcome
 Contributions are very much welcome, so if you feel like helping out, feel free to do pull requests or report issues.
