@@ -96,7 +96,7 @@
   <phrase title="allow_voters_to_change_their_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salli äänestäjien vaihtaa valintaansa]]></phrase>
   <phrase title="allow_x_to_invite_others_to_this_conversation" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Salli käyttäjän {user} kutsua muita tähän keskusteluun]]></phrase>
   <phrase title="allow_x_to_invite_others_to_this_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Käyttäjä {user} voi kutsua muita osallistumaan tähän yksityisviestiin]]></phrase>
-  <phrase title="allows_search_engines_to_index_this_thread_based_on_settings_of" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Viestiketjun hakukone indeksointi määritetään foorumin oletusasetuksen mukaisesti.]]></phrase>
+  <phrase title="allows_search_engines_to_index_this_thread_based_on_settings_of" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Hakukone indeksointi määritetään osion oletusasetuksen mukaisesti.]]></phrase>
   <phrase title="already_have_account" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Onko sinulla jo käyttäjätili?]]></phrase>
   <phrase title="alt_text" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Alt-teksti]]></phrase>
   <phrase title="always_allow_search_engines_to_index_this_thread" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Hakukoneet saavat indeksoida tämän]]></phrase>
@@ -859,6 +859,9 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="forum_type.discussion" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Yleinen keskustelu]]></phrase>
   <phrase title="forum_type.question" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Kysymys]]></phrase>
   <phrase title="forum_type.suggestion" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ehdotus]]></phrase>
+  <phrase title="forum_type_action.article" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Luo artikkeli]]></phrase>
+  <phrase title="forum_type_action.question" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Luo kysymys]]></phrase>
+  <phrase title="forum_type_action.suggestion" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Luo ehdotus]]></phrase>
   <phrase title="forum_type_desc.article" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Artikkelifoorumit näyttävät jokaisen viestiketjun ensimmäisen viestin artikkelina ja saattavat muuttaa viestiketjujen näyttötapaa osiota selattaessa.]]></phrase>
   <phrase title="forum_type_desc.discussion" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Yleiset osiot saattavat sisältää kaikenlaisia viestiketjuja.]]></phrase>
   <phrase title="forum_type_desc.question" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Kysymysosioissa käyttäjät voivat esittää kysymyksiä, joihin muut käyttäjät voivat vastata. Paras kysymykseen annettu vastaus voidaan korostaa ja kiinnittää. Äänestettäviin kysymyksiin annettuja vastauksia voidaan äänestää ylös/alas ja ne voidaan lajitella pisteytyksen mukaan.]]></phrase>
@@ -1423,6 +1426,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="only_show_questions_that_have_received_no_answers" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Näytä vain kysymykset joihin ei ole vastattu.]]></phrase>
   <phrase title="only_show_questions_youve_answered" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Näytä vain kysymykset joihin olet vastannut.]]></phrase>
   <phrase title="only_show_suggestions_youve_voted_on" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Näytä vain äänestämäsi ehdotukset]]></phrase>
+  <phrase title="only_show_unsolved_questions" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Näytä vain ratkaisemattomat kysymykset]]></phrase>
   <phrase title="oops_we_ran_into_some_problems" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Hups! Tapahtui jokin virhe.]]></phrase>
   <phrase title="oops_we_ran_into_some_problems_more_details_console" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Hups! Tapahtui jokin virhe. Yritä myöhemmin uudelleen. Selaimen konsolissa voi olla lisätietoja virheistä.]]></phrase>
   <phrase title="open" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Avoin]]></phrase>
@@ -2875,6 +2879,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="your_signature_may_only_have_x_smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allekirjoituksessa voi olla korkeintaan {count} hymiö(tä).]]></phrase>
   <phrase title="your_status_update_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tilapäivityksesi poistettiin.]]></phrase>
   <phrase title="your_status_update_was_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinun <a href="{link}">tilapäivitystä</a> muokattiin.]]></phrase>
+  <phrase title="your_suggestions" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Ehdotuksesi]]></phrase>
   <phrase title="your_thread_x_was_created" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Viestiketjusi {title} on luotu.]]></phrase>
   <phrase title="your_thread_x_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestiketjusi {title} poistettiin.]]></phrase>
   <phrase title="your_thread_x_was_merged_into_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestiketjusi {title} yhdistettiin ketjuun {target}.]]></phrase>
