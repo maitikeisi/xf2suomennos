@@ -1551,7 +1551,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="postings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestit]]></phrase>
   <phrase title="posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestit]]></phrase>
   <phrase title="powered_by_giphy" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Toimii GIPHY:n avulla]]></phrase>
-  <phrase title="pre_reg_action_notice" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Kiitos panoksestasi. 
+  <phrase title="pre_reg_action_notice" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Kiitos viestistäsi. 
 Ennen kuin sisältösi voidaan julkaista, rekisteröi ilmainen käyttäjätili.]]></phrase>
   <phrase title="pre_reg_content_could_not_be_automatically_submitted" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Valitettavasti ennen rekisteröitymistä luotua sisältöä ei voitu lähettää automaattisesti.]]></phrase>
   <phrase title="preferences" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Asetukset]]></phrase>
