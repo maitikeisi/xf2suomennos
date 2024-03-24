@@ -89,7 +89,7 @@
   <phrase title="allow_question_actions" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Salli kysymysten toiminnot]]></phrase>
   <phrase title="allow_results_to_be_viewed_without_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salli tulosten katsominen ilman äänestämistä]]></phrase>
   <phrase title="allow_suggestion_voting" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Salli ehdotuksen äänestys]]></phrase>
-  <phrase title="allow_suggestions_to_be_downvoted" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Salli ehdotuksien alapeukutus]]></phrase>
+  <phrase title="allow_suggestions_to_be_downvoted" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Salli miinusäänien antaminen ehdotuksille]]></phrase>
   <phrase title="allow_users_to" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salli käyttäjien]]></phrase>
   <phrase title="allow_voters_to_change_their_votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Salli äänestäjien vaihtaa valintaansa]]></phrase>
   <phrase title="allow_x_to_invite_others_to_this_conversation" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Salli käyttäjän {user} kutsua muita tähän keskusteluun]]></phrase>
@@ -634,8 +634,8 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="dob_year" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Syntymävuosi]]></phrase>
   <phrase title="dont_have_account_question" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Eikö sinulla ole käyttäjätiliä?]]></phrase>
   <phrase title="dont_send_notifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Älä lähetä ilmoituksia]]></phrase>
-  <phrase title="downvote" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Alapeukku]]></phrase>
-  <phrase title="downvoted" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Alapeukutettu]]></phrase>
+  <phrase title="downvote" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Miinusääni]]></phrase>
+  <phrase title="downvoted" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Miinusääni]]></phrase>
   <phrase title="draft_deleted_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luonnos poistettu onnistuneesti.]]></phrase>
   <phrase title="draft_saved_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luonnos tallenettu onnistuneesti.]]></phrase>
   <phrase title="drafts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luonnokset]]></phrase>
@@ -1553,6 +1553,8 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="powered_by_giphy" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Toimii GIPHY:n avulla]]></phrase>
   <phrase title="pre_reg_action_notice" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Kiitos viestistäsi. 
 Ennen kuin sisältösi voidaan julkaista, rekisteröi ilmainen käyttäjätili.]]></phrase>
+  <phrase title="pre_reg_action_notice_login" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Kiitokset viestistäsi. 
+Ennen kuin sisältösi voidaan julkaista, sinun täytyy kirjautua käyttäjätilillesi.]]></phrase>
   <phrase title="pre_reg_content_could_not_be_automatically_submitted" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Valitettavasti ennen rekisteröitymistä luotua sisältöä ei voitu lähettää automaattisesti.]]></phrase>
   <phrase title="preferences" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Asetukset]]></phrase>
   <phrase title="prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etuliite]]></phrase>
@@ -1933,6 +1935,7 @@ Raportoitu sisältö:
   <phrase title="soft_delete_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista viestiketjut näkyvistä]]></phrase>
   <phrase title="solution" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ratkaisu]]></phrase>
   <phrase title="solutions" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ratkaisut]]></phrase>
+  <phrase title="solved" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Ratkaistu]]></phrase>
   <phrase title="some_tags_not_valid_please_change_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jotkin tunnisteet eivät olleet kelvollisia, koska ne olivat liian lyhyitä, liian pitkiä tai sisälsivät kiellettyä tekstiä. Vaihda seuraavat tunnisteet: {tags}]]></phrase>
   <phrase title="something_went_wrong_please_try_again" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jokin meni pieleen. Yritä uudelleen tai ota yhteyttä ylläpitäjään.]]></phrase>
   <phrase title="sorry_you_must_wait_longer_to_create_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oho, yritit rekisteröityä liian nopeasti. Odota vielä hetki.]]></phrase>
@@ -2330,8 +2333,8 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="uploaded_image_contains_invalid_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ladattu kuva on sisällöltään vääränlainen. Yritä jotain toista kuvaa.]]></phrase>
   <phrase title="uploaded_image_is_too_big" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ladattu kuva on liian suuri.]]></phrase>
   <phrase title="uploading" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lähetetään]]></phrase>
-  <phrase title="upvote" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Yläpeukku]]></phrase>
-  <phrase title="upvoted" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Yläpeukutettu]]></phrase>
+  <phrase title="upvote" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Plusääni]]></phrase>
+  <phrase title="upvoted" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Plusääni]]></phrase>
   <phrase title="url_x_could_not_be_fetched_or_is_not_valid_image_error_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{url} ei voitu hakea tai se ei sisällä kuvaa. Virhe: {error}]]></phrase>
   <phrase title="url_x_was_fetched_successfully" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[{url} noudettiin onnistuneesti.]]></phrase>
   <phrase title="use_custom_avatar" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Käytä omaa avataria]]></phrase>
@@ -2442,6 +2445,11 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="visit_board_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vieraile sivustolla {board_title}: {board_url}]]></phrase>
   <phrase title="visit_site" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vieraile sivustolla]]></phrase>
   <phrase title="visits_in_last_hour_may_not_be_considered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vierailuja viimeisen tunnin ajalta ei pakosti ole huomioituna.]]></phrase>
+  <phrase title="vote_action_cancelled" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Ääni poistettu]]></phrase>
+  <phrase title="vote_action_downvoted" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Miinusääni annettu]]></phrase>
+  <phrase title="vote_action_upvoted" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Plusääni annettu]]></phrase>
+  <phrase title="vote_for_content" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Äänestä sisältöä]]></phrase>
+  <phrase title="vote_noun" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Ääni]]></phrase>
   <phrase title="votes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänet]]></phrase>
   <phrase title="voting_not_allowed_no_solution_existing_displayed_question" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Äänestäminen ei ole sallittua, eikä ratkaisua voi valita, mutta olemassa olevat arvot näytetään.]]></phrase>
   <phrase title="voting_on_this_suggestion_has_been_paused" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tämän ehdotuksen äänestys on keskeytetty.]]></phrase>
@@ -2660,7 +2668,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="you_sure_you_want_to_delete_x_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat poistaa {count} profiiliviestiä?]]></phrase>
   <phrase title="you_sure_you_want_to_delete_x_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat poistaa {count} viestiketjua?]]></phrase>
   <phrase title="you_sure_you_want_to_disable_all_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat ottaa kaikki lisäosat pois käytöstä?]]></phrase>
-  <phrase title="you_sure_you_want_to_downvote_this_content" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Oletko varma, että haluat alapeukuttaa tämän sisällön?]]></phrase>
+  <phrase title="you_sure_you_want_to_downvote_this_content" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Oletko varma, että haluat antaa miinusäänen tälle sisällölle?]]></phrase>
   <phrase title="you_sure_you_want_to_like_this_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat tykätä tästä?]]></phrase>
   <phrase title="you_sure_you_want_to_mark_all_forums_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat merkata kaikki osiot luetuksi?]]></phrase>
   <phrase title="you_sure_you_want_to_mark_this_forum_read" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat merkitä tämän osion luetuksi?]]></phrase>
@@ -2671,7 +2679,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="you_sure_you_want_to_prefix_x_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat lisätä allaolevan etuliitteen {count} valittuun viestiketjuun?]]></phrase>
   <phrase title="you_sure_you_want_to_re_enable_previously_disabled_add_ons" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat ottaa käyttöön aiemmin pois käytöstä otetut lisäosat?]]></phrase>
   <phrase title="you_sure_you_want_to_remove_your_reaction" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Oletko varma, että haluat poistaa reaktiosi?]]></phrase>
-  <phrase title="you_sure_you_want_to_remove_your_vote_for_this_content" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Oletko varma, että haluat poistaa sisällölle antamasi äänesi?]]></phrase>
+  <phrase title="you_sure_you_want_to_remove_your_vote_for_this_content" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Oletko varma, että haluat poistaa tälle sisällölle antamasi äänen?]]></phrase>
   <phrase title="you_sure_you_want_to_resend_security_lock_reset_email" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Oletko varma, että haluat lähettää turvalukituksen nollaus sähköpostin uudelleen? Aiemmin lähetetyt sähköpostit eivät enää toimi. Sähköposti lähetetään osoitteeseen:  {email}.]]></phrase>
   <phrase title="you_sure_you_want_to_stop_all_emails_from_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Oletko varma, että haluat lopettaa kaikki sähköposti-ilmoitukset sivustolta {board_title}?]]></phrase>
   <phrase title="you_sure_you_want_to_stop_watching_all_forums" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Oletko varma, että haluat lopettaa <b>kaikkien</b> osioiden seuraamisen?]]></phrase>
@@ -2682,7 +2690,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="you_sure_you_want_to_unwatch_this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oletko varma, että haluat lopettaa tämän viestiketjun seuraamisen?]]></phrase>
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_forums" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Oletko varma, että haluat päivittää <b>kaikkien</b> osioiden sähköposti-ilmoitusasetukset?]]></phrase>
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_threads" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[Oletko varma, että haluat päivittää <b>kaikkien</b> viestiketjujen sähköposti-ilmoitusasetukset?]]></phrase>
-  <phrase title="you_sure_you_want_to_upvote_this_content" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Oletko varma. että haluat antaa yläpeukun tälle sisällölle?]]></phrase>
+  <phrase title="you_sure_you_want_to_upvote_this_content" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Oletko varma, että haluat antaa plusäänen tälle sisällölle?]]></phrase>
   <phrase title="you_unable_reply_to_thread_x_until_expiry_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi vastata viestiketjuun {title} vasta kuin {expiry}.]]></phrase>
   <phrase title="your_account" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Käyttäjätili]]></phrase>
   <phrase title="your_account_already_has_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjätililläsi on jo salasana.]]></phrase>
