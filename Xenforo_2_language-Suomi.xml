@@ -420,7 +420,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="conversation_starred" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Yksityisviesti merkitty tärkeäksi]]></phrase>
   <phrase title="conversation_starter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Viestiketjun aloittaja]]></phrase>
   <phrase title="conversation_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviestin aihe]]></phrase>
-  <phrase title="conversation_unstarred" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Yksityisviestin tärkeysluokitus poistettu.]]></phrase>
+  <phrase title="conversation_unstarred" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Yksityisviesti poistettu tärkeistä.]]></phrase>
   <phrase title="conversation_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Yksityisviesti '{title}']]></phrase>
   <phrase title="conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviestit]]></phrase>
   <phrase title="cookie_consent" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Evästesuostumus]]></phrase>
@@ -1446,7 +1446,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vahvista, että haluat jättää tämän käyttäjän huomioimatta (ignore)]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_following_this_user" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluat lopettaa tämän käyttäjän seuraamisen]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluat lopettaa tämän käyttäjän piilottamisen]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_unstar_following_conversation" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Vahvista, että haluat poistaa yksityisviestiketjun tärkeysluokituksen]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_unstar_following_conversation" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Vahvista, että haluat poistaa yksityisviestiketjun tärkeistä]]></phrase>
   <phrase title="please_confirm_that_you_would_like_to_change_to_following_style" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluaisit vaihtaa tähän teemaan]]></phrase>
   <phrase title="please_confirm_want_to_delete_forum_and_discussions" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluat poistaa osion ja kaikki sen sisältämät viestit]]></phrase>
   <phrase title="please_confirm_you_want_mark_this_post_as_solution" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluat merkata tämän viestin ratkaisuksi]]></phrase>
@@ -2292,7 +2292,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="unread_conversations" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Lukemattomat yksityisviestit]]></phrase>
   <phrase title="unread_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lukemattomat viestiketjut]]></phrase>
   <phrase title="unsolved" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ratkaisematon]]></phrase>
-  <phrase title="unstar" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Poista tärkeysluokitus]]></phrase>
+  <phrase title="unstar" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Poista tärkeistä]]></phrase>
   <phrase title="unstar_conversations" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[Poista yksityisviesti tärkeistä]]></phrase>
   <phrase title="unstick_thread" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Poista pysyvyys]]></phrase>
   <phrase title="unstick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista viestiketjujen pysyvyys]]></phrase>
