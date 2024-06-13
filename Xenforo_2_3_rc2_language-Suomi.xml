@@ -959,13 +959,13 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="help_page_desc.privacy_policy" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Sinun täytyy hyväksyä tämä lauseke voidaksesi käyttää sivua.]]></phrase>
   <phrase title="help_page_desc.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Täältä näet kaikki käytettävissä olevat hymiöt.]]></phrase>
   <phrase title="help_page_desc.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinun täytyy hyväksyä nämä käyttöehdot jatkaaksesi sivuston käyttöä.]]></phrase>
-  <phrase title="help_page_desc.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Voit saada aktivisuuspalkintoja suorittamalla erilaisia toimia. Tältä sivulta näet kaikki aktivisuuspalkinnot jotka ovat saatavilla.]]></phrase>
+  <phrase title="help_page_desc.trophies" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Voit saada aktivisuuspalkintoja suorittamalla erilaisia toimia. Tältä sivulta näet kaikki aktivisuuspalkinnot jotka ovat saatavilla.]]></phrase>
   <phrase title="help_page_title.bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB-koodit]]></phrase>
   <phrase title="help_page_title.cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Evästeet]]></phrase>
   <phrase title="help_page_title.privacy_policy" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tietosuojaseloste]]></phrase>
   <phrase title="help_page_title.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hymiöt]]></phrase>
   <phrase title="help_page_title.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttöehdot]]></phrase>
-  <phrase title="help_page_title.trophies" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Palkinnot]]></phrase>
+  <phrase title="help_page_title.trophies" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Aktiivisuuspalkinnot]]></phrase>
   <phrase title="help_pages" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Tukisivut]]></phrase>
   <phrase title="history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Historia]]></phrase>
   <phrase title="hits" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osumia]]></phrase>
@@ -1312,6 +1312,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="nav.findThreads" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Hae...]]></phrase>
   <phrase title="nav.forumList" addon_id="XF" version_id="2020170" version_string="2.2.1"><![CDATA[Alueet]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Foorumi]]></phrase>
+  <phrase title="nav.home" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Etusivu]]></phrase>
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Viime toiminnot]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Merkitse osiot luetuksi]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jäsenet]]></phrase>
@@ -1483,6 +1484,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="pages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuja]]></phrase>
   <phrase title="palette" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Paletti]]></phrase>
   <phrase title="paragraph_format" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Kappalemuoto]]></phrase>
+  <phrase title="paragraph_normal" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Normaali]]></phrase>
   <phrase title="participants" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osallistujat]]></phrase>
   <phrase title="passkey" addon_id="XF" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Todentamisavain]]></phrase>
   <phrase title="passkey_date_x" addon_id="XF" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Todentamisavain {date}]]></phrase>
@@ -2368,10 +2370,11 @@ Lisätietoja saat meidän <a href="{cookies_link}">evästesivulta</a>.]]></phras
 <br />
 Kun olet tehnyt tämän, sinun on skannattava alla oleva QR-koodi sovellukseen ja kirjoittaa saamasi sovelluksen luoma koodi alle.]]></phrase>
   <phrase title="totp_this_will_regenerate_secret" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tämä luo uuden salausavaimen jota käytetään tunnistukseen jotta voit siirtää tiedot uuteen laitteeseen. Tämän jälkeen koodit, jotka tehdään vanhalla salausavaimella, eivät enää toimi.]]></phrase>
-  <phrase title="trophies" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Palkinnot]]></phrase>
-  <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Jäsenelle {name} myönnetyt palkinnot]]></phrase>
-  <phrase title="trophy_points" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Palkintopisteet]]></phrase>
-  <phrase title="trophy_points_between" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Palkintopisteet väliltä]]></phrase>
+  <phrase title="trending_content" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Ajankohtainen sisältö]]></phrase>
+  <phrase title="trophies" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Aktiivisuuspalkinnot]]></phrase>
+  <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Jäsenelle {name} myönnetyt aktiivisuuspalkinnot]]></phrase>
+  <phrase title="trophy_points" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Aktiivisuuspalkinnot]]></phrase>
+  <phrase title="trophy_points_between" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Aktiivisuuspalkinnot väliltä]]></phrase>
   <phrase title="trust_device_desc" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jos valitset tämän vaihtoehdon, sinun ei tarvitse suorittaa kaksivaiheista vahvistusta tällä laitteella seuraavien 30 päivän aikana.]]></phrase>
   <phrase title="trust_this_device_for_30_days" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luota tähän laitteseen 30 päivää.]]></phrase>
   <phrase title="trusted_devices" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luotetut laitteet]]></phrase>
@@ -2515,7 +2518,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjäryhmä]]></phrase>
   <phrase title="user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjäryhmät]]></phrase>
   <phrase title="user_has_already_been_warned_for_this_content" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Käyttäjä on jo saanut varoituksen tästä.]]></phrase>
-  <phrase title="user_has_at_least_x_trophy_points" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Käyttäjällä on ainakin X palkintopistettä]]></phrase>
+  <phrase title="user_has_at_least_x_trophy_points" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Käyttäjällä on ainakin X aktiivisuuspalkintoa]]></phrase>
   <phrase title="user_has_been_registered_for_at_least_x_days" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Käyttäjä on ollut rekisteröityneenä ainakin X päivää]]></phrase>
   <phrase title="user_has_enabled_two_step_verification" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Käyttäjä käyttää kaksivaiheista tunnistautumista]]></phrase>
   <phrase title="user_has_no_avatar" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Käyttäjällä ei ole avataria]]></phrase>
@@ -2561,7 +2564,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="verification_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varmistuskoodi]]></phrase>
   <phrase title="via_twitter_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tililtä: @...]]></phrase>
   <phrase title="view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä]]></phrase>
-  <phrase title="view_all_available_trophies" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Näytä kaikki palkinnot]]></phrase>
+  <phrase title="view_all_available_trophies" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Näytä kaikki saatavilla olevat aktiivisuuspalkinnot]]></phrase>
   <phrase title="view_all_featured_content" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Näytä kaikki näyteikkunan sisältö]]></phrase>
   <phrase title="view_all_your_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä kaikki yksityisviestit]]></phrase>
   <phrase title="view_all_your_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Näytä kaikki yksityisviestisi]]></phrase>
@@ -2706,7 +2709,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="x_for_y_days" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[{cost} / {length} päiväksi]]></phrase>
   <phrase title="x_for_y_months" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[{cost} / {length} kuukaudeksi]]></phrase>
   <phrase title="x_for_y_years" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[{cost} / {length} vuodeksi]]></phrase>
-  <phrase title="x_has_not_been_awarded_any_trophies_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jäsenelle {name} ei ole vielä myönnetty aktisuuspalkintoja.]]></phrase>
+  <phrase title="x_has_not_been_awarded_any_trophies_yet" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Jäsenelle {name} ei ole vielä myönnetty aktiivisuuspalkintoja.]]></phrase>
   <phrase title="x_has_not_posted_any_content_recently" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} ei ole viime aikoina luonut sisältöä.]]></phrase>
   <phrase title="x_has_not_provided_any_additional_information" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} ei ole lisännyt minkäänlaisia lisätietoja.]]></phrase>
   <phrase title="x_hours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{count} tuntia]]></phrase>
@@ -2782,7 +2785,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="you_cannot_start_conversation_with_yourself" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi aloittaa yksityisviestiketjua itsesi kanssa.]]></phrase>
   <phrase title="you_do_not_have_any_recent_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei lähiaikoina tulleita ilmoituksia.]]></phrase>
   <phrase title="you_have_already_bookmarked_this_content" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Olet jo lisännyt tämän kirjanmerkiksi.]]></phrase>
-  <phrase title="you_have_been_awarded_a_trophy_x" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Olet saanut palkinnon: {trophy}]]></phrase>
+  <phrase title="you_have_been_awarded_a_trophy_x" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Sinut on palkittu aktiivisuuspalkinnolla: {trophy}]]></phrase>
   <phrase title="you_have_been_banned" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sinut on asetettu porttikieltoon.]]></phrase>
   <phrase title="you_have_been_banned_for_following_reason_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Sinut on asetettu porttikieltoon. Syy: {reason}.]]></phrase>
   <phrase title="you_have_exceeded_allowed_number_of_recipients_x_for" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Olet ylittänyt tämän viestin sallitun vastaanottajien määrän ({limit}) ]]></phrase>
