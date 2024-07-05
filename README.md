@@ -19,12 +19,16 @@ Voit joko luoda kokonaan uuden kielen tai korvata jo olemassa olevan. Jos korvaa
 
 Mikäli olet tehnyt omia suomennoksia/muutoksia esimerkiksi XF:n tietosuojakäytäntöön, sääntöihin tai muihin lausekkeisiin, niin kannattaa tekemäsi muutokset/suomennokset ottaa talteen ja tehdä tarvittaessa uudelleen päivityksen jälkeen.
 
-1. Lataa tiedosto Xenforo_2_language-Suomi.xml.
+1. XenForo 2.3.x tai uudempi: Lataa tiedosto XenForo_2.3_language-Suomi.xml
+   
+   XenForo 2.2.X tai vanhempi 2 versio: Lataa tiedosto Xenforo_2.2_language-Suomi.xml.
+   
+   Erilliset tiedostot koska 2.3. versiossa muutettu tiettyjen lausekkeiden nimiä, eikä täten voida taata, että suomennokset olisivat täysin yhteensopivat keskenään.
 
-2. Lisää kieli XenForoon menemällä ylläpitopaneeliin (admin.php) ja mene Appearance -> Languages -> Import, valitse lataamasi tiedosto ja paina import.
+3. Lisää kieli XenForoon menemällä ylläpitopaneeliin (admin.php) ja mene Appearance -> Languages -> Import, valitse lataamasi tiedosto ja paina import.
 
-## Löysitkö jotain väärää?
-Auta korjaamaan se tekemällä [pull request](https://github.com/maitikeisi/xf2suomennos/pulls). Vaihtoehtoisesti voit [raportoida ongelmasta](https://github.com/maitikeisi/xf2suomennos/issues).
+## Löysitkö jotain parannettavaa?
+Voit auttaa tekemällä [pull requestin](https://github.com/maitikeisi/xf2suomennos/pulls). Vaihtoehtoisesti voit [raportoida ongelmasta](https://github.com/maitikeisi/xf2suomennos/issues).
 
 
 ------------
