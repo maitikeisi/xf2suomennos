@@ -409,9 +409,9 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="continue_with_x" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Yhdistä {provider}]]></phrase>
   <phrase title="continuing_will_redirect_you_to_google_to_confirm_account_you_want_to" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jatkaminen siirtää sinut Googlen palveluun vahvistamaan tili, jota haluat käyttää.]]></phrase>
   <phrase title="conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviesti]]></phrase>
-  <phrase title="conversation_email_html_footer" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi viestiin sinun täytyy käydä sivustolla.</p>
+  <phrase title="conversation_email_html_footer" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Vastataksesi viestiin sinun täytyy käydä sivustolla.</p>
 
-<p class="minorText">Tämä viesti lähetettiin sinulle koska asetuksissasi on määritetty, että haluat ilmoituksen sähköpostiisi uusista yksityisviesteistä.  <a href="{disable_link}">Lopeta näiden sähköpostien vastaanottaminen</a>.</p>]]></phrase>
+<p class="minorText">Tämä viesti lähetettiin sinulle koska asetuksissasi on määritetty, että haluat ilmoituksen sähköpostiisi uusista yksityisviesteistä. Jos et halua enää vastaanottaa näitä viestejä, voit <a href="{disable_link}">lopettaa näiden sähköpostien vastaanottamisen</a> tai <a href="{disable_all_link}">lopettaa kaikkien sähköpostien vastaanottamisen</a>.</p>]]></phrase>
   <phrase title="conversation_info" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yksityisviestin tiedot]]></phrase>
   <phrase title="conversation_insert_email_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{sender} lähetti sinulle yksityisviestin sivustolla {board}.</p>]]></phrase>
   <phrase title="conversation_insert_email_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} lähetti sinulle yksityisviestin otsikolla: "{title}"]]></phrase>
