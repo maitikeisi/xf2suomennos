@@ -4,7 +4,7 @@
 
 ## Edellytykset
 
-* [XenForo](https://xenforo.com) versio **2.0** tai myöhempi
+* [XenForo](https://xenforo.com) versio **2.0** tai uudempi
 
 ## Työnalla
 Ylläpitopaneeli (Admin CP) on vielä enimmäkseen kääntämättä, mutta loppukäyttäjälle näkyvien osien (Frontend) pitäisi olla lähes kokonaan käännetty.
@@ -52,7 +52,7 @@ You have the option to create a new language or overwrite an existing one. If yo
 
 1. XenForo 2.3.X: Download file XenForo_2.3_language-Suomi.xml
 
-   XenForo 2.2.X: Download file Xenforo_2.2_language-Suomi.xml.
+   XenForo 2.2.X and below: Download file Xenforo_2.2_language-Suomi.xml.
 
    Different files because XenForo 2.3 introduced some changes to phrases and it's translation might not be fully compatible with earlier XenForo versions.
 
