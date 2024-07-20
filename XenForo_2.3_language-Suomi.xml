@@ -615,9 +615,9 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="did_not_complete_the_captcha_verification_properly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et täyttänyt CAPTCHA varmistusta oikein. Ole hyvä ja yritä uudelleen.]]></phrase>
   <phrase title="direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Yksityisviesti]]></phrase>
   <phrase title="direct_message_body" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Yksityisviestin kappale]]></phrase>
-  <phrase title="direct_message_email_html_footer" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Sinun on käytävä foorumilla vastataksesi.</p>
+  <phrase title="direct_message_email_html_footer" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[<p class="minorText">Älä vastaa tähän viestiin. Sinun on käytävä foorumilla vastataksesi.</p>
 
-<p class="minorText">Tämä viesti lähetettiin sinulle, koska olet valinnut asetuksissasi, että sinulle lähetetään sähköpostia uusista yksityisviesteistä. Jos et enää halua vastaanottaa näitä sähköposteja, voit  <a href="{disable_link}">poistaa yksityisviestin sähköposti-ilmoitukset käytöstä</a> tai <a href="{disable_all_link}">poistaa kaikki sähköposti-ilmotukset</a>.</p>]]></phrase>
+<p class="minorText">Tämä viesti lähetettiin sinulle koska asetuksissasi on määritetty, että haluat ilmoituksen sähköpostiisi uusista yksityisviesteistä. Jos et halua enää vastaanottaa näitä viestejä, voit <a href="{disable_link}">lopettaa näiden sähköpostien vastaanottamisen</a> tai <a href="{disable_all_link}">lopettaa kaikkien sähköpostien vastaanottamisen</a>.</p>]]></phrase>
   <phrase title="direct_message_from_x" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Yksityisviesti käyttäjältä {username}]]></phrase>
   <phrase title="direct_message_info" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Yksityisviestin tiedot]]></phrase>
   <phrase title="direct_message_insert_email_html" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[<p>{sender} on lähettänyt sinulle yksityisviestin sivustolla {board}.</p>]]></phrase>
@@ -1677,6 +1677,11 @@ Ennen kuin sisältösi voidaan julkaista, sinun täytyy kirjautua käyttäjätil
   <phrase title="preferences" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Asetukset]]></phrase>
   <phrase title="prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etuliite]]></phrase>
   <phrase title="prefixes" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Etuliitteet]]></phrase>
+  <phrase title="prepared_email_html_footer" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[Tämä viesti lähetettiin sinulle, koska asetuksissasi on valittuna ”Vastaanota uutis- ja päivityssähköposteja”. Jos et halua enää vastaanottaa näitä sähköpostiviestejä, voit <a href="{unsub}">peruuttaa tämän postituslistan tilauksen</a> tai <a href="{unsub_all}">poistaa kaikki sähköpostiviestit käytöstä</a>.]]></phrase>
+  <phrase title="prepared_email_text_footer" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[Tämä viesti lähetettiin sinulle, koska asetuksissasi on valittuna ”Vastaanota uutis- ja päivityssähköposteja”. Jos et halua enää vastaanottaa näitä sähköpostiviestejä, voit poistua postituslistalta tai poistaa käytöstä kaikki sähköpostiviestit.
+
+Poistu postituslistalta: {unsub}
+Poista kaikki sähköpostiviestit: {unsub_all}]]></phrase>
   <phrase title="prev" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edellinen]]></phrase>
   <phrase title="preview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esikatselu]]></phrase>
   <phrase title="preview_feed_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esikatsele syöte]]></phrase>
