@@ -2386,7 +2386,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="unmark_as_solution" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Poista ratkaisu]]></phrase>
   <phrase title="unmodified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Muokkaamaton]]></phrase>
   <phrase title="unordered_list" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Luettelo]]></phrase>
-  <phrase title="unread_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Lukemattomt yksityisviestit]]></phrase>
+  <phrase title="unread_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Lukemattomat yksityisviestit]]></phrase>
   <phrase title="unread_threads" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Lukemattomat viestiketjut]]></phrase>
   <phrase title="unsolved" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Ratkaisematon]]></phrase>
   <phrase title="unstar" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Poista tärkeistä]]></phrase>
