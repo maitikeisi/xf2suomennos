@@ -947,10 +947,10 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="if_you_change_your_email_you_may_need_to_reconfirm_your_account" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jos vaihdat sähköpostiosoitteesi, sinun on ehkä vahvistettava tilisi uudelleen.]]></phrase>
   <phrase title="if_you_have_not_been_prompted_automatically_to_create_passkey_for_this" addon_id="XF" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Jos sinua ei ole pyydetty automaattisesti luomaan todentamisavainta tälle laitteelle, aloita napsauttamalla alla olevaa "Lisää"-painiketta. Kun olet luonut avaimen, anna sille nimi ja klikkaa "Tallenna".]]></phrase>
   <phrase title="if_you_leave_these_values_blank_feature_will_automatically_derive_them" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Jos jätät nämä arvot tyhjiksi, näyteikkunan sisältö luodaan automaattisesti sisällöstä.]]></phrase>
-  <phrase title="ignore" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Jätä käyttäjä huomioimatta (ignore)]]></phrase>
+  <phrase title="ignore" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Jätä käyttäjä huomiotta (ignore)]]></phrase>
   <phrase title="ignore_email_if_not_requested" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jos et ole pyytänyt tätä sähköpostia, voit jättää sen huomiotta.]]></phrase>
   <phrase title="ignore_future_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Älä huomioi tulevia viestejä.]]></phrase>
-  <phrase title="ignore_x" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Jätä käyttäjä {name} huomioimatta]]></phrase>
+  <phrase title="ignore_x" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Jätä käyttäjä {name} huomiotta]]></phrase>
   <phrase title="ignored_member" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Piilotettu jäsen]]></phrase>
   <phrase title="ignoring" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Piilotetut]]></phrase>
   <phrase title="image" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuva]]></phrase>
@@ -1054,7 +1054,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="leave" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poistu]]></phrase>
   <phrase title="leave_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Poistu yksityisviestiketjusta]]></phrase>
   <phrase title="leave_direct_message_and_accept_future_responses" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Poistu yksityisviestiketjusta ja vastaanota tulevat viestit]]></phrase>
-  <phrase title="leave_direct_message_and_ignore_future_responses" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Poistu yksityisviestiketjusta ja jätä huomioimatta tulevat vastaukset]]></phrase>
+  <phrase title="leave_direct_message_and_ignore_future_responses" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Poistu yksityisviestiketjusta ja jätä huomiotta tulevat vastaukset]]></phrase>
   <phrase title="leave_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Poistu yksityisviestiketjuista]]></phrase>
   <phrase title="leave_permanent_redirect" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jätä pysyvä uudelleenohjaus]]></phrase>
   <phrase title="leave_rating" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Lisää arvosana]]></phrase>
@@ -1502,7 +1502,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="please_confirm_that_you_wish_to_mark_following_direct_message_unread" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Vahvista, että haluat merkitä seuraavan yksityisviestin lukemattomaksi]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_star_following_direct_message" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Vahvista, että haluat merkitä seuraavan yksityisviestin tärkeäksi]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_start_following_this_user" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Vahvista, että haluat alkaa seuraamaan tätä käyttäjää]]></phrase>
-  <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vahvista, että haluat jättää tämän käyttäjän huomioimatta (ignore)]]></phrase>
+  <phrase title="please_confirm_that_you_wish_to_start_ignoring_this_user" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Vahvista, että haluat jättää tämän käyttäjän huomiotta (ignore)]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_following_this_user" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluat lopettaa tämän käyttäjän seuraamisen]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_stop_ignoring_this_user" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Vahvista, että haluat lopettaa tämän käyttäjän piilottamisen]]></phrase>
   <phrase title="please_confirm_that_you_wish_to_unstar_following_direct_message" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Vahvista, että haluat poistaa tämän yksityisviestin tärkeistä]]></phrase>
