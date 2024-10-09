@@ -724,6 +724,14 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="emails" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Sähköpostiin]]></phrase>
   <phrase title="embedded_media" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Upotettu media]]></phrase>
   <phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upotettu youtube-soitin näkyisi tässä.]]></phrase>
+  <phrase title="emoji_category.activity" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Aktiviteetti]]></phrase>
+  <phrase title="emoji_category.flags" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Liput]]></phrase>
+  <phrase title="emoji_category.food" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Ruoka]]></phrase>
+  <phrase title="emoji_category.nature" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Luonto]]></phrase>
+  <phrase title="emoji_category.objects" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Esineet]]></phrase>
+  <phrase title="emoji_category.people" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Henkilöt]]></phrase>
+  <phrase title="emoji_category.symbols" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Symbolit]]></phrase>
+  <phrase title="emoji_category.travel" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Matkustus]]></phrase>
   <phrase title="enable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ota käyttöön]]></phrase>
   <phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ota käyttöön ilmoitukset]]></phrase>
   <phrase title="enable_moderation" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Ota valvontatyökalut käyttöön]]></phrase>
