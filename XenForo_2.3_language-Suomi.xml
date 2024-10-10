@@ -49,7 +49,7 @@
   <phrase title="administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ylläpitäjä]]></phrase>
   <phrase title="administrators" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ylläpitäjät]]></phrase>
   <phrase title="administrators_will_not_be_security_locked" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Ylläpitäjiä ei voi lukita.]]></phrase>
-  <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mukautettu haku]]></phrase>
+  <phrase title="advanced_search" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Tarkennettu haku]]></phrase>
   <phrase title="advertising" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Mainostus]]></phrase>
   <phrase title="age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ikä]]></phrase>
   <phrase title="alert" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Ilmoitus]]></phrase>
@@ -1237,7 +1237,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="monthly_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuukausittaiset tilastot]]></phrase>
   <phrase title="months" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuukautta]]></phrase>
   <phrase title="more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lisää]]></phrase>
-  <phrase title="more_options" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Enemmän valintoja]]></phrase>
+  <phrase title="more_options" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Lisää vaihtoehtoja]]></phrase>
   <phrase title="more_records_matching_filter_more_specific" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Suodatinta vastaavia tietueita on enemmän. Ole hyvä ja tarkenna.]]></phrase>
   <phrase title="more_users" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Lisää käyttäjiä]]></phrase>
   <phrase title="most_recent" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Viimeisimmät]]></phrase>
@@ -1288,7 +1288,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="nav.whatsNewNewsFeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uutissyöte]]></phrase>
   <phrase title="nav.whatsNewPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uudet viestit]]></phrase>
   <phrase title="nav.whatsNewProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uudet profiiliviestit]]></phrase>
-  <phrase title="nav.yourThreads" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Viestiketjusi]]></phrase>
+  <phrase title="nav.yourThreads" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Aloittamasi viestiketjut]]></phrase>
   <phrase title="navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Navigaatio]]></phrase>
   <phrase title="never" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ei ikinä]]></phrase>
   <phrase title="never_allow_search_engines_to_index_this_thread" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Hakukoneet eivät saa indeksoida tätä]]></phrase>
@@ -2274,7 +2274,7 @@ Jatkamalla tämän sivuston käyttöä hyväksyt evästeiden käytön.]]></phras
   <phrase title="threads_with_no_replies" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Viestiketjut joissa ei ole vastauksia]]></phrase>
   <phrase title="threads_with_posts_by_x" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Viestiketjut joihin {username} on vastannut]]></phrase>
   <phrase title="threads_with_your_posts" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Viestiketjut joihin olet vastannut]]></phrase>
-  <phrase title="threads_youve_started" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Viestiketjusi]]></phrase>
+  <phrase title="threads_youve_started" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Aloittamasi viestiketjut]]></phrase>
   <phrase title="thumbnail" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Pikkukuva]]></phrase>
   <phrase title="time_zone" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aikavyöhyke]]></phrase>
   <phrase title="title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Otsikko]]></phrase>
@@ -2302,7 +2302,7 @@ Lisätietoja saat meidän <a href="{cookies_link}">evästesivulta</a>.]]></phras
   <phrase title="total_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Vierailijoita yhteensä]]></phrase>
   <phrase title="total_voters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestäjiä yhteensä]]></phrase>
   <phrase title="total_warnings" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Varoituksia yhteensä]]></phrase>
-  <phrase title="totals_may_include_hidden_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Saattaa sisältää näkyvyytensä estäneitä jäseniä.]]></phrase>
+  <phrase title="totals_may_include_hidden_visitors" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Kokonäismäärä saattaa sisältää näkyvyytensä estäneitä jäseniä.]]></phrase>
   <phrase title="totp_enter_secret_into_app_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vaihtoehtoisesti voit syöttää tämän suoraan sovellukseen: {salaisuus}:]]></phrase>
   <phrase title="totp_recieve_codes_via_app_desc" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jos haluat vastaanottaa vahvistuskoodeja puhelinsovelluksen kautta, täytyy sinun on ensin asennettava vahvistuskoodeja luova sovellus, kuten esim. <a href="https://www.authy.com/users" target="_blank">Authy</a> tai <a href="https://support.google.com/accounts/answer/1066447?hl=en" target="_blank">Google Authenticator</a> puhelimeesi.<br />
 <br />
