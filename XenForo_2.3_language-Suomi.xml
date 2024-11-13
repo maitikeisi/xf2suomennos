@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Suomi" date_format="j F Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2030370" export_version="2">
+<language title="Suomi" date_format="j F Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2030470" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Päivä sitten]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuukausi sitten]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kerran]]></phrase>
@@ -1436,6 +1436,14 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="output" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tuloste]]></phrase>
   <phrase title="overview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yleiskatsaus]]></phrase>
   <phrase title="page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivu]]></phrase>
+  <phrase title="page_could_not_be_loaded" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[Sivua ei saatu ladattua]]></phrase>
+  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[Pyydettyä sivua ei saatu ladattua.
+
+<ul>
+	<li>Tarkista internet-yhteytesi toimivuus ja yritä uudelleen.</li>
+	<li>Tietyt selainlaajennukset, kuten mainostenestoon käytettävät laajennukset, saattavat odottamattomasti estää verkkosivujen toiminnan. Kytke ne pois käytöstä ja yritä uudestaan. </li>
+	<li>{title} saattaa olla tilapäisesti saavuttamattomissa. Palaa tarkistamaan tilanne myöhemmin.</li>
+</ul>]]></phrase>
   <phrase title="page_views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivulatauksia]]></phrase>
   <phrase title="pages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuja]]></phrase>
   <phrase title="palette" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Paletti]]></phrase>
