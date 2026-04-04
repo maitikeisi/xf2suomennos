@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Suomi" date_format="j F Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2030770" export_version="2">
+<language title="Suomi" date_format="j F Y" date_short_format="M 'y" date_short_recent_format="M j" time_format="H:i" currency_format="{value}{symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="fi-FI" text_direction="LTR" user_selectable="1" addon_id="XF" base_version_id="2031070" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Päivä sitten]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kuukausi sitten]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kerran]]></phrase>
@@ -463,7 +463,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="cookie_consent.third_party_description_twitch" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Nämä evästeet asettaa <a href="https://www.twitch.tv/p/en/legal/privacy-notice/" target="_blank">Twitch</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_two_checkout" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Nämä evästeet asettaa <a href="https://www.2checkout.com/legal/privacy/" target="_blank">2Checkout</a>, ja niitä voidaan käyttää maksujen käsittelyyn.]]></phrase>
   <phrase title="cookie_consent.third_party_description_vimeo" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Nämä evästeet asettaa <a href="https://vimeo.com/privacy" target="_blank">Vimeo</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
-  <phrase title="cookie_consent.third_party_description_x" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Nämä evästeet asettaa <a href="https://x.com/privacy" target="_blank">X</a>, ja niitä voidaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_x" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Nämä evästeet asettaa <a href="https://x.com/privacy" target="_blank">X</a>, ja niitä saatetaan käyttää upotetun sisällön näyttämiseen.]]></phrase>
   <phrase title="cookie_consent.third_party_description_youtube" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Nämä evästeet asettaa <a href="https://policies.google.com/privacy" target="_blank">YouTube</a>, ja niitä voidaan käyttää analytiikkaan, upotetun sisällön näyttämiseen sekä muihin palvelun määrittämiin tarpeisiin.]]></phrase>
   <phrase title="cookie_consent_configure" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Katso lisätietoja ja määritä asetukset]]></phrase>
   <phrase title="cookie_consent_description" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Käytämme välttämättömiä <a href="{link}">evästeitä</a> sivuston toiminallisuuden mahdollistamiseksi sekä valinnaisia evästeitä parantaaksemme käyttökokemustasi.]]></phrase>
@@ -735,7 +735,6 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="emoji_category.travel" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Matkustus]]></phrase>
   <phrase title="enable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ota käyttöön]]></phrase>
   <phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Ota käyttöön ilmoitukset]]></phrase>
-  <phrase title="enable_email_notification" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Ota sähköposti-ilmoitukset käyttöön]]></phrase>
   <phrase title="enable_moderation" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Ota valvontatyökalut käyttöön]]></phrase>
   <phrase title="enable_notifications" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Ota käyttöön push-ilmoitukset]]></phrase>
   <phrase title="enable_push_explain" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Push-ilmoitusten käyttöönotto edellyttää tuettua laitetta. Push-ilmoitusten ottaminen käyttöön ottaa ne käyttöön vain tällä laitteella. Jos kirjaudut ulos tästä laitteesta, sinun on otettava push-ilmoitukset uudelleen käyttöön.]]></phrase>
@@ -888,7 +887,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="heading_3" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Otsake 3]]></phrase>
   <phrase title="height" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Korkeus]]></phrase>
   <phrase title="help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tuki]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[<p>Tällä sivulla käsitellään evästeiden käyttöä tällä sivustolla. Jos jatkat tämän sivuston käyttöä, hyväksyt evästeiden käytön.</p>
+  <phrase title="help_cookies_description" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[<p>Tällä sivulla käsitellään evästeiden käyttöä tällä sivustolla. Jos jatkat tämän sivuston käyttöä, hyväksyt evästeiden käytön.</p>
 
 <h3 class="textHeading">Mitä evästeet ovat?</h3>
 <p>Evästeet ovat pieniä tekstitiedostoja, jotka verkkoselaimesi tallentaa tietokoneellesi katsomasi sivuston pyynnöstä. Niiden avulla katseltava sivusto voi muistaa sinua koskevia asioita, kuten asetuksesi ja historiasi tai pitää sinut kirjautuneena sisään.</p>
@@ -901,7 +900,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
 <li>Rekisteröintiin ja asetustesi ylläpitoon. Tähän sisältyy sen varmistaminen, että voit pysyä kirjautuneena sisään ja että sivusto pysyy valitsemassasi kielessä tai ulkoasussa.</li>
 <li>Analytiikat. Tämän avulla voimme nähdä miten ihmiset käyttävät sivustoa sekä parantaa sitä.</li>
 <li>Mainosevästeet (mahdollisesti kolmannen osapuolen evästeet). Jos tällä sivustolla näytetään mainoksia, niin mainostajat saattavat asettaa evästeitä tietääkseen kuka on katsonut mainoksen tai muuta vastaavaa. Nämä evästeet voivat olla kolmansien osapuolten asettamia, jolloin tällä sivustolla ei ole mahdollisuutta hallita niitä.</li>
-<li>Muut kolmannen osapuolen evästeet esimerkiksi Facebookin tai Twitterin käyttöä varten. Nämä evästeet asettaa yleensä kolmas osapuoli itsenäisesti, eikä tällä sivustolla ole mahdollisuutta hallita niitä.</li>
+<li>Muut kolmannen osapuolen evästeet esimerkiksi Facebookin, Blyesky:n tai X:n käyttöä varten. Nämä evästeet asettaa yleensä kolmas osapuoli itsenäisesti, eikä tällä sivustolla ole mahdollisuutta hallita niitä.</li>
 </ul>
 
 <h3 class="textHeading">Lisäevästeet ja kolmansien osapuolten asettamat evästeet</h3>
@@ -918,10 +917,10 @@ Evästeiden ja evästeasetusten hallinta on tehtävä selaimesi asetuksista/aset
 
 <ul>
 <li><a href="https://support.microsoft.com/fi-FI/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a></li>
-<li><a href="https://privacy.microsoft.com/fi-FI/windows-10-microsoft-edge-and-privacy" target="_blank">Microsoft Edge</a></li>
+<li><a href="https://support.microsoft.com/fi-fi/microsoft-edge/microsoft-edge-selaustiedot-ja-tietosuoja-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd" target="_blank">Microsoft Edge</a></li>
 <li><a href="https://support.mozilla.org/fi-FI/kb/cookies-information-websites-store-on-your-computer" target="_blank">Mozilla Firefox</a></li>
 <li><a href="https://support.google.com/chrome/answer/95647?hl=fi" target="_blank">Google Chrome</a></li>
-<li><a href="https://support.apple.com/fi-FI/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank">Safari macOS</a></li>
+<li><a href="https://support.apple.com/fi-fi/guide/safari/sfri11471/mac" target="_blank">Safari macOS</a></li>
 <li><a href="https://support.apple.com/fi-fi/HT201265" target="_blank">Safari iOS</a></li>
 </ul>
 
@@ -1438,15 +1437,14 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="output" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tuloste]]></phrase>
   <phrase title="overview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yleiskatsaus]]></phrase>
   <phrase title="page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivu]]></phrase>
-  <phrase title="page_could_not_be_loaded" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Sivua ei saatu ladattua]]></phrase>
-  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Pyydettyä sivua ei saatu ladattua.
+  <phrase title="page_could_not_be_loaded" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Sivua ei voitu ladata]]></phrase>
+  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Pyydettyä sivua ei voitu ladata.
 
 <ul>
-	<li>Tarkista internet-yhteytesi toimivuus ja yritä uudelleen.</li>
-	<li>Tietyt selainlaajennukset, kuten mainostenestoon käytettävät laajennukset, saattavat odottamattomasti estää verkkosivujen toiminnan. Kytke ne pois käytöstä ja yritä uudestaan. </li>
-	<li>{title} saattaa olla tilapäisesti saavuttamattomissa. Yritä uudelleen myöhemmin.</li>
-</ul>
-]]></phrase>
+    <li>Tarkista internetyhteytesi ja yritä uudelleen.</li>
+    <li>Tietyt selainlaajennukset, kuten mainosten estäjät, voivat estää sivujen avaamisen odottamattomasti. Poista ne käytöstä ja yritä uudelleen.</li>
+    <li>{title} ei ehkä ole tilapäisesti käytettävissä. Yritä myöhemmin uudelleen.</li>
+</ul>]]></phrase>
   <phrase title="page_views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivulatauksia]]></phrase>
   <phrase title="pages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sivuja]]></phrase>
   <phrase title="palette" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Paletti]]></phrase>
@@ -1639,10 +1637,10 @@ Ennen kuin sisältösi voidaan julkaista, sinun täytyy kirjautua käyttäjätil
   <phrase title="prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Etuliite]]></phrase>
   <phrase title="prefixes" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Etuliitteet]]></phrase>
   <phrase title="prepared_email_html_footer" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[Tämä viesti lähetettiin sinulle, koska asetuksissasi on valittuna ”Vastaanota uutis- ja päivityssähköposteja”. Jos et halua enää vastaanottaa näitä sähköpostiviestejä, voit <a href="{unsub}">peruuttaa tämän postituslistan tilauksen</a> tai <a href="{unsub_all}">poistaa kaikki sähköpostiviestit käytöstä</a>.]]></phrase>
-  <phrase title="prepared_email_text_footer" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Tämä viesti lähetettiin sinulle, koska asetuksissasi on valittuna ”Vastaanota uutis- ja päivityssähköposteja”. Jos et halua enää vastaanottaa näitä sähköpostiviestejä, voit poistua postituslistalta tai poistaa käytöstä kaikki sähköpostiviestit.
+  <phrase title="prepared_email_text_footer" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Tämä viesti lähetettiin sinulle, koska asetuksissasi on valittuna vaihtoehto ”Vastaanota uutis- ja päivityssähköposteja”. Jos et enää halua vastaanottaa näitä sähköposteja, voit poistua postituslistalta tai poistaa kaikki sähköpostit käytöstä.
 
 Poistu postituslistalta: {unsub}
-Lopeta kaikki sähköposti-ilmoitukset: {unsub_all}]]></phrase>
+Poista kaikki sähköpostit käytöstä: {unsub_all}]]></phrase>
   <phrase title="prev" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Edellinen]]></phrase>
   <phrase title="preview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esikatselu]]></phrase>
   <phrase title="preview_feed_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esikatsele syöte]]></phrase>
@@ -1979,7 +1977,7 @@ Raportoitu sisältö:
   <phrase title="send_direct_message_to_x" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Lähetä yksityisviesti käyttäjälle {name}]]></phrase>
   <phrase title="send_direct_message_to_you" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Lähettää yksityisviesti sinulle]]></phrase>
   <phrase title="send_direct_messages_to_this_user" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Lähetä yksityisviesti tälle käyttäjälle]]></phrase>
-  <phrase title="send_direct_messages_to_you" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Lähettää yksityisviestin sinulle]]></phrase>
+  <phrase title="send_direct_messages_to_you" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Lähettää yksityisviestejä sinulle]]></phrase>
   <phrase title="send_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Lähetä viesti]]></phrase>
   <phrase title="send_notifications_for" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Lähetä ilmoituksia seuraavista]]></phrase>
   <phrase title="send_notifications_via" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Lähetä ilmoitukset]]></phrase>
@@ -2163,7 +2161,7 @@ Käyttäjätilisi päivitetään kun maksu on käsitelty/hyväksytty.]]></phrase
   <phrase title="thank_you_for_your_purchase_questions_contact_us" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Kiitokset ostoksestasi. Jos sinulla on kysyttävää, niin ole hyvä ja ota yhteyttä <a href="{contacturl}">meihin</a>.]]></phrase>
   <phrase title="thanks_creating_account_using_facebook_account_active" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kiitokset käyttäjätilin luomisesta Facebookin avulla. Käyttäjätilisi on nyt aktivoitu.]]></phrase>
   <phrase title="thanks_for_registering_complete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kiitokset rekisteröitymisestä. Käyttäjätilisi on nyt käyttövalmis.]]></phrase>
-  <phrase title="thanks_for_registering_registration_must_be_approved" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Kiitokset rekisteröitymisestä. Ylläpidon täytyy vielä hyväksyä rekisteröitymisesi. Saat ilmoituksen sähköpostiisi, kun päätös on tehty.]]></phrase>
+  <phrase title="thanks_for_registering_registration_must_be_approved" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Kiitokset rekisteröitymisestä. Ylläpidon täytyy vielä hyväksyä rekisteröitymisesi. Saat ilmoituksen sähköpostiisi, kun päätös on tehty.]]></phrase>
   <phrase title="thanks_for_registering_to_complete_registration_follow_link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kiitokset rekisteröitymisestä. Sähköpostiisi on lähetetty varmistusviesti, josta löytyy linkki käyttäjätilin aktivoimiseksi.]]></phrase>
   <phrase title="thanks_for_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kiitokset ostoksesta!]]></phrase>
   <phrase title="the_chosen_password_could_be_stronger" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Valittu salasana voisi olla vahvempi.]]></phrase>
@@ -2314,11 +2312,11 @@ Lisätietoja saat meidän <a href="{cookies_link}">evästesivulta</a>.]]></phras
   <phrase title="total_voters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Äänestäjiä yhteensä]]></phrase>
   <phrase title="total_warnings" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Varoituksia yhteensä]]></phrase>
   <phrase title="totals_may_include_hidden_visitors" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Kokonäismäärä saattaa sisältää näkyvyytensä estäneitä jäseniä.]]></phrase>
-  <phrase title="totp_enter_secret_into_app_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Vaihtoehtoisesti voit syöttää tämän suoraan sovellukseen: {salaisuus}:]]></phrase>
-  <phrase title="totp_recieve_codes_via_app_desc" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jos haluat vastaanottaa vahvistuskoodeja puhelinsovelluksen kautta, täytyy sinun on ensin asennettava vahvistuskoodeja luova sovellus, kuten esim. <a href="https://www.authy.com/users" target="_blank">Authy</a> tai <a href="https://support.google.com/accounts/answer/1066447?hl=en" target="_blank">Google Authenticator</a> puhelimeesi.<br />
+  <phrase title="totp_enter_secret_into_app_x" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Vaihtoehtoisesti voit syöttää tämän suoraan sovellukseen: {secret}]]></phrase>
+  <phrase title="totp_recieve_codes_via_app_desc" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Jos haluat vastaanottaa vahvistuskoodeja puhelinsovelluksen kautta, täytyy sinun on ensin asennettava vahvistuskoodeja luova sovellus, kuten esim. <a href="https://www.authy.com" target="_blank">Authy</a> tai <a href="https://support.google.com/accounts/answer/1066447?hl=fi" target="_blank">Google Authenticator</a> puhelimeesi.<br />
 <br />
 Kun olet tehnyt tämän, sinun on skannattava alla oleva QR-koodi sovellukseen ja kirjoittaa saamasi sovelluksen luoma koodi alle.]]></phrase>
-  <phrase title="totp_this_will_regenerate_secret" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Tämä luo uuden salausavaimen jota käytetään tunnistukseen jotta voit siirtää tiedot uuteen laitteeseen. Tämän jälkeen koodit, jotka tehdään vanhalla salausavaimella, eivät enää toimi.]]></phrase>
+  <phrase title="totp_this_will_regenerate_secret" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[ Tämä luo uuden salausavaimen, jota käytetään tunnistautumiseen, kun tiedot siirretään uuteen laitteeseen. Kun tämä on tehty, vanhalla salausavaimella luodut koodit eivät enää toimi. ]]></phrase>
   <phrase title="trending_content" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Ajankohtainen sisältö]]></phrase>
   <phrase title="trophies" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Aktiivisuuspalkinnot]]></phrase>
   <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2030052" version_string="2.3.0 Release Candidate 2"><![CDATA[Jäsenelle {name} myönnetyt aktiivisuuspalkinnot]]></phrase>
@@ -2537,7 +2535,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="view_your_backup_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Näytä varakoodisi]]></phrase>
   <phrase title="view_your_content" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Näytä sisältösi]]></phrase>
   <phrase title="view_your_details_on_your_profile_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Nähdä profiilisivusi]]></phrase>
-  <phrase title="view_your_identities" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Liitetyt käyttäjätilisi]]></phrase>
+  <phrase title="view_your_identities" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Nähdä liitetyt käyttäjätilisi]]></phrase>
   <phrase title="viewing_an_error" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa virhettä]]></phrase>
   <phrase title="viewing_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Katsomassa kategoriaa]]></phrase>
   <phrase title="viewing_direct_messages" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Selaamassa yksityisviestejä]]></phrase>
@@ -2823,7 +2821,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="your_account_has_been_rejected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjätilisi on hylätty.]]></phrase>
   <phrase title="your_account_has_been_rejected_for_following_reason_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Käyttäjätilisi on hylätty. Syy: {reason}.]]></phrase>
   <phrase title="your_account_has_temporarily_been_locked_due_to_failed_login_attempts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Käyttäjätili on väliaikaisesti lukittu liian monen väärän kirjautumisyrityksen vuoksi.]]></phrase>
-  <phrase title="your_account_is_currently_awaiting_approval_by_administrator" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Käyttäjätilisi odottaa ylläpidon hyväksyntää. Ilmoitamme sähköpostitse kun päätös on tehty.]]></phrase>
+  <phrase title="your_account_is_currently_awaiting_approval_by_administrator" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Käyttäjätilisi odottaa ylläpidon hyväksyntää. Saat ilmoituksen sähköpostiisi, kun päätös on tehty.]]></phrase>
   <phrase title="your_account_is_currently_awaiting_confirmation_confirmation_sent_to_x" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Käyttäjätilisi odottaa vahvistusta. Vahvistus lähetettiin osoitteeseen {email}.]]></phrase>
   <phrase title="your_account_is_currently_security_locked" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Käyttäjätilisi on tällä hetkellä suljettu turvallisuuden takia.]]></phrase>
   <phrase title="your_account_is_currently_security_locked_and_awaiting_password_reset" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Käyttäjätilisi on lukittu turvallisuuden takia ja vaatii salasanan nollaamista. Viesti lähetetty osoitteeseen {email}<br />
@@ -2847,7 +2845,7 @@ Kaksivaiheinen tunnistautuminen lisää käyttäjätilisi turvallisuutta vaatima
   <phrase title="your_email_could_not_be_confirmed_use_resend" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Sähköpostiosoitettasi ei voitu vahvistaa. Ole hyvä ja käytä vahvistusviestin uudelleenlähetystä ja seuraa ohjeita.]]></phrase>
   <phrase title="your_email_has_been_confirmed_and_your_account_is_now_fully_active_again" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Sähköpostiosoitteesi on vahvistettu ja käyttäjätilisi on jälleen käytettävissä.]]></phrase>
   <phrase title="your_email_has_been_confirmed_and_your_registration_is_now_complete" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Sähköpostiosoitteesi on vahvistettu ja rekisteröityminen on nyt valmis.]]></phrase>
-  <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="2030770" version_string="2.3.7"><![CDATA[Sähköpostiosoitteesi on vahvistettu. Ylläpidon täytyy vielä hyväksyä rekisteröitymisesi ennen kuin tilisi aktivoidaan. Saat ilmoituksen sähköpostiisi kun päätös on tehty.]]></phrase>
+  <phrase title="your_email_has_been_confirmed_registration_must_be_approved" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Sähköpostiosoitteesi on vahvistettu. Ylläpidon täytyy vielä hyväksyä rekisteröitymisesi ennen kuin tilisi aktivoidaan. Saat ilmoituksen sähköpostiisi, kun päätös on tehty.]]></phrase>
   <phrase title="your_email_may_not_be_changed_at_this_time" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiosoitettasi ei voi vaihtaa tällä hetkellä.]]></phrase>
   <phrase title="your_email_notification_selections_have_been_updated" addon_id="XF" version_id="2010170" version_string="2.1.1"><![CDATA[Sähköpostiviesti-ilmoitusten valinnat päivitetty.]]></phrase>
   <phrase title="your_email_was_sent_to_x_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sähköpostisi lähetettiin {sent} käyttäjälle.]]></phrase>
