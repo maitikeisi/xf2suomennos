@@ -142,6 +142,7 @@
   <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Liitetiedostot]]></phrase>
   <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Yritykset lähettää sähköposteja osoitteeseen {email} ovat epäonnistuneet. Ole hyvä ja päivitä sähköpostiosoitteesi.]]></phrase>
   <phrase title="author" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tekijä]]></phrase>
+  <phrase title="authorize_access_to_your_account" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Valtuuta pääsy tilillesi]]></phrase>
   <phrase title="authy_denied" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Hyväksymispyyntö hylättiin joten emme voi kirjata sinua sisään tällä hetkellä.]]></phrase>
   <phrase title="authy_success" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Hyväksymispyyntö onnistui ja sinut on kirjattu sisään.]]></phrase>
   <phrase title="automatically_watch_content_you_create" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aseta luomasi sisältö seuratuksi]]></phrase>
@@ -471,6 +472,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="cookie_consent_label" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Evästeet]]></phrase>
   <phrase title="cookie_third_parties" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Kolmansien osapuolten evästeet]]></phrase>
   <phrase title="cookies_required_to_use_this_site" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Tämän sivuston käyttäminen edellyttää evästeitä. Sinun on hyväksyttävä ne jatkaaksesi sivuston käyttöä.]]></phrase>
+  <phrase title="copy_embed_code_html" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[ Kopioi upotuskoodi (HTML) ]]></phrase>
   <phrase title="copy_link" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Kopioi linkki]]></phrase>
   <phrase title="copy_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kopioi viestit]]></phrase>
   <phrase title="copy_settings_from" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kopioi asetukset:]]></phrase>
