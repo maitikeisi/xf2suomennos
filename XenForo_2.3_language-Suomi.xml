@@ -655,7 +655,7 @@ Rikas muotoilu rivikoodiosioissa [ICODE=rich]on [COLOR=red]myös[/COLOR] [U]mahd
   <phrase title="draft_saved_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luonnos tallenettu onnistuneesti.]]></phrase>
   <phrase title="drafts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Luonnokset]]></phrase>
   <phrase title="drag_icon_to_rearrange_messages" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[ Raahaa ikoni järjestääksesi viestit uudelleen. ]]></phrase>
-  <phrase title="drag_this_image_to_crop_it_then_click_update_avatar_to_confirm" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Rajaa avatar haluamaksesi vetämällä kuvaa ja klikkaa <i>Ok</i> varmistaaksesi valinta tai lataa uusi avatar.]]></phrase>
+  <phrase title="drag_this_image_to_crop_it_then_click_update_avatar_to_confirm" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Vedä kuvaa rajataksesi sitä ja vahvista valinta painamalla <i>Ok</i>, tai lataa uusi avatar alta.]]></phrase>
   <phrase title="drop_image" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Pudota kuva]]></phrase>
   <phrase title="drop_video" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Pudota video]]></phrase>
   <phrase title="earliest" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Varhaisin]]></phrase>
@@ -952,7 +952,7 @@ Jos haluat lisätietoja evästeistä ja lisätietoja tietyntyyppisten evästeide
   <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Jos olet unohtanut salasanasi, voit nollata sen tästä. Ohjeet lähetetään sähköpostiisi.]]></phrase>
   <phrase title="if_selected_any_existing_last_edited_note_will_be_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jos valittu, niin viestissä mahdollisesti oleva "viimeksi muokattu"-teksti poistetaan.]]></phrase>
   <phrase title="if_selected_no_last_edited_note_will_be_added_for_this_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jos valittu, niin "viimeksi muokattu" tekstiä ei lisätä tämän muokkauksen yhteydessä.]]></phrase>
-  <phrase title="if_specified_replace_title_that_displays_under_name_in_posts" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Jos tämä on määritetty, se korvaa tittelin, joka näytetään käyttäjänimesi alla viesteissäsi.]]></phrase>
+  <phrase title="if_specified_replace_title_that_displays_under_name_in_posts" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Jos tämä asetus määritetään, se korvaa tittelin, joka näkyy käyttäjänimesi alla viesteissäsi.]]></phrase>
   <phrase title="if_you_change_your_email_you_may_need_to_reconfirm_your_account" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Jos vaihdat sähköpostiosoitteesi, sinun on ehkä vahvistettava tilisi uudelleen.]]></phrase>
   <phrase title="if_you_have_not_been_prompted_automatically_to_create_passkey_for_this" addon_id="XF" version_id="2030033" version_string="2.3.0 Beta 3"><![CDATA[Jos sinua ei ole pyydetty automaattisesti luomaan todentamisavainta tälle laitteelle, aloita napsauttamalla alla olevaa "Lisää"-painiketta. Kun olet luonut avaimen, anna sille nimi ja klikkaa "Tallenna".]]></phrase>
   <phrase title="if_you_leave_these_values_blank_feature_will_automatically_derive_them" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Jos jätät nämä arvot tyhjiksi, näyteikkunan sisältö luodaan automaattisesti sisällöstä.]]></phrase>
@@ -1832,6 +1832,7 @@ Poista kaikki sähköpostit käytöstä: {unsub_all}]]></phrase>
   <phrase title="rejected_user_log" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Hylättyjen käyttäjien loki]]></phrase>
   <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Hylättyjä käyttäjiä ei poisteta vaan ne asetetaan 'hylätyksi'. Mikäli hylkäämisen syy on määritelty, niin se näytetään käyttäjälle seuraavan kirjautumisen yhteydessä.]]></phrase>
   <phrase title="release_to_refresh" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Vapauta päivittääksesi]]></phrase>
+  <phrase title="relevance" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Relevanssi]]></phrase>
   <phrase title="remove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista]]></phrase>
   <phrase title="remove_avatars" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista avatarit]]></phrase>
   <phrase title="remove_formatting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Poista muotoilu]]></phrase>
@@ -2235,9 +2236,9 @@ Jatkamalla tämän sivuston käyttöä hyväksyt evästeiden käytön.]]></phras
   <phrase title="this_user_still_able_to_view_thread_not_reply" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Käyttäjä voi edelleen katsella tätä viestiketjua, mutta ei voi vastata siihen ennen kuin kielto päättyy.]]></phrase>
   <phrase title="this_user_will_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä käyttäjä poistetaan.]]></phrase>
   <phrase title="this_users_profile_is_not_available" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Tämän käyttäjän profiili ei ole käytettävissä.]]></phrase>
-  <phrase title="this_will_allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämän perusteella muut näkevät mitä sivua olet katsomassa.]]></phrase>
+  <phrase title="this_will_allow_other_people_to_see_what_page_you_currently_viewing" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Tämä sallii muiden näkevän mitä sivua olet katsomassa.]]></phrase>
   <phrase title="this_will_allow_other_people_to_see_when_you_online" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä mahdollistaa sen, että muut voivat nähdä milloin olet paikalla.]]></phrase>
-  <phrase title="this_will_allow_people_to_see_your_age" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämän perusteella muut näkevät ikäsi.]]></phrase>
+  <phrase title="this_will_allow_people_to_see_your_age" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[ Tämä sallii muiden nähdä ikäsi.]]></phrase>
   <phrase title="this_will_be_shown_to_user_if_provided" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä viesti näytetään käyttäjälle.]]></phrase>
   <phrase title="this_will_be_shown_to_user_if_you_choose_to_notify_them" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tämä näytetään käyttäjälle jos valitset, että hänelle ilmoitetaan vastauskiellosta.]]></phrase>
   <phrase title="this_will_be_visible_to_anyone_who_can_see_content_for_warning" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Tämä näkyy kaikille käyttäjille joilla on oikeus nähdä varoitetun julkaisun sisältö.]]></phrase>
@@ -2631,6 +2632,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="widget_def.online_statistics" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Paikallaolotilastot]]></phrase>
   <phrase title="widget_def.share_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jaa tämä sivu]]></phrase>
   <phrase title="widget_def.thread_poll" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Äänestysketjut]]></phrase>
+  <phrase title="widget_def.trending_content" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Suosittu sisältö]]></phrase>
   <phrase title="width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Leveys]]></phrase>
   <phrase title="with_people" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Osallistujat]]></phrase>
   <phrase title="with_selected" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Valituilla]]></phrase>
@@ -2716,7 +2718,7 @@ Tämän jälkeen Authy luo sinulle koodin joka sinun täytyy syöttää alle var
   <phrase title="you_are_ignoring_content_by_this_member" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Olet piilottanut tämän jäsenen tekemän sisällön.]]></phrase>
   <phrase title="you_are_no_longer_able_to_reply_thread_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Et voi enää vastata viestiketjuun {title}.]]></phrase>
   <phrase title="you_are_using_out_of_date_browser_upgrade" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Käytät vanhentunutta selainta. Selaimesi ei mahdollisesti näytä tätä tai muita sivustoja oikein. Sinun tulisi päivittää selaimesi tai käyttää <a href="https://www.google.com/chrome/" target="_blank" rel="noopener">vaihtoehtoista selainta.</a>.]]></phrase>
-  <phrase title="you_can_drag_image_to_change_focal_point_of_banner_explain" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Voit vetää kuvaa vaihtaaksesi bannerin kohdistusta. Paina ok vahvistaaksesi muutos,.]]></phrase>
+  <phrase title="you_can_drag_image_to_change_focal_point_of_banner_explain" addon_id="XF" version_id="2031070" version_string="2.3.10"><![CDATA[Voit muuttaa bannerin painopistettä vetämällä kuvaa ja vahvistaa valinnan napsauttamalla OK. ]]></phrase>
   <phrase title="you_can_not_send_direct_message_to_following_users_because_of_privacy" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Et voi lähettää yksityisviestiä seuraaville käyttäjille heidän yksityisyysasetustensa vuoksi: {usernames}.]]></phrase>
   <phrase title="you_cannot_delete_your_own_account" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[Et voi poistaa omaa käyttäjätiliäsi.]]></phrase>
   <phrase title="you_cannot_reassign_this_report_to_this_user" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Et voi siirtää tätä raporttia kyseisellä käyttäjälle.]]></phrase>
